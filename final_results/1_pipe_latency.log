@@ -1,0 +1,3000 @@
+
+starting iteration 0
+
+the time taken for string with 1 bytes is	Mono 0, 72296	CPU 0, 27844 
+the time taken for string with 2 bytes is	Mono 0, 77414	CPU 0, 26177 
+the time taken for string with 4 bytes is	Mono 0, 77621	CPU 0, 26273 
+the time taken for string with 16 bytes is	Mono 0, 77489	CPU 0, 26078 
+the time taken for string with 64 bytes is	Mono 0, 77821	CPU 0, 26180 
+the time taken for string with 256 bytes is	Mono 0, 79018	CPU 0, 26939 
+the time taken for string with 1024 bytes is	Mono 0, 79585	CPU 0, 26777 
+the time taken for string with 4096 bytes is	Mono 0, 82732	CPU 0, 20414 
+the time taken for string with 16384 bytes is	Mono 0, 68657	CPU 0, 10964 
+the time taken for string with 65536 bytes is	Mono 0, 197676	CPU 0, 29693 
+the time taken for string with 262144 bytes is	Mono 0, 1135311	CPU 0, 291299 
+the time taken for string with 524288 bytes is	Mono 0, 1757440	CPU 0, 321513 
+
+starting iteration 1
+
+the time taken for string with 1 bytes is	Mono 0, 4157	CPU 0, 3136 
+the time taken for string with 2 bytes is	Mono 0, 3914	CPU 0, 2756 
+the time taken for string with 4 bytes is	Mono 0, 3719	CPU 0, 2600 
+the time taken for string with 16 bytes is	Mono 0, 3818	CPU 0, 2646 
+the time taken for string with 64 bytes is	Mono 0, 3849	CPU 0, 2606 
+the time taken for string with 256 bytes is	Mono 0, 4348	CPU 0, 2649 
+the time taken for string with 1024 bytes is	Mono 0, 6249	CPU 0, 2810 
+the time taken for string with 4096 bytes is	Mono 0, 13900	CPU 0, 3282 
+the time taken for string with 16384 bytes is	Mono 0, 45773	CPU 0, 6181 
+the time taken for string with 65536 bytes is	Mono 0, 172459	CPU 0, 17158 
+the time taken for string with 262144 bytes is	Mono 0, 700311	CPU 0, 70584 
+the time taken for string with 524288 bytes is	Mono 0, 1402575	CPU 0, 139199 
+
+starting iteration 2
+
+the time taken for string with 1 bytes is	Mono 0, 3886	CPU 0, 2668 
+the time taken for string with 2 bytes is	Mono 0, 3783	CPU 0, 2661 
+the time taken for string with 4 bytes is	Mono 0, 3808	CPU 0, 2655 
+the time taken for string with 16 bytes is	Mono 0, 3759	CPU 0, 2643 
+the time taken for string with 64 bytes is	Mono 0, 3880	CPU 0, 2628 
+the time taken for string with 256 bytes is	Mono 0, 4349	CPU 0, 2635 
+the time taken for string with 1024 bytes is	Mono 0, 6275	CPU 0, 2800 
+the time taken for string with 4096 bytes is	Mono 0, 14470	CPU 0, 3405 
+the time taken for string with 16384 bytes is	Mono 0, 46745	CPU 0, 7368 
+the time taken for string with 65536 bytes is	Mono 0, 172591	CPU 0, 17195 
+the time taken for string with 262144 bytes is	Mono 0, 700431	CPU 0, 70364 
+the time taken for string with 524288 bytes is	Mono 0, 1416269	CPU 0, 152793 
+
+starting iteration 3
+
+the time taken for string with 1 bytes is	Mono 0, 5573	CPU 0, 3797 
+the time taken for string with 2 bytes is	Mono 0, 17366	CPU 0, 2855 
+the time taken for string with 4 bytes is	Mono 0, 17590	CPU 0, 2796 
+the time taken for string with 16 bytes is	Mono 0, 17615	CPU 0, 2822 
+the time taken for string with 64 bytes is	Mono 0, 17667	CPU 0, 2837 
+the time taken for string with 256 bytes is	Mono 0, 18049	CPU 0, 2802 
+the time taken for string with 1024 bytes is	Mono 0, 19918	CPU 0, 2949 
+the time taken for string with 4096 bytes is	Mono 0, 28211	CPU 0, 3402 
+the time taken for string with 16384 bytes is	Mono 0, 60063	CPU 0, 6178 
+the time taken for string with 65536 bytes is	Mono 0, 175602	CPU 0, 17120 
+the time taken for string with 262144 bytes is	Mono 0, 1039181	CPU 0, 348461 
+the time taken for string with 524288 bytes is	Mono 0, 1696111	CPU 0, 403929 
+
+starting iteration 4
+
+the time taken for string with 1 bytes is	Mono 0, 4402	CPU 0, 3391 
+the time taken for string with 2 bytes is	Mono 0, 3905	CPU 0, 2813 
+the time taken for string with 4 bytes is	Mono 0, 3758	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3788	CPU 0, 2677 
+the time taken for string with 64 bytes is	Mono 0, 4431	CPU 0, 2783 
+the time taken for string with 256 bytes is	Mono 0, 4437	CPU 0, 2824 
+the time taken for string with 1024 bytes is	Mono 0, 6249	CPU 0, 2862 
+the time taken for string with 4096 bytes is	Mono 0, 13953	CPU 0, 3345 
+the time taken for string with 16384 bytes is	Mono 0, 46017	CPU 0, 6402 
+the time taken for string with 65536 bytes is	Mono 0, 172629	CPU 0, 17161 
+the time taken for string with 262144 bytes is	Mono 0, 766429	CPU 0, 118677 
+the time taken for string with 524288 bytes is	Mono 0, 1487566	CPU 0, 226848 
+
+starting iteration 5
+
+the time taken for string with 1 bytes is	Mono 0, 4266	CPU 0, 2613 
+the time taken for string with 2 bytes is	Mono 0, 3400	CPU 0, 2443 
+the time taken for string with 4 bytes is	Mono 0, 3366	CPU 0, 2369 
+the time taken for string with 16 bytes is	Mono 0, 3495	CPU 0, 2475 
+the time taken for string with 64 bytes is	Mono 0, 3485	CPU 0, 2385 
+the time taken for string with 256 bytes is	Mono 0, 3955	CPU 0, 2431 
+the time taken for string with 1024 bytes is	Mono 0, 5924	CPU 0, 2606 
+the time taken for string with 4096 bytes is	Mono 0, 13567	CPU 0, 3038 
+the time taken for string with 16384 bytes is	Mono 0, 46843	CPU 0, 6046 
+the time taken for string with 65536 bytes is	Mono 0, 172096	CPU 0, 16980 
+the time taken for string with 262144 bytes is	Mono 0, 779520	CPU 0, 66562 
+the time taken for string with 524288 bytes is	Mono 0, 1467828	CPU 0, 205556 
+
+starting iteration 6
+
+the time taken for string with 1 bytes is	Mono 0, 4025	CPU 0, 2831 
+the time taken for string with 2 bytes is	Mono 0, 3812	CPU 0, 2769 
+the time taken for string with 4 bytes is	Mono 0, 3771	CPU 0, 2673 
+the time taken for string with 16 bytes is	Mono 0, 3838	CPU 0, 2724 
+the time taken for string with 64 bytes is	Mono 0, 3896	CPU 0, 2665 
+the time taken for string with 256 bytes is	Mono 0, 4331	CPU 0, 2668 
+the time taken for string with 1024 bytes is	Mono 0, 6265	CPU 0, 2830 
+the time taken for string with 4096 bytes is	Mono 0, 13997	CPU 0, 3341 
+the time taken for string with 16384 bytes is	Mono 0, 45592	CPU 0, 6199 
+the time taken for string with 65536 bytes is	Mono 0, 173632	CPU 0, 17075 
+the time taken for string with 262144 bytes is	Mono 0, 697874	CPU 0, 70048 
+the time taken for string with 524288 bytes is	Mono 0, 1403074	CPU 0, 138438 
+
+starting iteration 7
+
+the time taken for string with 1 bytes is	Mono 0, 4476	CPU 0, 2772 
+the time taken for string with 2 bytes is	Mono 0, 3712	CPU 0, 2622 
+the time taken for string with 4 bytes is	Mono 0, 3699	CPU 0, 2602 
+the time taken for string with 16 bytes is	Mono 0, 3846	CPU 0, 2705 
+the time taken for string with 64 bytes is	Mono 0, 3856	CPU 0, 2647 
+the time taken for string with 256 bytes is	Mono 0, 4289	CPU 0, 2663 
+the time taken for string with 1024 bytes is	Mono 0, 6318	CPU 0, 2848 
+the time taken for string with 4096 bytes is	Mono 0, 13952	CPU 0, 3322 
+the time taken for string with 16384 bytes is	Mono 0, 45671	CPU 0, 6159 
+the time taken for string with 65536 bytes is	Mono 0, 172584	CPU 0, 17268 
+the time taken for string with 262144 bytes is	Mono 0, 699646	CPU 0, 69892 
+the time taken for string with 524288 bytes is	Mono 0, 1401103	CPU 0, 138369 
+
+starting iteration 8
+
+the time taken for string with 1 bytes is	Mono 0, 3823	CPU 0, 2624 
+the time taken for string with 2 bytes is	Mono 0, 3739	CPU 0, 2621 
+the time taken for string with 4 bytes is	Mono 0, 3734	CPU 0, 2596 
+the time taken for string with 16 bytes is	Mono 0, 3771	CPU 0, 2660 
+the time taken for string with 64 bytes is	Mono 0, 3842	CPU 0, 2633 
+the time taken for string with 256 bytes is	Mono 0, 4355	CPU 0, 2698 
+the time taken for string with 1024 bytes is	Mono 0, 6904	CPU 0, 3021 
+the time taken for string with 4096 bytes is	Mono 0, 14017	CPU 0, 3442 
+the time taken for string with 16384 bytes is	Mono 0, 45647	CPU 0, 6130 
+the time taken for string with 65536 bytes is	Mono 0, 172344	CPU 0, 16951 
+the time taken for string with 262144 bytes is	Mono 0, 699790	CPU 0, 69781 
+the time taken for string with 524288 bytes is	Mono 0, 1402545	CPU 0, 138515 
+
+starting iteration 9
+
+the time taken for string with 1 bytes is	Mono 0, 4124	CPU 0, 2816 
+the time taken for string with 2 bytes is	Mono 0, 3752	CPU 0, 2716 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2627 
+the time taken for string with 16 bytes is	Mono 0, 3835	CPU 0, 2712 
+the time taken for string with 64 bytes is	Mono 0, 3758	CPU 0, 2590 
+the time taken for string with 256 bytes is	Mono 0, 4132	CPU 0, 2476 
+the time taken for string with 1024 bytes is	Mono 0, 6044	CPU 0, 2631 
+the time taken for string with 4096 bytes is	Mono 0, 13733	CPU 0, 3102 
+the time taken for string with 16384 bytes is	Mono 0, 45646	CPU 0, 6083 
+the time taken for string with 65536 bytes is	Mono 0, 174742	CPU 0, 16804 
+the time taken for string with 262144 bytes is	Mono 0, 765288	CPU 0, 64504 
+the time taken for string with 524288 bytes is	Mono 0, 1405490	CPU 0, 144009 
+
+starting iteration 10
+
+the time taken for string with 1 bytes is	Mono 0, 5507	CPU 0, 4250 
+the time taken for string with 2 bytes is	Mono 0, 3783	CPU 0, 2697 
+the time taken for string with 4 bytes is	Mono 0, 3723	CPU 0, 2666 
+the time taken for string with 16 bytes is	Mono 0, 3807	CPU 0, 2663 
+the time taken for string with 64 bytes is	Mono 0, 3876	CPU 0, 2651 
+the time taken for string with 256 bytes is	Mono 0, 4331	CPU 0, 2664 
+the time taken for string with 1024 bytes is	Mono 0, 6258	CPU 0, 2802 
+the time taken for string with 4096 bytes is	Mono 0, 13937	CPU 0, 3294 
+the time taken for string with 16384 bytes is	Mono 0, 45867	CPU 0, 6377 
+the time taken for string with 65536 bytes is	Mono 0, 172305	CPU 0, 17063 
+the time taken for string with 262144 bytes is	Mono 0, 758307	CPU 0, 132770 
+the time taken for string with 524288 bytes is	Mono 0, 1519177	CPU 0, 260836 
+
+starting iteration 11
+
+the time taken for string with 1 bytes is	Mono 0, 5476	CPU 0, 4363 
+the time taken for string with 2 bytes is	Mono 0, 4082	CPU 0, 3079 
+the time taken for string with 4 bytes is	Mono 0, 3697	CPU 0, 2683 
+the time taken for string with 16 bytes is	Mono 0, 3849	CPU 0, 2667 
+the time taken for string with 64 bytes is	Mono 0, 3911	CPU 0, 2735 
+the time taken for string with 256 bytes is	Mono 0, 4352	CPU 0, 2671 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2835 
+the time taken for string with 4096 bytes is	Mono 0, 13902	CPU 0, 3334 
+the time taken for string with 16384 bytes is	Mono 0, 46059	CPU 0, 6484 
+the time taken for string with 65536 bytes is	Mono 0, 172728	CPU 0, 17409 
+the time taken for string with 262144 bytes is	Mono 0, 830870	CPU 0, 91155 
+the time taken for string with 524288 bytes is	Mono 0, 1737459	CPU 0, 317928 
+
+starting iteration 12
+
+the time taken for string with 1 bytes is	Mono 0, 4289	CPU 0, 2704 
+the time taken for string with 2 bytes is	Mono 0, 17773	CPU 0, 2868 
+the time taken for string with 4 bytes is	Mono 0, 17384	CPU 0, 2838 
+the time taken for string with 16 bytes is	Mono 0, 17605	CPU 0, 2823 
+the time taken for string with 64 bytes is	Mono 0, 17691	CPU 0, 2869 
+the time taken for string with 256 bytes is	Mono 0, 18082	CPU 0, 2873 
+the time taken for string with 1024 bytes is	Mono 0, 20224	CPU 0, 2979 
+the time taken for string with 4096 bytes is	Mono 0, 27481	CPU 0, 3458 
+the time taken for string with 16384 bytes is	Mono 0, 59811	CPU 0, 6122 
+the time taken for string with 65536 bytes is	Mono 0, 172930	CPU 0, 16885 
+the time taken for string with 262144 bytes is	Mono 0, 747710	CPU 0, 67467 
+the time taken for string with 524288 bytes is	Mono 0, 1520162	CPU 0, 134793 
+
+starting iteration 13
+
+the time taken for string with 1 bytes is	Mono 0, 4514	CPU 0, 2765 
+the time taken for string with 2 bytes is	Mono 0, 3886	CPU 0, 2772 
+the time taken for string with 4 bytes is	Mono 0, 3727	CPU 0, 2666 
+the time taken for string with 16 bytes is	Mono 0, 3884	CPU 0, 2662 
+the time taken for string with 64 bytes is	Mono 0, 3845	CPU 0, 2591 
+the time taken for string with 256 bytes is	Mono 0, 4319	CPU 0, 2623 
+the time taken for string with 1024 bytes is	Mono 0, 6236	CPU 0, 2785 
+the time taken for string with 4096 bytes is	Mono 0, 13893	CPU 0, 3220 
+the time taken for string with 16384 bytes is	Mono 0, 45774	CPU 0, 6162 
+the time taken for string with 65536 bytes is	Mono 0, 172433	CPU 0, 16988 
+the time taken for string with 262144 bytes is	Mono 0, 700997	CPU 0, 70504 
+the time taken for string with 524288 bytes is	Mono 0, 1403028	CPU 0, 139535 
+
+starting iteration 14
+
+the time taken for string with 1 bytes is	Mono 0, 4010	CPU 0, 2823 
+the time taken for string with 2 bytes is	Mono 0, 3548	CPU 0, 2409 
+the time taken for string with 4 bytes is	Mono 0, 3656	CPU 0, 2462 
+the time taken for string with 16 bytes is	Mono 0, 3559	CPU 0, 2456 
+the time taken for string with 64 bytes is	Mono 0, 3688	CPU 0, 2464 
+the time taken for string with 256 bytes is	Mono 0, 4132	CPU 0, 2457 
+the time taken for string with 1024 bytes is	Mono 0, 6095	CPU 0, 2617 
+the time taken for string with 4096 bytes is	Mono 0, 14331	CPU 0, 3328 
+the time taken for string with 16384 bytes is	Mono 0, 45695	CPU 0, 6268 
+the time taken for string with 65536 bytes is	Mono 0, 172200	CPU 0, 16905 
+the time taken for string with 262144 bytes is	Mono 0, 747898	CPU 0, 119101 
+the time taken for string with 524288 bytes is	Mono 0, 1401624	CPU 0, 138769 
+
+starting iteration 15
+
+the time taken for string with 1 bytes is	Mono 0, 3999	CPU 0, 2745 
+the time taken for string with 2 bytes is	Mono 0, 3693	CPU 0, 2604 
+the time taken for string with 4 bytes is	Mono 0, 3770	CPU 0, 2619 
+the time taken for string with 16 bytes is	Mono 0, 3826	CPU 0, 2669 
+the time taken for string with 64 bytes is	Mono 0, 3809	CPU 0, 2602 
+the time taken for string with 256 bytes is	Mono 0, 4300	CPU 0, 2667 
+the time taken for string with 1024 bytes is	Mono 0, 6236	CPU 0, 2784 
+the time taken for string with 4096 bytes is	Mono 0, 13944	CPU 0, 3295 
+the time taken for string with 16384 bytes is	Mono 0, 45959	CPU 0, 6442 
+the time taken for string with 65536 bytes is	Mono 0, 173900	CPU 0, 17099 
+the time taken for string with 262144 bytes is	Mono 0, 697821	CPU 0, 69629 
+the time taken for string with 524288 bytes is	Mono 0, 1538127	CPU 0, 228524 
+
+starting iteration 16
+
+the time taken for string with 1 bytes is	Mono 0, 3838	CPU 0, 2657 
+the time taken for string with 2 bytes is	Mono 0, 3702	CPU 0, 2575 
+the time taken for string with 4 bytes is	Mono 0, 3702	CPU 0, 2605 
+the time taken for string with 16 bytes is	Mono 0, 3736	CPU 0, 2658 
+the time taken for string with 64 bytes is	Mono 0, 3827	CPU 0, 2619 
+the time taken for string with 256 bytes is	Mono 0, 4350	CPU 0, 2672 
+the time taken for string with 1024 bytes is	Mono 0, 6200	CPU 0, 2807 
+the time taken for string with 4096 bytes is	Mono 0, 13934	CPU 0, 3336 
+the time taken for string with 16384 bytes is	Mono 0, 45727	CPU 0, 6193 
+the time taken for string with 65536 bytes is	Mono 0, 172456	CPU 0, 17204 
+the time taken for string with 262144 bytes is	Mono 0, 699729	CPU 0, 70625 
+the time taken for string with 524288 bytes is	Mono 0, 1401534	CPU 0, 138526 
+
+starting iteration 17
+
+the time taken for string with 1 bytes is	Mono 0, 3874	CPU 0, 2734 
+the time taken for string with 2 bytes is	Mono 0, 3685	CPU 0, 2608 
+the time taken for string with 4 bytes is	Mono 0, 3701	CPU 0, 2633 
+the time taken for string with 16 bytes is	Mono 0, 4386	CPU 0, 2810 
+the time taken for string with 64 bytes is	Mono 0, 3852	CPU 0, 2711 
+the time taken for string with 256 bytes is	Mono 0, 4279	CPU 0, 2714 
+the time taken for string with 1024 bytes is	Mono 0, 6208	CPU 0, 2786 
+the time taken for string with 4096 bytes is	Mono 0, 13827	CPU 0, 3272 
+the time taken for string with 16384 bytes is	Mono 0, 45586	CPU 0, 6123 
+the time taken for string with 65536 bytes is	Mono 0, 172212	CPU 0, 16985 
+the time taken for string with 262144 bytes is	Mono 0, 699616	CPU 0, 69697 
+the time taken for string with 524288 bytes is	Mono 0, 1408213	CPU 0, 139620 
+
+starting iteration 18
+
+the time taken for string with 1 bytes is	Mono 0, 4091	CPU 0, 2742 
+the time taken for string with 2 bytes is	Mono 0, 3697	CPU 0, 2588 
+the time taken for string with 4 bytes is	Mono 0, 3732	CPU 0, 2643 
+the time taken for string with 16 bytes is	Mono 0, 3810	CPU 0, 2641 
+the time taken for string with 64 bytes is	Mono 0, 3887	CPU 0, 2622 
+the time taken for string with 256 bytes is	Mono 0, 4317	CPU 0, 2642 
+the time taken for string with 1024 bytes is	Mono 0, 6220	CPU 0, 2783 
+the time taken for string with 4096 bytes is	Mono 0, 13984	CPU 0, 3282 
+the time taken for string with 16384 bytes is	Mono 0, 45605	CPU 0, 6091 
+the time taken for string with 65536 bytes is	Mono 0, 181873	CPU 0, 25950 
+the time taken for string with 262144 bytes is	Mono 0, 744823	CPU 0, 119853 
+the time taken for string with 524288 bytes is	Mono 0, 1408453	CPU 0, 145850 
+
+starting iteration 19
+
+the time taken for string with 1 bytes is	Mono 0, 3949	CPU 0, 2764 
+the time taken for string with 2 bytes is	Mono 0, 3693	CPU 0, 2594 
+the time taken for string with 4 bytes is	Mono 0, 3668	CPU 0, 2610 
+the time taken for string with 16 bytes is	Mono 0, 3884	CPU 0, 2681 
+the time taken for string with 64 bytes is	Mono 0, 3864	CPU 0, 2637 
+the time taken for string with 256 bytes is	Mono 0, 4320	CPU 0, 2657 
+the time taken for string with 1024 bytes is	Mono 0, 6290	CPU 0, 2812 
+the time taken for string with 4096 bytes is	Mono 0, 13919	CPU 0, 3335 
+the time taken for string with 16384 bytes is	Mono 0, 45771	CPU 0, 6238 
+the time taken for string with 65536 bytes is	Mono 0, 172245	CPU 0, 17004 
+the time taken for string with 262144 bytes is	Mono 0, 699390	CPU 0, 70568 
+the time taken for string with 524288 bytes is	Mono 0, 1404737	CPU 0, 139220 
+
+starting iteration 20
+
+the time taken for string with 1 bytes is	Mono 0, 3938	CPU 0, 2783 
+the time taken for string with 2 bytes is	Mono 0, 3693	CPU 0, 2595 
+the time taken for string with 4 bytes is	Mono 0, 4291	CPU 0, 2736 
+the time taken for string with 16 bytes is	Mono 0, 3835	CPU 0, 2751 
+the time taken for string with 64 bytes is	Mono 0, 3848	CPU 0, 2629 
+the time taken for string with 256 bytes is	Mono 0, 4307	CPU 0, 2629 
+the time taken for string with 1024 bytes is	Mono 0, 6201	CPU 0, 2772 
+the time taken for string with 4096 bytes is	Mono 0, 13915	CPU 0, 3310 
+the time taken for string with 16384 bytes is	Mono 0, 45864	CPU 0, 6186 
+the time taken for string with 65536 bytes is	Mono 0, 172163	CPU 0, 16959 
+the time taken for string with 262144 bytes is	Mono 0, 700624	CPU 0, 70107 
+the time taken for string with 524288 bytes is	Mono 0, 1402339	CPU 0, 138530 
+
+starting iteration 21
+
+the time taken for string with 1 bytes is	Mono 0, 3939	CPU 0, 2726 
+the time taken for string with 2 bytes is	Mono 0, 3725	CPU 0, 2617 
+the time taken for string with 4 bytes is	Mono 0, 3686	CPU 0, 2583 
+the time taken for string with 16 bytes is	Mono 0, 3827	CPU 0, 2655 
+the time taken for string with 64 bytes is	Mono 0, 3806	CPU 0, 2615 
+the time taken for string with 256 bytes is	Mono 0, 4319	CPU 0, 2642 
+the time taken for string with 1024 bytes is	Mono 0, 6222	CPU 0, 2819 
+the time taken for string with 4096 bytes is	Mono 0, 13899	CPU 0, 3281 
+the time taken for string with 16384 bytes is	Mono 0, 45667	CPU 0, 6151 
+the time taken for string with 65536 bytes is	Mono 0, 172846	CPU 0, 17070 
+the time taken for string with 262144 bytes is	Mono 0, 700076	CPU 0, 70021 
+the time taken for string with 524288 bytes is	Mono 0, 1402577	CPU 0, 138755 
+
+starting iteration 22
+
+the time taken for string with 1 bytes is	Mono 0, 4957	CPU 0, 3405 
+the time taken for string with 2 bytes is	Mono 0, 3720	CPU 0, 2620 
+the time taken for string with 4 bytes is	Mono 0, 3741	CPU 0, 2616 
+the time taken for string with 16 bytes is	Mono 0, 3754	CPU 0, 2676 
+the time taken for string with 64 bytes is	Mono 0, 3780	CPU 0, 2610 
+the time taken for string with 256 bytes is	Mono 0, 4251	CPU 0, 2614 
+the time taken for string with 1024 bytes is	Mono 0, 6147	CPU 0, 2743 
+the time taken for string with 4096 bytes is	Mono 0, 13936	CPU 0, 3272 
+the time taken for string with 16384 bytes is	Mono 0, 45756	CPU 0, 6251 
+the time taken for string with 65536 bytes is	Mono 0, 172797	CPU 0, 17546 
+the time taken for string with 262144 bytes is	Mono 0, 699043	CPU 0, 69969 
+the time taken for string with 524288 bytes is	Mono 0, 1401943	CPU 0, 138147 
+
+starting iteration 23
+
+the time taken for string with 1 bytes is	Mono 0, 3904	CPU 0, 2679 
+the time taken for string with 2 bytes is	Mono 0, 3709	CPU 0, 2587 
+the time taken for string with 4 bytes is	Mono 0, 3729	CPU 0, 2645 
+the time taken for string with 16 bytes is	Mono 0, 4257	CPU 0, 2695 
+the time taken for string with 64 bytes is	Mono 0, 3647	CPU 0, 2558 
+the time taken for string with 256 bytes is	Mono 0, 4117	CPU 0, 2492 
+the time taken for string with 1024 bytes is	Mono 0, 6974	CPU 0, 3544 
+the time taken for string with 4096 bytes is	Mono 0, 13743	CPU 0, 3132 
+the time taken for string with 16384 bytes is	Mono 0, 45595	CPU 0, 6046 
+the time taken for string with 65536 bytes is	Mono 0, 171855	CPU 0, 16772 
+the time taken for string with 262144 bytes is	Mono 0, 747069	CPU 0, 118803 
+the time taken for string with 524288 bytes is	Mono 0, 1401781	CPU 0, 138772 
+
+starting iteration 24
+
+the time taken for string with 1 bytes is	Mono 0, 4218	CPU 0, 2687 
+the time taken for string with 2 bytes is	Mono 0, 3683	CPU 0, 2534 
+the time taken for string with 4 bytes is	Mono 0, 3707	CPU 0, 2577 
+the time taken for string with 16 bytes is	Mono 0, 3684	CPU 0, 2614 
+the time taken for string with 64 bytes is	Mono 0, 3779	CPU 0, 2598 
+the time taken for string with 256 bytes is	Mono 0, 4266	CPU 0, 2653 
+the time taken for string with 1024 bytes is	Mono 0, 6201	CPU 0, 2809 
+the time taken for string with 4096 bytes is	Mono 0, 13865	CPU 0, 3284 
+the time taken for string with 16384 bytes is	Mono 0, 45725	CPU 0, 6243 
+the time taken for string with 65536 bytes is	Mono 0, 172950	CPU 0, 16996 
+the time taken for string with 262144 bytes is	Mono 0, 700999	CPU 0, 70355 
+the time taken for string with 524288 bytes is	Mono 0, 1404788	CPU 0, 139231 
+
+starting iteration 25
+
+the time taken for string with 1 bytes is	Mono 0, 3883	CPU 0, 2698 
+the time taken for string with 2 bytes is	Mono 0, 3652	CPU 0, 2588 
+the time taken for string with 4 bytes is	Mono 0, 3688	CPU 0, 2585 
+the time taken for string with 16 bytes is	Mono 0, 3825	CPU 0, 2681 
+the time taken for string with 64 bytes is	Mono 0, 3810	CPU 0, 2630 
+the time taken for string with 256 bytes is	Mono 0, 4244	CPU 0, 2639 
+the time taken for string with 1024 bytes is	Mono 0, 6235	CPU 0, 2808 
+the time taken for string with 4096 bytes is	Mono 0, 13850	CPU 0, 3266 
+the time taken for string with 16384 bytes is	Mono 0, 45677	CPU 0, 6118 
+the time taken for string with 65536 bytes is	Mono 0, 172175	CPU 0, 16864 
+the time taken for string with 262144 bytes is	Mono 0, 698838	CPU 0, 70126 
+the time taken for string with 524288 bytes is	Mono 0, 1401908	CPU 0, 139052 
+
+starting iteration 26
+
+the time taken for string with 1 bytes is	Mono 0, 3859	CPU 0, 2713 
+the time taken for string with 2 bytes is	Mono 0, 3731	CPU 0, 2584 
+the time taken for string with 4 bytes is	Mono 0, 3738	CPU 0, 2635 
+the time taken for string with 16 bytes is	Mono 0, 4279	CPU 0, 2762 
+the time taken for string with 64 bytes is	Mono 0, 3831	CPU 0, 2707 
+the time taken for string with 256 bytes is	Mono 0, 4252	CPU 0, 2636 
+the time taken for string with 1024 bytes is	Mono 0, 6189	CPU 0, 2745 
+the time taken for string with 4096 bytes is	Mono 0, 13918	CPU 0, 3329 
+the time taken for string with 16384 bytes is	Mono 0, 45652	CPU 0, 6165 
+the time taken for string with 65536 bytes is	Mono 0, 173075	CPU 0, 16945 
+the time taken for string with 262144 bytes is	Mono 0, 779400	CPU 0, 65714 
+the time taken for string with 524288 bytes is	Mono 0, 1424394	CPU 0, 138662 
+
+starting iteration 27
+
+the time taken for string with 1 bytes is	Mono 0, 3888	CPU 0, 2721 
+the time taken for string with 2 bytes is	Mono 0, 3661	CPU 0, 2611 
+the time taken for string with 4 bytes is	Mono 0, 3642	CPU 0, 2613 
+the time taken for string with 16 bytes is	Mono 0, 3832	CPU 0, 2699 
+the time taken for string with 64 bytes is	Mono 0, 3778	CPU 0, 2605 
+the time taken for string with 256 bytes is	Mono 0, 4259	CPU 0, 2640 
+the time taken for string with 1024 bytes is	Mono 0, 6229	CPU 0, 2806 
+the time taken for string with 4096 bytes is	Mono 0, 13885	CPU 0, 3348 
+the time taken for string with 16384 bytes is	Mono 0, 47113	CPU 0, 6314 
+the time taken for string with 65536 bytes is	Mono 0, 172348	CPU 0, 17130 
+the time taken for string with 262144 bytes is	Mono 0, 699086	CPU 0, 69680 
+the time taken for string with 524288 bytes is	Mono 0, 1421942	CPU 0, 159081 
+
+starting iteration 28
+
+the time taken for string with 1 bytes is	Mono 0, 3789	CPU 0, 2581 
+the time taken for string with 2 bytes is	Mono 0, 3474	CPU 0, 2384 
+the time taken for string with 4 bytes is	Mono 0, 3495	CPU 0, 2408 
+the time taken for string with 16 bytes is	Mono 0, 3562	CPU 0, 2444 
+the time taken for string with 64 bytes is	Mono 0, 3611	CPU 0, 2447 
+the time taken for string with 256 bytes is	Mono 0, 4070	CPU 0, 2452 
+the time taken for string with 1024 bytes is	Mono 0, 6003	CPU 0, 2592 
+the time taken for string with 4096 bytes is	Mono 0, 13718	CPU 0, 3078 
+the time taken for string with 16384 bytes is	Mono 0, 45780	CPU 0, 6157 
+the time taken for string with 65536 bytes is	Mono 0, 172184	CPU 0, 16858 
+the time taken for string with 262144 bytes is	Mono 0, 893509	CPU 0, 128364 
+the time taken for string with 524288 bytes is	Mono 0, 1570206	CPU 0, 180840 
+
+starting iteration 29
+
+the time taken for string with 1 bytes is	Mono 0, 4050	CPU 0, 2766 
+the time taken for string with 2 bytes is	Mono 0, 3772	CPU 0, 2614 
+the time taken for string with 4 bytes is	Mono 0, 3732	CPU 0, 2602 
+the time taken for string with 16 bytes is	Mono 0, 3812	CPU 0, 2642 
+the time taken for string with 64 bytes is	Mono 0, 3807	CPU 0, 2626 
+the time taken for string with 256 bytes is	Mono 0, 4327	CPU 0, 2653 
+the time taken for string with 1024 bytes is	Mono 0, 6216	CPU 0, 2809 
+the time taken for string with 4096 bytes is	Mono 0, 14000	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45802	CPU 0, 6202 
+the time taken for string with 65536 bytes is	Mono 0, 172329	CPU 0, 16940 
+the time taken for string with 262144 bytes is	Mono 0, 698765	CPU 0, 69980 
+the time taken for string with 524288 bytes is	Mono 0, 1402407	CPU 0, 138469 
+
+starting iteration 30
+
+the time taken for string with 1 bytes is	Mono 0, 4420	CPU 0, 2793 
+the time taken for string with 2 bytes is	Mono 0, 3806	CPU 0, 2752 
+the time taken for string with 4 bytes is	Mono 0, 3809	CPU 0, 2630 
+the time taken for string with 16 bytes is	Mono 0, 4097	CPU 0, 2622 
+the time taken for string with 64 bytes is	Mono 0, 3858	CPU 0, 2572 
+the time taken for string with 256 bytes is	Mono 0, 4288	CPU 0, 2628 
+the time taken for string with 1024 bytes is	Mono 0, 6212	CPU 0, 2796 
+the time taken for string with 4096 bytes is	Mono 0, 14033	CPU 0, 3311 
+the time taken for string with 16384 bytes is	Mono 0, 45806	CPU 0, 6222 
+the time taken for string with 65536 bytes is	Mono 0, 172437	CPU 0, 17026 
+the time taken for string with 262144 bytes is	Mono 0, 712813	CPU 0, 71031 
+the time taken for string with 524288 bytes is	Mono 0, 1474318	CPU 0, 139053 
+
+starting iteration 31
+
+the time taken for string with 1 bytes is	Mono 0, 3912	CPU 0, 2774 
+the time taken for string with 2 bytes is	Mono 0, 3719	CPU 0, 2625 
+the time taken for string with 4 bytes is	Mono 0, 3687	CPU 0, 2619 
+the time taken for string with 16 bytes is	Mono 0, 3842	CPU 0, 2658 
+the time taken for string with 64 bytes is	Mono 0, 3853	CPU 0, 2629 
+the time taken for string with 256 bytes is	Mono 0, 4337	CPU 0, 2653 
+the time taken for string with 1024 bytes is	Mono 0, 6266	CPU 0, 2826 
+the time taken for string with 4096 bytes is	Mono 0, 14395	CPU 0, 3411 
+the time taken for string with 16384 bytes is	Mono 0, 45628	CPU 0, 6275 
+the time taken for string with 65536 bytes is	Mono 0, 172395	CPU 0, 16995 
+the time taken for string with 262144 bytes is	Mono 0, 699942	CPU 0, 69909 
+the time taken for string with 524288 bytes is	Mono 0, 1402953	CPU 0, 139444 
+
+starting iteration 32
+
+the time taken for string with 1 bytes is	Mono 0, 3779	CPU 0, 2616 
+the time taken for string with 2 bytes is	Mono 0, 3681	CPU 0, 2595 
+the time taken for string with 4 bytes is	Mono 0, 3712	CPU 0, 2648 
+the time taken for string with 16 bytes is	Mono 0, 3735	CPU 0, 2625 
+the time taken for string with 64 bytes is	Mono 0, 3817	CPU 0, 2617 
+the time taken for string with 256 bytes is	Mono 0, 4348	CPU 0, 2715 
+the time taken for string with 1024 bytes is	Mono 0, 6236	CPU 0, 2799 
+the time taken for string with 4096 bytes is	Mono 0, 13869	CPU 0, 3193 
+the time taken for string with 16384 bytes is	Mono 0, 45663	CPU 0, 6049 
+the time taken for string with 65536 bytes is	Mono 0, 173877	CPU 0, 16963 
+the time taken for string with 262144 bytes is	Mono 0, 697049	CPU 0, 68574 
+the time taken for string with 524288 bytes is	Mono 0, 1408138	CPU 0, 145119 
+
+starting iteration 33
+
+the time taken for string with 1 bytes is	Mono 0, 4275	CPU 0, 2831 
+the time taken for string with 2 bytes is	Mono 0, 3723	CPU 0, 2690 
+the time taken for string with 4 bytes is	Mono 0, 3642	CPU 0, 2543 
+the time taken for string with 16 bytes is	Mono 0, 3815	CPU 0, 2631 
+the time taken for string with 64 bytes is	Mono 0, 3784	CPU 0, 2599 
+the time taken for string with 256 bytes is	Mono 0, 4301	CPU 0, 2625 
+the time taken for string with 1024 bytes is	Mono 0, 6192	CPU 0, 2778 
+the time taken for string with 4096 bytes is	Mono 0, 13882	CPU 0, 3248 
+the time taken for string with 16384 bytes is	Mono 0, 45759	CPU 0, 6243 
+the time taken for string with 65536 bytes is	Mono 0, 172560	CPU 0, 17163 
+the time taken for string with 262144 bytes is	Mono 0, 700400	CPU 0, 70063 
+the time taken for string with 524288 bytes is	Mono 0, 1403851	CPU 0, 138669 
+
+starting iteration 34
+
+the time taken for string with 1 bytes is	Mono 0, 3935	CPU 0, 2775 
+the time taken for string with 2 bytes is	Mono 0, 3663	CPU 0, 2564 
+the time taken for string with 4 bytes is	Mono 0, 3707	CPU 0, 2622 
+the time taken for string with 16 bytes is	Mono 0, 3735	CPU 0, 2606 
+the time taken for string with 64 bytes is	Mono 0, 3788	CPU 0, 2625 
+the time taken for string with 256 bytes is	Mono 0, 4269	CPU 0, 2629 
+the time taken for string with 1024 bytes is	Mono 0, 6210	CPU 0, 2791 
+the time taken for string with 4096 bytes is	Mono 0, 14388	CPU 0, 3427 
+the time taken for string with 16384 bytes is	Mono 0, 45539	CPU 0, 6166 
+the time taken for string with 65536 bytes is	Mono 0, 172318	CPU 0, 17002 
+the time taken for string with 262144 bytes is	Mono 0, 700225	CPU 0, 69854 
+the time taken for string with 524288 bytes is	Mono 0, 1405140	CPU 0, 140003 
+
+starting iteration 35
+
+the time taken for string with 1 bytes is	Mono 0, 3932	CPU 0, 2767 
+the time taken for string with 2 bytes is	Mono 0, 3755	CPU 0, 2622 
+the time taken for string with 4 bytes is	Mono 0, 3747	CPU 0, 2682 
+the time taken for string with 16 bytes is	Mono 0, 3926	CPU 0, 2725 
+the time taken for string with 64 bytes is	Mono 0, 3839	CPU 0, 2602 
+the time taken for string with 256 bytes is	Mono 0, 4272	CPU 0, 2640 
+the time taken for string with 1024 bytes is	Mono 0, 6372	CPU 0, 2811 
+the time taken for string with 4096 bytes is	Mono 0, 13920	CPU 0, 3260 
+the time taken for string with 16384 bytes is	Mono 0, 45671	CPU 0, 6234 
+the time taken for string with 65536 bytes is	Mono 0, 172043	CPU 0, 16926 
+the time taken for string with 262144 bytes is	Mono 0, 698138	CPU 0, 69707 
+the time taken for string with 524288 bytes is	Mono 0, 1401802	CPU 0, 138039 
+
+starting iteration 36
+
+the time taken for string with 1 bytes is	Mono 0, 4218	CPU 0, 2722 
+the time taken for string with 2 bytes is	Mono 0, 3756	CPU 0, 2712 
+the time taken for string with 4 bytes is	Mono 0, 3751	CPU 0, 2646 
+the time taken for string with 16 bytes is	Mono 0, 3768	CPU 0, 2627 
+the time taken for string with 64 bytes is	Mono 0, 3869	CPU 0, 2639 
+the time taken for string with 256 bytes is	Mono 0, 4323	CPU 0, 2647 
+the time taken for string with 1024 bytes is	Mono 0, 6215	CPU 0, 2763 
+the time taken for string with 4096 bytes is	Mono 0, 13971	CPU 0, 3272 
+the time taken for string with 16384 bytes is	Mono 0, 45742	CPU 0, 6149 
+the time taken for string with 65536 bytes is	Mono 0, 172460	CPU 0, 17073 
+the time taken for string with 262144 bytes is	Mono 0, 699883	CPU 0, 69788 
+the time taken for string with 524288 bytes is	Mono 0, 1401660	CPU 0, 138395 
+
+starting iteration 37
+
+the time taken for string with 1 bytes is	Mono 0, 4493	CPU 0, 2768 
+the time taken for string with 2 bytes is	Mono 0, 12729	CPU 0, 2423 
+the time taken for string with 4 bytes is	Mono 0, 12673	CPU 0, 2412 
+the time taken for string with 16 bytes is	Mono 0, 12763	CPU 0, 2273 
+the time taken for string with 64 bytes is	Mono 0, 12587	CPU 0, 2272 
+the time taken for string with 256 bytes is	Mono 0, 4106	CPU 0, 2435 
+the time taken for string with 1024 bytes is	Mono 0, 6041	CPU 0, 2574 
+the time taken for string with 4096 bytes is	Mono 0, 14235	CPU 0, 3208 
+the time taken for string with 16384 bytes is	Mono 0, 45671	CPU 0, 6121 
+the time taken for string with 65536 bytes is	Mono 0, 172601	CPU 0, 16857 
+the time taken for string with 262144 bytes is	Mono 0, 748851	CPU 0, 119816 
+the time taken for string with 524288 bytes is	Mono 0, 1401228	CPU 0, 138286 
+
+starting iteration 38
+
+the time taken for string with 1 bytes is	Mono 0, 3976	CPU 0, 2782 
+the time taken for string with 2 bytes is	Mono 0, 3669	CPU 0, 2616 
+the time taken for string with 4 bytes is	Mono 0, 3770	CPU 0, 2680 
+the time taken for string with 16 bytes is	Mono 0, 3787	CPU 0, 2630 
+the time taken for string with 64 bytes is	Mono 0, 3807	CPU 0, 2623 
+the time taken for string with 256 bytes is	Mono 0, 4276	CPU 0, 2632 
+the time taken for string with 1024 bytes is	Mono 0, 6280	CPU 0, 2790 
+the time taken for string with 4096 bytes is	Mono 0, 13911	CPU 0, 3271 
+the time taken for string with 16384 bytes is	Mono 0, 45706	CPU 0, 6201 
+the time taken for string with 65536 bytes is	Mono 0, 173812	CPU 0, 17020 
+the time taken for string with 262144 bytes is	Mono 0, 698358	CPU 0, 69852 
+the time taken for string with 524288 bytes is	Mono 0, 1499939	CPU 0, 236063 
+
+starting iteration 39
+
+the time taken for string with 1 bytes is	Mono 0, 4373	CPU 0, 2798 
+the time taken for string with 2 bytes is	Mono 0, 3700	CPU 0, 2583 
+the time taken for string with 4 bytes is	Mono 0, 3743	CPU 0, 2630 
+the time taken for string with 16 bytes is	Mono 0, 3772	CPU 0, 2696 
+the time taken for string with 64 bytes is	Mono 0, 3849	CPU 0, 2636 
+the time taken for string with 256 bytes is	Mono 0, 4317	CPU 0, 2705 
+the time taken for string with 1024 bytes is	Mono 0, 6316	CPU 0, 2830 
+the time taken for string with 4096 bytes is	Mono 0, 13929	CPU 0, 3314 
+the time taken for string with 16384 bytes is	Mono 0, 45833	CPU 0, 6214 
+the time taken for string with 65536 bytes is	Mono 0, 172052	CPU 0, 17041 
+the time taken for string with 262144 bytes is	Mono 0, 700334	CPU 0, 69940 
+the time taken for string with 524288 bytes is	Mono 0, 1400922	CPU 0, 138190 
+
+starting iteration 40
+
+the time taken for string with 1 bytes is	Mono 0, 3840	CPU 0, 2716 
+the time taken for string with 2 bytes is	Mono 0, 3677	CPU 0, 2599 
+the time taken for string with 4 bytes is	Mono 0, 3644	CPU 0, 2591 
+the time taken for string with 16 bytes is	Mono 0, 3729	CPU 0, 2619 
+the time taken for string with 64 bytes is	Mono 0, 4344	CPU 0, 2731 
+the time taken for string with 256 bytes is	Mono 0, 4346	CPU 0, 2745 
+the time taken for string with 1024 bytes is	Mono 0, 6201	CPU 0, 2811 
+the time taken for string with 4096 bytes is	Mono 0, 13890	CPU 0, 3262 
+the time taken for string with 16384 bytes is	Mono 0, 45858	CPU 0, 6082 
+the time taken for string with 65536 bytes is	Mono 0, 172120	CPU 0, 16726 
+the time taken for string with 262144 bytes is	Mono 0, 699674	CPU 0, 69480 
+the time taken for string with 524288 bytes is	Mono 0, 1403530	CPU 0, 139325 
+
+starting iteration 41
+
+the time taken for string with 1 bytes is	Mono 0, 3924	CPU 0, 2779 
+the time taken for string with 2 bytes is	Mono 0, 3673	CPU 0, 2583 
+the time taken for string with 4 bytes is	Mono 0, 3762	CPU 0, 2684 
+the time taken for string with 16 bytes is	Mono 0, 3834	CPU 0, 2755 
+the time taken for string with 64 bytes is	Mono 0, 3812	CPU 0, 2692 
+the time taken for string with 256 bytes is	Mono 0, 4289	CPU 0, 2686 
+the time taken for string with 1024 bytes is	Mono 0, 6265	CPU 0, 2863 
+the time taken for string with 4096 bytes is	Mono 0, 14383	CPU 0, 3271 
+the time taken for string with 16384 bytes is	Mono 0, 45854	CPU 0, 6208 
+the time taken for string with 65536 bytes is	Mono 0, 174254	CPU 0, 17370 
+the time taken for string with 262144 bytes is	Mono 0, 764773	CPU 0, 65007 
+the time taken for string with 524288 bytes is	Mono 0, 1421562	CPU 0, 143483 
+
+starting iteration 42
+
+the time taken for string with 1 bytes is	Mono 0, 3976	CPU 0, 2779 
+the time taken for string with 2 bytes is	Mono 0, 3679	CPU 0, 2623 
+the time taken for string with 4 bytes is	Mono 0, 3735	CPU 0, 2630 
+the time taken for string with 16 bytes is	Mono 0, 3720	CPU 0, 2633 
+the time taken for string with 64 bytes is	Mono 0, 3813	CPU 0, 2627 
+the time taken for string with 256 bytes is	Mono 0, 4292	CPU 0, 2633 
+the time taken for string with 1024 bytes is	Mono 0, 6176	CPU 0, 2769 
+the time taken for string with 4096 bytes is	Mono 0, 13942	CPU 0, 3307 
+the time taken for string with 16384 bytes is	Mono 0, 45917	CPU 0, 6324 
+the time taken for string with 65536 bytes is	Mono 0, 172388	CPU 0, 16990 
+the time taken for string with 262144 bytes is	Mono 0, 698513	CPU 0, 69813 
+the time taken for string with 524288 bytes is	Mono 0, 1400914	CPU 0, 138148 
+
+starting iteration 43
+
+the time taken for string with 1 bytes is	Mono 0, 3927	CPU 0, 2742 
+the time taken for string with 2 bytes is	Mono 0, 3687	CPU 0, 2629 
+the time taken for string with 4 bytes is	Mono 0, 4126	CPU 0, 2716 
+the time taken for string with 16 bytes is	Mono 0, 3857	CPU 0, 2765 
+the time taken for string with 64 bytes is	Mono 0, 3828	CPU 0, 2650 
+the time taken for string with 256 bytes is	Mono 0, 4303	CPU 0, 2606 
+the time taken for string with 1024 bytes is	Mono 0, 6250	CPU 0, 2794 
+the time taken for string with 4096 bytes is	Mono 0, 13821	CPU 0, 3261 
+the time taken for string with 16384 bytes is	Mono 0, 45692	CPU 0, 6231 
+the time taken for string with 65536 bytes is	Mono 0, 172048	CPU 0, 16868 
+the time taken for string with 262144 bytes is	Mono 0, 773526	CPU 0, 111717 
+the time taken for string with 524288 bytes is	Mono 0, 1467371	CPU 0, 209518 
+
+starting iteration 44
+
+the time taken for string with 1 bytes is	Mono 0, 3930	CPU 0, 2711 
+the time taken for string with 2 bytes is	Mono 0, 3679	CPU 0, 2572 
+the time taken for string with 4 bytes is	Mono 0, 3771	CPU 0, 2631 
+the time taken for string with 16 bytes is	Mono 0, 3743	CPU 0, 2623 
+the time taken for string with 64 bytes is	Mono 0, 3855	CPU 0, 2614 
+the time taken for string with 256 bytes is	Mono 0, 4308	CPU 0, 2644 
+the time taken for string with 1024 bytes is	Mono 0, 6212	CPU 0, 2758 
+the time taken for string with 4096 bytes is	Mono 0, 13895	CPU 0, 3248 
+the time taken for string with 16384 bytes is	Mono 0, 46239	CPU 0, 6198 
+the time taken for string with 65536 bytes is	Mono 0, 173387	CPU 0, 18162 
+the time taken for string with 262144 bytes is	Mono 0, 700171	CPU 0, 70202 
+the time taken for string with 524288 bytes is	Mono 0, 1403067	CPU 0, 138942 
+
+starting iteration 45
+
+the time taken for string with 1 bytes is	Mono 0, 3968	CPU 0, 2795 
+the time taken for string with 2 bytes is	Mono 0, 3709	CPU 0, 2605 
+the time taken for string with 4 bytes is	Mono 0, 3720	CPU 0, 2593 
+the time taken for string with 16 bytes is	Mono 0, 3828	CPU 0, 2673 
+the time taken for string with 64 bytes is	Mono 0, 3864	CPU 0, 2623 
+the time taken for string with 256 bytes is	Mono 0, 4312	CPU 0, 2643 
+the time taken for string with 1024 bytes is	Mono 0, 6219	CPU 0, 2775 
+the time taken for string with 4096 bytes is	Mono 0, 13888	CPU 0, 3262 
+the time taken for string with 16384 bytes is	Mono 0, 45595	CPU 0, 6082 
+the time taken for string with 65536 bytes is	Mono 0, 172179	CPU 0, 16952 
+the time taken for string with 262144 bytes is	Mono 0, 699395	CPU 0, 70966 
+the time taken for string with 524288 bytes is	Mono 0, 1518988	CPU 0, 184840 
+
+starting iteration 46
+
+the time taken for string with 1 bytes is	Mono 0, 3912	CPU 0, 2750 
+the time taken for string with 2 bytes is	Mono 0, 3629	CPU 0, 2564 
+the time taken for string with 4 bytes is	Mono 0, 3740	CPU 0, 2629 
+the time taken for string with 16 bytes is	Mono 0, 3749	CPU 0, 2636 
+the time taken for string with 64 bytes is	Mono 0, 3856	CPU 0, 2610 
+the time taken for string with 256 bytes is	Mono 0, 4322	CPU 0, 2661 
+the time taken for string with 1024 bytes is	Mono 0, 6122	CPU 0, 2741 
+the time taken for string with 4096 bytes is	Mono 0, 13717	CPU 0, 3107 
+the time taken for string with 16384 bytes is	Mono 0, 45528	CPU 0, 6074 
+the time taken for string with 65536 bytes is	Mono 0, 172509	CPU 0, 17029 
+the time taken for string with 262144 bytes is	Mono 0, 746700	CPU 0, 118065 
+the time taken for string with 524288 bytes is	Mono 0, 1433399	CPU 0, 171839 
+
+starting iteration 47
+
+the time taken for string with 1 bytes is	Mono 0, 3958	CPU 0, 2763 
+the time taken for string with 2 bytes is	Mono 0, 3748	CPU 0, 2633 
+the time taken for string with 4 bytes is	Mono 0, 3675	CPU 0, 2623 
+the time taken for string with 16 bytes is	Mono 0, 3825	CPU 0, 2654 
+the time taken for string with 64 bytes is	Mono 0, 4360	CPU 0, 2732 
+the time taken for string with 256 bytes is	Mono 0, 4244	CPU 0, 2728 
+the time taken for string with 1024 bytes is	Mono 0, 6299	CPU 0, 2823 
+the time taken for string with 4096 bytes is	Mono 0, 13932	CPU 0, 3247 
+the time taken for string with 16384 bytes is	Mono 0, 45818	CPU 0, 6184 
+the time taken for string with 65536 bytes is	Mono 0, 172127	CPU 0, 16995 
+the time taken for string with 262144 bytes is	Mono 0, 700344	CPU 0, 70019 
+the time taken for string with 524288 bytes is	Mono 0, 1444349	CPU 0, 138260 
+
+starting iteration 48
+
+the time taken for string with 1 bytes is	Mono 0, 3901	CPU 0, 2649 
+the time taken for string with 2 bytes is	Mono 0, 3624	CPU 0, 2507 
+the time taken for string with 4 bytes is	Mono 0, 3709	CPU 0, 2564 
+the time taken for string with 16 bytes is	Mono 0, 3804	CPU 0, 2627 
+the time taken for string with 64 bytes is	Mono 0, 3884	CPU 0, 2625 
+the time taken for string with 256 bytes is	Mono 0, 4378	CPU 0, 2741 
+the time taken for string with 1024 bytes is	Mono 0, 6270	CPU 0, 2834 
+the time taken for string with 4096 bytes is	Mono 0, 13903	CPU 0, 3291 
+the time taken for string with 16384 bytes is	Mono 0, 45802	CPU 0, 6145 
+the time taken for string with 65536 bytes is	Mono 0, 173920	CPU 0, 17232 
+the time taken for string with 262144 bytes is	Mono 0, 699129	CPU 0, 69404 
+the time taken for string with 524288 bytes is	Mono 0, 1402022	CPU 0, 138418 
+
+starting iteration 49
+
+the time taken for string with 1 bytes is	Mono 0, 4012	CPU 0, 2719 
+the time taken for string with 2 bytes is	Mono 0, 3724	CPU 0, 2593 
+the time taken for string with 4 bytes is	Mono 0, 3646	CPU 0, 2612 
+the time taken for string with 16 bytes is	Mono 0, 3783	CPU 0, 2655 
+the time taken for string with 64 bytes is	Mono 0, 3779	CPU 0, 2576 
+the time taken for string with 256 bytes is	Mono 0, 4240	CPU 0, 2605 
+the time taken for string with 1024 bytes is	Mono 0, 6239	CPU 0, 2777 
+the time taken for string with 4096 bytes is	Mono 0, 13850	CPU 0, 3244 
+the time taken for string with 16384 bytes is	Mono 0, 45655	CPU 0, 6072 
+the time taken for string with 65536 bytes is	Mono 0, 172247	CPU 0, 17033 
+the time taken for string with 262144 bytes is	Mono 0, 699326	CPU 0, 69448 
+the time taken for string with 524288 bytes is	Mono 0, 1403734	CPU 0, 139455 
+
+starting iteration 50
+
+the time taken for string with 1 bytes is	Mono 0, 3960	CPU 0, 2779 
+the time taken for string with 2 bytes is	Mono 0, 3681	CPU 0, 2604 
+the time taken for string with 4 bytes is	Mono 0, 3707	CPU 0, 2621 
+the time taken for string with 16 bytes is	Mono 0, 3845	CPU 0, 2658 
+the time taken for string with 64 bytes is	Mono 0, 4395	CPU 0, 2774 
+the time taken for string with 256 bytes is	Mono 0, 4333	CPU 0, 2791 
+the time taken for string with 1024 bytes is	Mono 0, 6315	CPU 0, 2844 
+the time taken for string with 4096 bytes is	Mono 0, 13986	CPU 0, 3298 
+the time taken for string with 16384 bytes is	Mono 0, 45696	CPU 0, 6210 
+the time taken for string with 65536 bytes is	Mono 0, 172302	CPU 0, 17140 
+the time taken for string with 262144 bytes is	Mono 0, 700671	CPU 0, 70221 
+the time taken for string with 524288 bytes is	Mono 0, 1403877	CPU 0, 138411 
+
+starting iteration 51
+
+the time taken for string with 1 bytes is	Mono 0, 3919	CPU 0, 2716 
+the time taken for string with 2 bytes is	Mono 0, 3610	CPU 0, 2526 
+the time taken for string with 4 bytes is	Mono 0, 3495	CPU 0, 2413 
+the time taken for string with 16 bytes is	Mono 0, 3711	CPU 0, 2498 
+the time taken for string with 64 bytes is	Mono 0, 3731	CPU 0, 2451 
+the time taken for string with 256 bytes is	Mono 0, 4160	CPU 0, 2425 
+the time taken for string with 1024 bytes is	Mono 0, 6112	CPU 0, 2649 
+the time taken for string with 4096 bytes is	Mono 0, 13718	CPU 0, 3113 
+the time taken for string with 16384 bytes is	Mono 0, 45653	CPU 0, 6063 
+the time taken for string with 65536 bytes is	Mono 0, 175201	CPU 0, 18266 
+the time taken for string with 262144 bytes is	Mono 0, 697309	CPU 0, 68677 
+the time taken for string with 524288 bytes is	Mono 0, 1407076	CPU 0, 144963 
+
+starting iteration 52
+
+the time taken for string with 1 bytes is	Mono 0, 4328	CPU 0, 2683 
+the time taken for string with 2 bytes is	Mono 0, 12855	CPU 0, 2453 
+the time taken for string with 4 bytes is	Mono 0, 13036	CPU 0, 2450 
+the time taken for string with 16 bytes is	Mono 0, 13035	CPU 0, 2491 
+the time taken for string with 64 bytes is	Mono 0, 12824	CPU 0, 2446 
+the time taken for string with 256 bytes is	Mono 0, 4306	CPU 0, 2595 
+the time taken for string with 1024 bytes is	Mono 0, 6181	CPU 0, 2721 
+the time taken for string with 4096 bytes is	Mono 0, 13840	CPU 0, 3243 
+the time taken for string with 16384 bytes is	Mono 0, 45732	CPU 0, 6235 
+the time taken for string with 65536 bytes is	Mono 0, 172340	CPU 0, 16885 
+the time taken for string with 262144 bytes is	Mono 0, 698642	CPU 0, 69635 
+the time taken for string with 524288 bytes is	Mono 0, 1402810	CPU 0, 138379 
+
+starting iteration 53
+
+the time taken for string with 1 bytes is	Mono 0, 3933	CPU 0, 2718 
+the time taken for string with 2 bytes is	Mono 0, 3690	CPU 0, 2629 
+the time taken for string with 4 bytes is	Mono 0, 3736	CPU 0, 2640 
+the time taken for string with 16 bytes is	Mono 0, 4307	CPU 0, 2813 
+the time taken for string with 64 bytes is	Mono 0, 3820	CPU 0, 2713 
+the time taken for string with 256 bytes is	Mono 0, 4223	CPU 0, 2627 
+the time taken for string with 1024 bytes is	Mono 0, 6254	CPU 0, 2826 
+the time taken for string with 4096 bytes is	Mono 0, 13801	CPU 0, 3245 
+the time taken for string with 16384 bytes is	Mono 0, 45636	CPU 0, 6126 
+the time taken for string with 65536 bytes is	Mono 0, 172338	CPU 0, 16967 
+the time taken for string with 262144 bytes is	Mono 0, 700813	CPU 0, 70129 
+the time taken for string with 524288 bytes is	Mono 0, 1401371	CPU 0, 138823 
+
+starting iteration 54
+
+the time taken for string with 1 bytes is	Mono 0, 4312	CPU 0, 2760 
+the time taken for string with 2 bytes is	Mono 0, 3654	CPU 0, 2546 
+the time taken for string with 4 bytes is	Mono 0, 3718	CPU 0, 2583 
+the time taken for string with 16 bytes is	Mono 0, 3759	CPU 0, 2625 
+the time taken for string with 64 bytes is	Mono 0, 3782	CPU 0, 2581 
+the time taken for string with 256 bytes is	Mono 0, 4289	CPU 0, 2635 
+the time taken for string with 1024 bytes is	Mono 0, 6242	CPU 0, 2796 
+the time taken for string with 4096 bytes is	Mono 0, 13899	CPU 0, 3243 
+the time taken for string with 16384 bytes is	Mono 0, 45639	CPU 0, 6145 
+the time taken for string with 65536 bytes is	Mono 0, 174258	CPU 0, 17049 
+the time taken for string with 262144 bytes is	Mono 0, 699000	CPU 0, 69884 
+the time taken for string with 524288 bytes is	Mono 0, 1402017	CPU 0, 138548 
+
+starting iteration 55
+
+the time taken for string with 1 bytes is	Mono 0, 3909	CPU 0, 2709 
+the time taken for string with 2 bytes is	Mono 0, 3716	CPU 0, 2631 
+the time taken for string with 4 bytes is	Mono 0, 3669	CPU 0, 2662 
+the time taken for string with 16 bytes is	Mono 0, 3785	CPU 0, 2665 
+the time taken for string with 64 bytes is	Mono 0, 3881	CPU 0, 2660 
+the time taken for string with 256 bytes is	Mono 0, 4275	CPU 0, 2638 
+the time taken for string with 1024 bytes is	Mono 0, 6241	CPU 0, 2810 
+the time taken for string with 4096 bytes is	Mono 0, 13889	CPU 0, 3300 
+the time taken for string with 16384 bytes is	Mono 0, 45729	CPU 0, 6103 
+the time taken for string with 65536 bytes is	Mono 0, 172251	CPU 0, 16909 
+the time taken for string with 262144 bytes is	Mono 0, 707065	CPU 0, 77889 
+the time taken for string with 524288 bytes is	Mono 0, 1421492	CPU 0, 159444 
+
+starting iteration 56
+
+the time taken for string with 1 bytes is	Mono 0, 3925	CPU 0, 2749 
+the time taken for string with 2 bytes is	Mono 0, 3629	CPU 0, 2560 
+the time taken for string with 4 bytes is	Mono 0, 3645	CPU 0, 2615 
+the time taken for string with 16 bytes is	Mono 0, 4138	CPU 0, 2721 
+the time taken for string with 64 bytes is	Mono 0, 3800	CPU 0, 2676 
+the time taken for string with 256 bytes is	Mono 0, 4254	CPU 0, 2645 
+the time taken for string with 1024 bytes is	Mono 0, 6201	CPU 0, 2814 
+the time taken for string with 4096 bytes is	Mono 0, 22056	CPU 0, 3234 
+the time taken for string with 16384 bytes is	Mono 0, 45922	CPU 0, 6415 
+the time taken for string with 65536 bytes is	Mono 0, 172248	CPU 0, 16979 
+the time taken for string with 262144 bytes is	Mono 0, 700660	CPU 0, 70184 
+the time taken for string with 524288 bytes is	Mono 0, 1403674	CPU 0, 138990 
+
+starting iteration 57
+
+the time taken for string with 1 bytes is	Mono 0, 3948	CPU 0, 2727 
+the time taken for string with 2 bytes is	Mono 0, 3719	CPU 0, 2595 
+the time taken for string with 4 bytes is	Mono 0, 3696	CPU 0, 2575 
+the time taken for string with 16 bytes is	Mono 0, 3826	CPU 0, 2678 
+the time taken for string with 64 bytes is	Mono 0, 3866	CPU 0, 2633 
+the time taken for string with 256 bytes is	Mono 0, 4326	CPU 0, 2692 
+the time taken for string with 1024 bytes is	Mono 0, 6262	CPU 0, 2826 
+the time taken for string with 4096 bytes is	Mono 0, 13859	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45664	CPU 0, 6055 
+the time taken for string with 65536 bytes is	Mono 0, 173628	CPU 0, 16989 
+the time taken for string with 262144 bytes is	Mono 0, 700099	CPU 0, 69784 
+the time taken for string with 524288 bytes is	Mono 0, 1403057	CPU 0, 138529 
+
+starting iteration 58
+
+the time taken for string with 1 bytes is	Mono 0, 3923	CPU 0, 2696 
+the time taken for string with 2 bytes is	Mono 0, 3676	CPU 0, 2587 
+the time taken for string with 4 bytes is	Mono 0, 3767	CPU 0, 2620 
+the time taken for string with 16 bytes is	Mono 0, 3818	CPU 0, 2661 
+the time taken for string with 64 bytes is	Mono 0, 3832	CPU 0, 2615 
+the time taken for string with 256 bytes is	Mono 0, 4303	CPU 0, 2646 
+the time taken for string with 1024 bytes is	Mono 0, 6237	CPU 0, 2778 
+the time taken for string with 4096 bytes is	Mono 0, 14009	CPU 0, 3337 
+the time taken for string with 16384 bytes is	Mono 0, 45633	CPU 0, 6156 
+the time taken for string with 65536 bytes is	Mono 0, 172168	CPU 0, 16803 
+the time taken for string with 262144 bytes is	Mono 0, 699891	CPU 0, 71123 
+the time taken for string with 524288 bytes is	Mono 0, 1402287	CPU 0, 139059 
+
+starting iteration 59
+
+the time taken for string with 1 bytes is	Mono 0, 4013	CPU 0, 2773 
+the time taken for string with 2 bytes is	Mono 0, 3719	CPU 0, 2616 
+the time taken for string with 4 bytes is	Mono 0, 3687	CPU 0, 2612 
+the time taken for string with 16 bytes is	Mono 0, 3844	CPU 0, 2639 
+the time taken for string with 64 bytes is	Mono 0, 4434	CPU 0, 2735 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2697 
+the time taken for string with 1024 bytes is	Mono 0, 6277	CPU 0, 2787 
+the time taken for string with 4096 bytes is	Mono 0, 13957	CPU 0, 3328 
+the time taken for string with 16384 bytes is	Mono 0, 45675	CPU 0, 6157 
+the time taken for string with 65536 bytes is	Mono 0, 172256	CPU 0, 16958 
+the time taken for string with 262144 bytes is	Mono 0, 699667	CPU 0, 70050 
+the time taken for string with 524288 bytes is	Mono 0, 1402962	CPU 0, 138737 
+
+starting iteration 60
+
+the time taken for string with 1 bytes is	Mono 0, 3901	CPU 0, 2745 
+the time taken for string with 2 bytes is	Mono 0, 3710	CPU 0, 2638 
+the time taken for string with 4 bytes is	Mono 0, 3729	CPU 0, 2620 
+the time taken for string with 16 bytes is	Mono 0, 3785	CPU 0, 2679 
+the time taken for string with 64 bytes is	Mono 0, 3838	CPU 0, 2628 
+the time taken for string with 256 bytes is	Mono 0, 4209	CPU 0, 2576 
+the time taken for string with 1024 bytes is	Mono 0, 52120	CPU 0, 2844 
+the time taken for string with 4096 bytes is	Mono 0, 13765	CPU 0, 3145 
+the time taken for string with 16384 bytes is	Mono 0, 45650	CPU 0, 6033 
+the time taken for string with 65536 bytes is	Mono 0, 180692	CPU 0, 25732 
+the time taken for string with 262144 bytes is	Mono 0, 778293	CPU 0, 144911 
+the time taken for string with 524288 bytes is	Mono 0, 1412371	CPU 0, 149920 
+
+starting iteration 61
+
+the time taken for string with 1 bytes is	Mono 0, 12669	CPU 0, 2622 
+the time taken for string with 2 bytes is	Mono 0, 12391	CPU 0, 2430 
+the time taken for string with 4 bytes is	Mono 0, 3599	CPU 0, 2646 
+the time taken for string with 16 bytes is	Mono 0, 3720	CPU 0, 2741 
+the time taken for string with 64 bytes is	Mono 0, 3623	CPU 0, 2568 
+the time taken for string with 256 bytes is	Mono 0, 4126	CPU 0, 2653 
+the time taken for string with 1024 bytes is	Mono 0, 6106	CPU 0, 2825 
+the time taken for string with 4096 bytes is	Mono 0, 13693	CPU 0, 3280 
+the time taken for string with 16384 bytes is	Mono 0, 45678	CPU 0, 6259 
+the time taken for string with 65536 bytes is	Mono 0, 172244	CPU 0, 17163 
+the time taken for string with 262144 bytes is	Mono 0, 697555	CPU 0, 69732 
+the time taken for string with 524288 bytes is	Mono 0, 1436914	CPU 0, 136692 
+
+starting iteration 62
+
+the time taken for string with 1 bytes is	Mono 0, 4317	CPU 0, 2761 
+the time taken for string with 2 bytes is	Mono 0, 3813	CPU 0, 2743 
+the time taken for string with 4 bytes is	Mono 0, 4845	CPU 0, 3728 
+the time taken for string with 16 bytes is	Mono 0, 3716	CPU 0, 2629 
+the time taken for string with 64 bytes is	Mono 0, 3880	CPU 0, 2659 
+the time taken for string with 256 bytes is	Mono 0, 4291	CPU 0, 2674 
+the time taken for string with 1024 bytes is	Mono 0, 6187	CPU 0, 2789 
+the time taken for string with 4096 bytes is	Mono 0, 14022	CPU 0, 3330 
+the time taken for string with 16384 bytes is	Mono 0, 45733	CPU 0, 6224 
+the time taken for string with 65536 bytes is	Mono 0, 172597	CPU 0, 17107 
+the time taken for string with 262144 bytes is	Mono 0, 699941	CPU 0, 69354 
+the time taken for string with 524288 bytes is	Mono 0, 1403119	CPU 0, 139051 
+
+starting iteration 63
+
+the time taken for string with 1 bytes is	Mono 0, 3914	CPU 0, 2769 
+the time taken for string with 2 bytes is	Mono 0, 3697	CPU 0, 2601 
+the time taken for string with 4 bytes is	Mono 0, 3751	CPU 0, 2704 
+the time taken for string with 16 bytes is	Mono 0, 3878	CPU 0, 2698 
+the time taken for string with 64 bytes is	Mono 0, 3864	CPU 0, 2650 
+the time taken for string with 256 bytes is	Mono 0, 4287	CPU 0, 2641 
+the time taken for string with 1024 bytes is	Mono 0, 6275	CPU 0, 2811 
+the time taken for string with 4096 bytes is	Mono 0, 13884	CPU 0, 3303 
+the time taken for string with 16384 bytes is	Mono 0, 47362	CPU 0, 6315 
+the time taken for string with 65536 bytes is	Mono 0, 172343	CPU 0, 17241 
+the time taken for string with 262144 bytes is	Mono 0, 700123	CPU 0, 69576 
+the time taken for string with 524288 bytes is	Mono 0, 1402826	CPU 0, 138621 
+
+starting iteration 64
+
+the time taken for string with 1 bytes is	Mono 0, 3853	CPU 0, 2684 
+the time taken for string with 2 bytes is	Mono 0, 3670	CPU 0, 2599 
+the time taken for string with 4 bytes is	Mono 0, 3704	CPU 0, 2591 
+the time taken for string with 16 bytes is	Mono 0, 3768	CPU 0, 2656 
+the time taken for string with 64 bytes is	Mono 0, 3828	CPU 0, 2626 
+the time taken for string with 256 bytes is	Mono 0, 4367	CPU 0, 2697 
+the time taken for string with 1024 bytes is	Mono 0, 6309	CPU 0, 2822 
+the time taken for string with 4096 bytes is	Mono 0, 13923	CPU 0, 3326 
+the time taken for string with 16384 bytes is	Mono 0, 45707	CPU 0, 6090 
+the time taken for string with 65536 bytes is	Mono 0, 172508	CPU 0, 17144 
+the time taken for string with 262144 bytes is	Mono 0, 700668	CPU 0, 69455 
+the time taken for string with 524288 bytes is	Mono 0, 1403310	CPU 0, 139741 
+
+starting iteration 65
+
+the time taken for string with 1 bytes is	Mono 0, 4336	CPU 0, 2795 
+the time taken for string with 2 bytes is	Mono 0, 3624	CPU 0, 2615 
+the time taken for string with 4 bytes is	Mono 0, 3499	CPU 0, 2377 
+the time taken for string with 16 bytes is	Mono 0, 3779	CPU 0, 2553 
+the time taken for string with 64 bytes is	Mono 0, 3655	CPU 0, 2418 
+the time taken for string with 256 bytes is	Mono 0, 4163	CPU 0, 2490 
+the time taken for string with 1024 bytes is	Mono 0, 6015	CPU 0, 2603 
+the time taken for string with 4096 bytes is	Mono 0, 13691	CPU 0, 3054 
+the time taken for string with 16384 bytes is	Mono 0, 45572	CPU 0, 6010 
+the time taken for string with 65536 bytes is	Mono 0, 172219	CPU 0, 16852 
+the time taken for string with 262144 bytes is	Mono 0, 747657	CPU 0, 118805 
+the time taken for string with 524288 bytes is	Mono 0, 1433854	CPU 0, 172138 
+
+starting iteration 66
+
+the time taken for string with 1 bytes is	Mono 0, 3972	CPU 0, 2761 
+the time taken for string with 2 bytes is	Mono 0, 3733	CPU 0, 2636 
+the time taken for string with 4 bytes is	Mono 0, 3748	CPU 0, 2619 
+the time taken for string with 16 bytes is	Mono 0, 3778	CPU 0, 2627 
+the time taken for string with 64 bytes is	Mono 0, 3857	CPU 0, 2665 
+the time taken for string with 256 bytes is	Mono 0, 4314	CPU 0, 2659 
+the time taken for string with 1024 bytes is	Mono 0, 6254	CPU 0, 2801 
+the time taken for string with 4096 bytes is	Mono 0, 15630	CPU 0, 3512 
+the time taken for string with 16384 bytes is	Mono 0, 45766	CPU 0, 6308 
+the time taken for string with 65536 bytes is	Mono 0, 172336	CPU 0, 17134 
+the time taken for string with 262144 bytes is	Mono 0, 700514	CPU 0, 70160 
+the time taken for string with 524288 bytes is	Mono 0, 1402804	CPU 0, 137637 
+
+starting iteration 67
+
+the time taken for string with 1 bytes is	Mono 0, 11042	CPU 0, 9435 
+the time taken for string with 2 bytes is	Mono 0, 3798	CPU 0, 2672 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2625 
+the time taken for string with 16 bytes is	Mono 0, 3836	CPU 0, 2696 
+the time taken for string with 64 bytes is	Mono 0, 3886	CPU 0, 2660 
+the time taken for string with 256 bytes is	Mono 0, 4230	CPU 0, 2610 
+the time taken for string with 1024 bytes is	Mono 0, 6224	CPU 0, 2822 
+the time taken for string with 4096 bytes is	Mono 0, 13919	CPU 0, 3318 
+the time taken for string with 16384 bytes is	Mono 0, 45712	CPU 0, 6227 
+the time taken for string with 65536 bytes is	Mono 0, 172240	CPU 0, 17078 
+the time taken for string with 262144 bytes is	Mono 0, 698437	CPU 0, 70041 
+the time taken for string with 524288 bytes is	Mono 0, 1402738	CPU 0, 139435 
+
+starting iteration 68
+
+the time taken for string with 1 bytes is	Mono 0, 4217	CPU 0, 2763 
+the time taken for string with 2 bytes is	Mono 0, 3764	CPU 0, 2811 
+the time taken for string with 4 bytes is	Mono 0, 3773	CPU 0, 2663 
+the time taken for string with 16 bytes is	Mono 0, 3828	CPU 0, 2675 
+the time taken for string with 64 bytes is	Mono 0, 3872	CPU 0, 2713 
+the time taken for string with 256 bytes is	Mono 0, 4360	CPU 0, 2736 
+the time taken for string with 1024 bytes is	Mono 0, 6297	CPU 0, 2857 
+the time taken for string with 4096 bytes is	Mono 0, 13898	CPU 0, 3381 
+the time taken for string with 16384 bytes is	Mono 0, 45674	CPU 0, 6124 
+the time taken for string with 65536 bytes is	Mono 0, 172335	CPU 0, 16893 
+the time taken for string with 262144 bytes is	Mono 0, 699823	CPU 0, 69589 
+the time taken for string with 524288 bytes is	Mono 0, 1401583	CPU 0, 138885 
+
+starting iteration 69
+
+the time taken for string with 1 bytes is	Mono 0, 4247	CPU 0, 2787 
+the time taken for string with 2 bytes is	Mono 0, 12812	CPU 0, 2473 
+the time taken for string with 4 bytes is	Mono 0, 12730	CPU 0, 2475 
+the time taken for string with 16 bytes is	Mono 0, 12809	CPU 0, 2507 
+the time taken for string with 64 bytes is	Mono 0, 12943	CPU 0, 2460 
+the time taken for string with 256 bytes is	Mono 0, 13240	CPU 0, 2474 
+the time taken for string with 1024 bytes is	Mono 0, 15263	CPU 0, 2645 
+the time taken for string with 4096 bytes is	Mono 0, 23617	CPU 0, 3282 
+the time taken for string with 16384 bytes is	Mono 0, 54549	CPU 0, 5801 
+the time taken for string with 65536 bytes is	Mono 0, 172529	CPU 0, 17107 
+the time taken for string with 262144 bytes is	Mono 0, 748546	CPU 0, 119000 
+the time taken for string with 524288 bytes is	Mono 0, 1446744	CPU 0, 185378 
+
+starting iteration 70
+
+the time taken for string with 1 bytes is	Mono 0, 4011	CPU 0, 2778 
+the time taken for string with 2 bytes is	Mono 0, 3698	CPU 0, 2640 
+the time taken for string with 4 bytes is	Mono 0, 3750	CPU 0, 2683 
+the time taken for string with 16 bytes is	Mono 0, 3831	CPU 0, 2727 
+the time taken for string with 64 bytes is	Mono 0, 3834	CPU 0, 2680 
+the time taken for string with 256 bytes is	Mono 0, 4284	CPU 0, 2685 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2853 
+the time taken for string with 4096 bytes is	Mono 0, 13969	CPU 0, 3363 
+the time taken for string with 16384 bytes is	Mono 0, 45807	CPU 0, 6376 
+the time taken for string with 65536 bytes is	Mono 0, 175342	CPU 0, 18577 
+the time taken for string with 262144 bytes is	Mono 0, 698469	CPU 0, 70178 
+the time taken for string with 524288 bytes is	Mono 0, 1401662	CPU 0, 138769 
+
+starting iteration 71
+
+the time taken for string with 1 bytes is	Mono 0, 3829	CPU 0, 2698 
+the time taken for string with 2 bytes is	Mono 0, 3678	CPU 0, 2608 
+the time taken for string with 4 bytes is	Mono 0, 3647	CPU 0, 2633 
+the time taken for string with 16 bytes is	Mono 0, 3833	CPU 0, 2717 
+the time taken for string with 64 bytes is	Mono 0, 3854	CPU 0, 2649 
+the time taken for string with 256 bytes is	Mono 0, 4245	CPU 0, 2667 
+the time taken for string with 1024 bytes is	Mono 0, 6236	CPU 0, 2797 
+the time taken for string with 4096 bytes is	Mono 0, 13811	CPU 0, 3253 
+the time taken for string with 16384 bytes is	Mono 0, 45646	CPU 0, 6121 
+the time taken for string with 65536 bytes is	Mono 0, 172561	CPU 0, 16685 
+the time taken for string with 262144 bytes is	Mono 0, 766602	CPU 0, 65927 
+the time taken for string with 524288 bytes is	Mono 0, 1422691	CPU 0, 136254 
+
+starting iteration 72
+
+the time taken for string with 1 bytes is	Mono 0, 3847	CPU 0, 2670 
+the time taken for string with 2 bytes is	Mono 0, 3644	CPU 0, 2591 
+the time taken for string with 4 bytes is	Mono 0, 4246	CPU 0, 2732 
+the time taken for string with 16 bytes is	Mono 0, 3716	CPU 0, 2690 
+the time taken for string with 64 bytes is	Mono 0, 3811	CPU 0, 2669 
+the time taken for string with 256 bytes is	Mono 0, 4278	CPU 0, 2705 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2815 
+the time taken for string with 4096 bytes is	Mono 0, 13934	CPU 0, 3351 
+the time taken for string with 16384 bytes is	Mono 0, 45601	CPU 0, 6118 
+the time taken for string with 65536 bytes is	Mono 0, 172499	CPU 0, 16927 
+the time taken for string with 262144 bytes is	Mono 0, 700308	CPU 0, 69705 
+the time taken for string with 524288 bytes is	Mono 0, 1402094	CPU 0, 138834 
+
+starting iteration 73
+
+the time taken for string with 1 bytes is	Mono 0, 3946	CPU 0, 2747 
+the time taken for string with 2 bytes is	Mono 0, 3670	CPU 0, 2592 
+the time taken for string with 4 bytes is	Mono 0, 3697	CPU 0, 2611 
+the time taken for string with 16 bytes is	Mono 0, 3831	CPU 0, 2717 
+the time taken for string with 64 bytes is	Mono 0, 3868	CPU 0, 2673 
+the time taken for string with 256 bytes is	Mono 0, 4286	CPU 0, 2670 
+the time taken for string with 1024 bytes is	Mono 0, 6197	CPU 0, 2813 
+the time taken for string with 4096 bytes is	Mono 0, 13862	CPU 0, 3271 
+the time taken for string with 16384 bytes is	Mono 0, 45761	CPU 0, 6198 
+the time taken for string with 65536 bytes is	Mono 0, 172891	CPU 0, 17089 
+the time taken for string with 262144 bytes is	Mono 0, 741489	CPU 0, 111447 
+the time taken for string with 524288 bytes is	Mono 0, 1472498	CPU 0, 213425 
+
+starting iteration 74
+
+the time taken for string with 1 bytes is	Mono 0, 3987	CPU 0, 2722 
+the time taken for string with 2 bytes is	Mono 0, 3727	CPU 0, 2591 
+the time taken for string with 4 bytes is	Mono 0, 3738	CPU 0, 2611 
+the time taken for string with 16 bytes is	Mono 0, 3786	CPU 0, 2647 
+the time taken for string with 64 bytes is	Mono 0, 3809	CPU 0, 2642 
+the time taken for string with 256 bytes is	Mono 0, 4185	CPU 0, 2523 
+the time taken for string with 1024 bytes is	Mono 0, 6119	CPU 0, 2650 
+the time taken for string with 4096 bytes is	Mono 0, 13780	CPU 0, 3188 
+the time taken for string with 16384 bytes is	Mono 0, 45724	CPU 0, 6100 
+the time taken for string with 65536 bytes is	Mono 0, 172022	CPU 0, 16812 
+the time taken for string with 262144 bytes is	Mono 0, 698237	CPU 0, 69864 
+the time taken for string with 524288 bytes is	Mono 0, 1407760	CPU 0, 145191 
+
+starting iteration 75
+
+the time taken for string with 1 bytes is	Mono 0, 4399	CPU 0, 2885 
+the time taken for string with 2 bytes is	Mono 0, 3772	CPU 0, 2692 
+the time taken for string with 4 bytes is	Mono 0, 3768	CPU 0, 2681 
+the time taken for string with 16 bytes is	Mono 0, 3895	CPU 0, 2696 
+the time taken for string with 64 bytes is	Mono 0, 3848	CPU 0, 2647 
+the time taken for string with 256 bytes is	Mono 0, 4282	CPU 0, 2661 
+the time taken for string with 1024 bytes is	Mono 0, 6277	CPU 0, 2805 
+the time taken for string with 4096 bytes is	Mono 0, 13907	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45767	CPU 0, 6210 
+the time taken for string with 65536 bytes is	Mono 0, 172173	CPU 0, 16924 
+the time taken for string with 262144 bytes is	Mono 0, 699592	CPU 0, 69333 
+the time taken for string with 524288 bytes is	Mono 0, 1459347	CPU 0, 137724 
+
+starting iteration 76
+
+the time taken for string with 1 bytes is	Mono 0, 3902	CPU 0, 2732 
+the time taken for string with 2 bytes is	Mono 0, 3686	CPU 0, 2599 
+the time taken for string with 4 bytes is	Mono 0, 3719	CPU 0, 2634 
+the time taken for string with 16 bytes is	Mono 0, 3772	CPU 0, 2715 
+the time taken for string with 64 bytes is	Mono 0, 3820	CPU 0, 2647 
+the time taken for string with 256 bytes is	Mono 0, 4284	CPU 0, 2683 
+the time taken for string with 1024 bytes is	Mono 0, 6226	CPU 0, 2828 
+the time taken for string with 4096 bytes is	Mono 0, 13892	CPU 0, 3315 
+the time taken for string with 16384 bytes is	Mono 0, 46135	CPU 0, 6229 
+the time taken for string with 65536 bytes is	Mono 0, 172286	CPU 0, 17065 
+the time taken for string with 262144 bytes is	Mono 0, 700543	CPU 0, 70200 
+the time taken for string with 524288 bytes is	Mono 0, 1403927	CPU 0, 140457 
+
+starting iteration 77
+
+the time taken for string with 1 bytes is	Mono 0, 3877	CPU 0, 2714 
+the time taken for string with 2 bytes is	Mono 0, 3698	CPU 0, 2581 
+the time taken for string with 4 bytes is	Mono 0, 3691	CPU 0, 2620 
+the time taken for string with 16 bytes is	Mono 0, 3811	CPU 0, 2709 
+the time taken for string with 64 bytes is	Mono 0, 3773	CPU 0, 2642 
+the time taken for string with 256 bytes is	Mono 0, 4281	CPU 0, 2658 
+the time taken for string with 1024 bytes is	Mono 0, 6175	CPU 0, 2821 
+the time taken for string with 4096 bytes is	Mono 0, 13905	CPU 0, 3287 
+the time taken for string with 16384 bytes is	Mono 0, 45523	CPU 0, 6117 
+the time taken for string with 65536 bytes is	Mono 0, 172140	CPU 0, 16963 
+the time taken for string with 262144 bytes is	Mono 0, 698825	CPU 0, 70188 
+the time taken for string with 524288 bytes is	Mono 0, 1403213	CPU 0, 139377 
+
+starting iteration 78
+
+the time taken for string with 1 bytes is	Mono 0, 4285	CPU 0, 2851 
+the time taken for string with 2 bytes is	Mono 0, 3704	CPU 0, 2703 
+the time taken for string with 4 bytes is	Mono 0, 3369	CPU 0, 2283 
+the time taken for string with 16 bytes is	Mono 0, 3811	CPU 0, 2718 
+the time taken for string with 64 bytes is	Mono 0, 3915	CPU 0, 2698 
+the time taken for string with 256 bytes is	Mono 0, 4349	CPU 0, 2726 
+the time taken for string with 1024 bytes is	Mono 0, 6285	CPU 0, 2848 
+the time taken for string with 4096 bytes is	Mono 0, 13918	CPU 0, 3317 
+the time taken for string with 16384 bytes is	Mono 0, 45667	CPU 0, 6270 
+the time taken for string with 65536 bytes is	Mono 0, 172335	CPU 0, 17028 
+the time taken for string with 262144 bytes is	Mono 0, 699817	CPU 0, 69844 
+the time taken for string with 524288 bytes is	Mono 0, 1441980	CPU 0, 178954 
+
+starting iteration 79
+
+the time taken for string with 1 bytes is	Mono 0, 3886	CPU 0, 2669 
+the time taken for string with 2 bytes is	Mono 0, 3485	CPU 0, 2451 
+the time taken for string with 4 bytes is	Mono 0, 3491	CPU 0, 2406 
+the time taken for string with 16 bytes is	Mono 0, 3689	CPU 0, 2508 
+the time taken for string with 64 bytes is	Mono 0, 3688	CPU 0, 2457 
+the time taken for string with 256 bytes is	Mono 0, 4122	CPU 0, 2466 
+the time taken for string with 1024 bytes is	Mono 0, 6115	CPU 0, 2635 
+the time taken for string with 4096 bytes is	Mono 0, 14771	CPU 0, 3112 
+the time taken for string with 16384 bytes is	Mono 0, 46092	CPU 0, 6173 
+the time taken for string with 65536 bytes is	Mono 0, 172361	CPU 0, 17070 
+the time taken for string with 262144 bytes is	Mono 0, 747545	CPU 0, 118999 
+the time taken for string with 524288 bytes is	Mono 0, 1437156	CPU 0, 174239 
+
+starting iteration 80
+
+the time taken for string with 1 bytes is	Mono 0, 3892	CPU 0, 2723 
+the time taken for string with 2 bytes is	Mono 0, 3702	CPU 0, 2632 
+the time taken for string with 4 bytes is	Mono 0, 3707	CPU 0, 2594 
+the time taken for string with 16 bytes is	Mono 0, 3738	CPU 0, 2658 
+the time taken for string with 64 bytes is	Mono 0, 3851	CPU 0, 2624 
+the time taken for string with 256 bytes is	Mono 0, 4327	CPU 0, 2677 
+the time taken for string with 1024 bytes is	Mono 0, 6271	CPU 0, 2852 
+the time taken for string with 4096 bytes is	Mono 0, 13990	CPU 0, 3285 
+the time taken for string with 16384 bytes is	Mono 0, 45836	CPU 0, 6254 
+the time taken for string with 65536 bytes is	Mono 0, 173781	CPU 0, 17198 
+the time taken for string with 262144 bytes is	Mono 0, 697996	CPU 0, 69830 
+the time taken for string with 524288 bytes is	Mono 0, 1402274	CPU 0, 139044 
+
+starting iteration 81
+
+the time taken for string with 1 bytes is	Mono 0, 3977	CPU 0, 2745 
+the time taken for string with 2 bytes is	Mono 0, 3670	CPU 0, 2565 
+the time taken for string with 4 bytes is	Mono 0, 3663	CPU 0, 2588 
+the time taken for string with 16 bytes is	Mono 0, 3814	CPU 0, 2663 
+the time taken for string with 64 bytes is	Mono 0, 3812	CPU 0, 2608 
+the time taken for string with 256 bytes is	Mono 0, 4248	CPU 0, 2619 
+the time taken for string with 1024 bytes is	Mono 0, 6235	CPU 0, 2796 
+the time taken for string with 4096 bytes is	Mono 0, 13841	CPU 0, 3241 
+the time taken for string with 16384 bytes is	Mono 0, 45663	CPU 0, 6106 
+the time taken for string with 65536 bytes is	Mono 0, 172206	CPU 0, 16913 
+the time taken for string with 262144 bytes is	Mono 0, 700242	CPU 0, 69986 
+the time taken for string with 524288 bytes is	Mono 0, 1400927	CPU 0, 138309 
+
+starting iteration 82
+
+the time taken for string with 1 bytes is	Mono 0, 4449	CPU 0, 2840 
+the time taken for string with 2 bytes is	Mono 0, 3696	CPU 0, 2573 
+the time taken for string with 4 bytes is	Mono 0, 3770	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3731	CPU 0, 2632 
+the time taken for string with 64 bytes is	Mono 0, 3856	CPU 0, 2661 
+the time taken for string with 256 bytes is	Mono 0, 4302	CPU 0, 2685 
+the time taken for string with 1024 bytes is	Mono 0, 7939	CPU 0, 3018 
+the time taken for string with 4096 bytes is	Mono 0, 14054	CPU 0, 3416 
+the time taken for string with 16384 bytes is	Mono 0, 45881	CPU 0, 6241 
+the time taken for string with 65536 bytes is	Mono 0, 172327	CPU 0, 16873 
+the time taken for string with 262144 bytes is	Mono 0, 700017	CPU 0, 69815 
+the time taken for string with 524288 bytes is	Mono 0, 1451823	CPU 0, 188869 
+
+starting iteration 83
+
+the time taken for string with 1 bytes is	Mono 0, 3989	CPU 0, 2804 
+the time taken for string with 2 bytes is	Mono 0, 3701	CPU 0, 2610 
+the time taken for string with 4 bytes is	Mono 0, 3728	CPU 0, 2659 
+the time taken for string with 16 bytes is	Mono 0, 3783	CPU 0, 2690 
+the time taken for string with 64 bytes is	Mono 0, 3874	CPU 0, 2669 
+the time taken for string with 256 bytes is	Mono 0, 4302	CPU 0, 2668 
+the time taken for string with 1024 bytes is	Mono 0, 6263	CPU 0, 2832 
+the time taken for string with 4096 bytes is	Mono 0, 13884	CPU 0, 3326 
+the time taken for string with 16384 bytes is	Mono 0, 45760	CPU 0, 6117 
+the time taken for string with 65536 bytes is	Mono 0, 173572	CPU 0, 16922 
+the time taken for string with 262144 bytes is	Mono 0, 697185	CPU 0, 68400 
+the time taken for string with 524288 bytes is	Mono 0, 1408517	CPU 0, 146033 
+
+starting iteration 84
+
+the time taken for string with 1 bytes is	Mono 0, 4302	CPU 0, 2727 
+the time taken for string with 2 bytes is	Mono 0, 3730	CPU 0, 2621 
+the time taken for string with 4 bytes is	Mono 0, 3751	CPU 0, 2667 
+the time taken for string with 16 bytes is	Mono 0, 3750	CPU 0, 2650 
+the time taken for string with 64 bytes is	Mono 0, 3821	CPU 0, 2665 
+the time taken for string with 256 bytes is	Mono 0, 4258	CPU 0, 2690 
+the time taken for string with 1024 bytes is	Mono 0, 6207	CPU 0, 2833 
+the time taken for string with 4096 bytes is	Mono 0, 13989	CPU 0, 3376 
+the time taken for string with 16384 bytes is	Mono 0, 46024	CPU 0, 6372 
+the time taken for string with 65536 bytes is	Mono 0, 172399	CPU 0, 17151 
+the time taken for string with 262144 bytes is	Mono 0, 700026	CPU 0, 69717 
+the time taken for string with 524288 bytes is	Mono 0, 1403612	CPU 0, 139038 
+
+starting iteration 85
+
+the time taken for string with 1 bytes is	Mono 0, 3961	CPU 0, 2773 
+the time taken for string with 2 bytes is	Mono 0, 3704	CPU 0, 2667 
+the time taken for string with 4 bytes is	Mono 0, 3715	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3848	CPU 0, 2696 
+the time taken for string with 64 bytes is	Mono 0, 3827	CPU 0, 2648 
+the time taken for string with 256 bytes is	Mono 0, 4577	CPU 0, 2978 
+the time taken for string with 1024 bytes is	Mono 0, 6408	CPU 0, 2902 
+the time taken for string with 4096 bytes is	Mono 0, 13857	CPU 0, 3325 
+the time taken for string with 16384 bytes is	Mono 0, 45715	CPU 0, 6167 
+the time taken for string with 65536 bytes is	Mono 0, 172612	CPU 0, 17086 
+the time taken for string with 262144 bytes is	Mono 0, 700650	CPU 0, 70118 
+the time taken for string with 524288 bytes is	Mono 0, 1403045	CPU 0, 138954 
+
+starting iteration 86
+
+the time taken for string with 1 bytes is	Mono 0, 3972	CPU 0, 2781 
+the time taken for string with 2 bytes is	Mono 0, 3737	CPU 0, 2652 
+the time taken for string with 4 bytes is	Mono 0, 3730	CPU 0, 2663 
+the time taken for string with 16 bytes is	Mono 0, 3773	CPU 0, 2675 
+the time taken for string with 64 bytes is	Mono 0, 3903	CPU 0, 2674 
+the time taken for string with 256 bytes is	Mono 0, 4313	CPU 0, 2708 
+the time taken for string with 1024 bytes is	Mono 0, 6219	CPU 0, 2851 
+the time taken for string with 4096 bytes is	Mono 0, 13955	CPU 0, 3352 
+the time taken for string with 16384 bytes is	Mono 0, 45792	CPU 0, 6207 
+the time taken for string with 65536 bytes is	Mono 0, 174423	CPU 0, 17362 
+the time taken for string with 262144 bytes is	Mono 0, 725388	CPU 0, 99285 
+the time taken for string with 524288 bytes is	Mono 0, 1401901	CPU 0, 138785 
+
+starting iteration 87
+
+the time taken for string with 1 bytes is	Mono 0, 3967	CPU 0, 2759 
+the time taken for string with 2 bytes is	Mono 0, 3782	CPU 0, 2645 
+the time taken for string with 4 bytes is	Mono 0, 3744	CPU 0, 2691 
+the time taken for string with 16 bytes is	Mono 0, 3864	CPU 0, 2711 
+the time taken for string with 64 bytes is	Mono 0, 4008	CPU 0, 2731 
+the time taken for string with 256 bytes is	Mono 0, 4385	CPU 0, 2749 
+the time taken for string with 1024 bytes is	Mono 0, 6366	CPU 0, 2889 
+the time taken for string with 4096 bytes is	Mono 0, 14025	CPU 0, 3409 
+the time taken for string with 16384 bytes is	Mono 0, 45739	CPU 0, 6174 
+the time taken for string with 65536 bytes is	Mono 0, 172201	CPU 0, 16999 
+the time taken for string with 262144 bytes is	Mono 0, 700079	CPU 0, 69925 
+the time taken for string with 524288 bytes is	Mono 0, 1402073	CPU 0, 138723 
+
+starting iteration 88
+
+the time taken for string with 1 bytes is	Mono 0, 3849	CPU 0, 2694 
+the time taken for string with 2 bytes is	Mono 0, 3669	CPU 0, 2591 
+the time taken for string with 4 bytes is	Mono 0, 3723	CPU 0, 2648 
+the time taken for string with 16 bytes is	Mono 0, 3821	CPU 0, 2623 
+the time taken for string with 64 bytes is	Mono 0, 3782	CPU 0, 2558 
+the time taken for string with 256 bytes is	Mono 0, 4176	CPU 0, 2522 
+the time taken for string with 1024 bytes is	Mono 0, 6641	CPU 0, 2784 
+the time taken for string with 4096 bytes is	Mono 0, 13755	CPU 0, 3217 
+the time taken for string with 16384 bytes is	Mono 0, 45414	CPU 0, 5904 
+the time taken for string with 65536 bytes is	Mono 0, 172101	CPU 0, 16861 
+the time taken for string with 262144 bytes is	Mono 0, 747234	CPU 0, 118392 
+the time taken for string with 524288 bytes is	Mono 0, 1400550	CPU 0, 137140 
+
+starting iteration 89
+
+the time taken for string with 1 bytes is	Mono 0, 3988	CPU 0, 2799 
+the time taken for string with 2 bytes is	Mono 0, 3757	CPU 0, 2637 
+the time taken for string with 4 bytes is	Mono 0, 3714	CPU 0, 2645 
+the time taken for string with 16 bytes is	Mono 0, 3889	CPU 0, 2725 
+the time taken for string with 64 bytes is	Mono 0, 3859	CPU 0, 2659 
+the time taken for string with 256 bytes is	Mono 0, 4317	CPU 0, 2656 
+the time taken for string with 1024 bytes is	Mono 0, 6239	CPU 0, 2824 
+the time taken for string with 4096 bytes is	Mono 0, 13970	CPU 0, 3310 
+the time taken for string with 16384 bytes is	Mono 0, 45663	CPU 0, 6156 
+the time taken for string with 65536 bytes is	Mono 0, 174102	CPU 0, 17218 
+the time taken for string with 262144 bytes is	Mono 0, 698520	CPU 0, 69873 
+the time taken for string with 524288 bytes is	Mono 0, 1404186	CPU 0, 139279 
+
+starting iteration 90
+
+the time taken for string with 1 bytes is	Mono 0, 3817	CPU 0, 2623 
+the time taken for string with 2 bytes is	Mono 0, 3553	CPU 0, 2462 
+the time taken for string with 4 bytes is	Mono 0, 3561	CPU 0, 2440 
+the time taken for string with 16 bytes is	Mono 0, 3626	CPU 0, 2497 
+the time taken for string with 64 bytes is	Mono 0, 3691	CPU 0, 2462 
+the time taken for string with 256 bytes is	Mono 0, 4138	CPU 0, 2449 
+the time taken for string with 1024 bytes is	Mono 0, 6075	CPU 0, 2588 
+the time taken for string with 4096 bytes is	Mono 0, 13801	CPU 0, 3127 
+the time taken for string with 16384 bytes is	Mono 0, 45602	CPU 0, 6052 
+the time taken for string with 65536 bytes is	Mono 0, 171867	CPU 0, 16748 
+the time taken for string with 262144 bytes is	Mono 0, 744298	CPU 0, 91430 
+the time taken for string with 524288 bytes is	Mono 0, 1498948	CPU 0, 137800 
+
+starting iteration 91
+
+the time taken for string with 1 bytes is	Mono 0, 4247	CPU 0, 2768 
+the time taken for string with 2 bytes is	Mono 0, 3797	CPU 0, 2858 
+the time taken for string with 4 bytes is	Mono 0, 3729	CPU 0, 2626 
+the time taken for string with 16 bytes is	Mono 0, 3815	CPU 0, 2715 
+the time taken for string with 64 bytes is	Mono 0, 3888	CPU 0, 2646 
+the time taken for string with 256 bytes is	Mono 0, 4247	CPU 0, 2640 
+the time taken for string with 1024 bytes is	Mono 0, 6204	CPU 0, 2803 
+the time taken for string with 4096 bytes is	Mono 0, 13987	CPU 0, 3352 
+the time taken for string with 16384 bytes is	Mono 0, 45665	CPU 0, 6104 
+the time taken for string with 65536 bytes is	Mono 0, 172410	CPU 0, 17075 
+the time taken for string with 262144 bytes is	Mono 0, 699212	CPU 0, 69246 
+the time taken for string with 524288 bytes is	Mono 0, 1402247	CPU 0, 139196 
+
+starting iteration 92
+
+the time taken for string with 1 bytes is	Mono 0, 3871	CPU 0, 2725 
+the time taken for string with 2 bytes is	Mono 0, 3700	CPU 0, 2619 
+the time taken for string with 4 bytes is	Mono 0, 3816	CPU 0, 2659 
+the time taken for string with 16 bytes is	Mono 0, 3769	CPU 0, 2677 
+the time taken for string with 64 bytes is	Mono 0, 3793	CPU 0, 2642 
+the time taken for string with 256 bytes is	Mono 0, 4367	CPU 0, 2689 
+the time taken for string with 1024 bytes is	Mono 0, 6206	CPU 0, 2794 
+the time taken for string with 4096 bytes is	Mono 0, 13953	CPU 0, 3324 
+the time taken for string with 16384 bytes is	Mono 0, 45625	CPU 0, 6134 
+the time taken for string with 65536 bytes is	Mono 0, 172554	CPU 0, 17090 
+the time taken for string with 262144 bytes is	Mono 0, 699484	CPU 0, 69696 
+the time taken for string with 524288 bytes is	Mono 0, 1402752	CPU 0, 138870 
+
+starting iteration 93
+
+the time taken for string with 1 bytes is	Mono 0, 3912	CPU 0, 2774 
+the time taken for string with 2 bytes is	Mono 0, 3563	CPU 0, 2445 
+the time taken for string with 4 bytes is	Mono 0, 3550	CPU 0, 2427 
+the time taken for string with 16 bytes is	Mono 0, 3691	CPU 0, 2520 
+the time taken for string with 64 bytes is	Mono 0, 3655	CPU 0, 2475 
+the time taken for string with 256 bytes is	Mono 0, 4156	CPU 0, 2536 
+the time taken for string with 1024 bytes is	Mono 0, 6103	CPU 0, 2654 
+the time taken for string with 4096 bytes is	Mono 0, 13670	CPU 0, 3074 
+the time taken for string with 16384 bytes is	Mono 0, 45666	CPU 0, 6078 
+the time taken for string with 65536 bytes is	Mono 0, 172361	CPU 0, 17025 
+the time taken for string with 262144 bytes is	Mono 0, 697686	CPU 0, 68486 
+the time taken for string with 524288 bytes is	Mono 0, 1406637	CPU 0, 144304 
+
+starting iteration 94
+
+the time taken for string with 1 bytes is	Mono 0, 3827	CPU 0, 2574 
+the time taken for string with 2 bytes is	Mono 0, 4010	CPU 0, 2536 
+the time taken for string with 4 bytes is	Mono 0, 3584	CPU 0, 2538 
+the time taken for string with 16 bytes is	Mono 0, 3591	CPU 0, 2449 
+the time taken for string with 64 bytes is	Mono 0, 3648	CPU 0, 2449 
+the time taken for string with 256 bytes is	Mono 0, 4131	CPU 0, 2451 
+the time taken for string with 1024 bytes is	Mono 0, 6028	CPU 0, 2596 
+the time taken for string with 4096 bytes is	Mono 0, 13710	CPU 0, 3068 
+the time taken for string with 16384 bytes is	Mono 0, 45737	CPU 0, 6150 
+the time taken for string with 65536 bytes is	Mono 0, 172218	CPU 0, 16899 
+the time taken for string with 262144 bytes is	Mono 0, 699530	CPU 0, 69415 
+the time taken for string with 524288 bytes is	Mono 0, 1486001	CPU 0, 223378 
+
+starting iteration 95
+
+the time taken for string with 1 bytes is	Mono 0, 4002	CPU 0, 2794 
+the time taken for string with 2 bytes is	Mono 0, 3745	CPU 0, 2626 
+the time taken for string with 4 bytes is	Mono 0, 3748	CPU 0, 2668 
+the time taken for string with 16 bytes is	Mono 0, 3844	CPU 0, 2684 
+the time taken for string with 64 bytes is	Mono 0, 3839	CPU 0, 2641 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2656 
+the time taken for string with 1024 bytes is	Mono 0, 6260	CPU 0, 2796 
+the time taken for string with 4096 bytes is	Mono 0, 13877	CPU 0, 3267 
+the time taken for string with 16384 bytes is	Mono 0, 48518	CPU 0, 6282 
+the time taken for string with 65536 bytes is	Mono 0, 173069	CPU 0, 17477 
+the time taken for string with 262144 bytes is	Mono 0, 701809	CPU 0, 70995 
+the time taken for string with 524288 bytes is	Mono 0, 1403909	CPU 0, 139726 
+
+starting iteration 96
+
+the time taken for string with 1 bytes is	Mono 0, 3861	CPU 0, 2658 
+the time taken for string with 2 bytes is	Mono 0, 3728	CPU 0, 2580 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2621 
+the time taken for string with 16 bytes is	Mono 0, 3729	CPU 0, 2608 
+the time taken for string with 64 bytes is	Mono 0, 3948	CPU 0, 2669 
+the time taken for string with 256 bytes is	Mono 0, 4320	CPU 0, 2675 
+the time taken for string with 1024 bytes is	Mono 0, 6231	CPU 0, 2821 
+the time taken for string with 4096 bytes is	Mono 0, 13966	CPU 0, 3313 
+the time taken for string with 16384 bytes is	Mono 0, 45757	CPU 0, 6078 
+the time taken for string with 65536 bytes is	Mono 0, 172174	CPU 0, 16863 
+the time taken for string with 262144 bytes is	Mono 0, 699433	CPU 0, 70681 
+the time taken for string with 524288 bytes is	Mono 0, 1402886	CPU 0, 138945 
+
+starting iteration 97
+
+the time taken for string with 1 bytes is	Mono 0, 4762	CPU 0, 2803 
+the time taken for string with 2 bytes is	Mono 0, 12676	CPU 0, 2541 
+the time taken for string with 4 bytes is	Mono 0, 12714	CPU 0, 2437 
+the time taken for string with 16 bytes is	Mono 0, 13155	CPU 0, 2505 
+the time taken for string with 64 bytes is	Mono 0, 12943	CPU 0, 2464 
+the time taken for string with 256 bytes is	Mono 0, 13387	CPU 0, 2513 
+the time taken for string with 1024 bytes is	Mono 0, 15296	CPU 0, 2678 
+the time taken for string with 4096 bytes is	Mono 0, 13906	CPU 0, 3248 
+the time taken for string with 16384 bytes is	Mono 0, 45822	CPU 0, 6068 
+the time taken for string with 65536 bytes is	Mono 0, 172043	CPU 0, 16850 
+the time taken for string with 262144 bytes is	Mono 0, 734763	CPU 0, 105151 
+the time taken for string with 524288 bytes is	Mono 0, 1433058	CPU 0, 171492 
+
+starting iteration 98
+
+the time taken for string with 1 bytes is	Mono 0, 3994	CPU 0, 2792 
+the time taken for string with 2 bytes is	Mono 0, 3679	CPU 0, 2645 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2637 
+the time taken for string with 16 bytes is	Mono 0, 3788	CPU 0, 2657 
+the time taken for string with 64 bytes is	Mono 0, 3878	CPU 0, 2684 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2646 
+the time taken for string with 1024 bytes is	Mono 0, 7902	CPU 0, 3030 
+the time taken for string with 4096 bytes is	Mono 0, 14062	CPU 0, 3508 
+the time taken for string with 16384 bytes is	Mono 0, 45709	CPU 0, 6248 
+the time taken for string with 65536 bytes is	Mono 0, 172199	CPU 0, 17012 
+the time taken for string with 262144 bytes is	Mono 0, 700377	CPU 0, 69943 
+the time taken for string with 524288 bytes is	Mono 0, 1402012	CPU 0, 138066 
+
+starting iteration 99
+
+the time taken for string with 1 bytes is	Mono 0, 4253	CPU 0, 2695 
+the time taken for string with 2 bytes is	Mono 0, 12649	CPU 0, 2461 
+the time taken for string with 4 bytes is	Mono 0, 12737	CPU 0, 2445 
+the time taken for string with 16 bytes is	Mono 0, 12904	CPU 0, 2503 
+the time taken for string with 64 bytes is	Mono 0, 12849	CPU 0, 2515 
+the time taken for string with 256 bytes is	Mono 0, 13245	CPU 0, 2493 
+the time taken for string with 1024 bytes is	Mono 0, 15570	CPU 0, 2620 
+the time taken for string with 4096 bytes is	Mono 0, 22839	CPU 0, 3050 
+the time taken for string with 16384 bytes is	Mono 0, 45757	CPU 0, 6066 
+the time taken for string with 65536 bytes is	Mono 0, 173937	CPU 0, 17089 
+the time taken for string with 262144 bytes is	Mono 0, 698143	CPU 0, 70115 
+the time taken for string with 524288 bytes is	Mono 0, 1401021	CPU 0, 138460 
+
+starting iteration 100
+
+the time taken for string with 1 bytes is	Mono 0, 3884	CPU 0, 2669 
+the time taken for string with 2 bytes is	Mono 0, 3699	CPU 0, 2622 
+the time taken for string with 4 bytes is	Mono 0, 3696	CPU 0, 2674 
+the time taken for string with 16 bytes is	Mono 0, 3751	CPU 0, 2654 
+the time taken for string with 64 bytes is	Mono 0, 3862	CPU 0, 2667 
+the time taken for string with 256 bytes is	Mono 0, 4278	CPU 0, 2636 
+the time taken for string with 1024 bytes is	Mono 0, 6222	CPU 0, 2806 
+the time taken for string with 4096 bytes is	Mono 0, 13895	CPU 0, 3317 
+the time taken for string with 16384 bytes is	Mono 0, 45648	CPU 0, 6144 
+the time taken for string with 65536 bytes is	Mono 0, 172041	CPU 0, 16923 
+the time taken for string with 262144 bytes is	Mono 0, 699959	CPU 0, 69462 
+the time taken for string with 524288 bytes is	Mono 0, 1400985	CPU 0, 138561 
+
+starting iteration 101
+
+the time taken for string with 1 bytes is	Mono 0, 3886	CPU 0, 2713 
+the time taken for string with 2 bytes is	Mono 0, 3709	CPU 0, 2622 
+the time taken for string with 4 bytes is	Mono 0, 3696	CPU 0, 2628 
+the time taken for string with 16 bytes is	Mono 0, 3813	CPU 0, 2667 
+the time taken for string with 64 bytes is	Mono 0, 3833	CPU 0, 2673 
+the time taken for string with 256 bytes is	Mono 0, 4293	CPU 0, 2634 
+the time taken for string with 1024 bytes is	Mono 0, 6726	CPU 0, 2918 
+the time taken for string with 4096 bytes is	Mono 0, 13814	CPU 0, 3364 
+the time taken for string with 16384 bytes is	Mono 0, 45727	CPU 0, 6191 
+the time taken for string with 65536 bytes is	Mono 0, 172275	CPU 0, 16918 
+the time taken for string with 262144 bytes is	Mono 0, 779274	CPU 0, 65527 
+the time taken for string with 524288 bytes is	Mono 0, 1423465	CPU 0, 137261 
+
+starting iteration 102
+
+the time taken for string with 1 bytes is	Mono 0, 3929	CPU 0, 2741 
+the time taken for string with 2 bytes is	Mono 0, 3657	CPU 0, 2574 
+the time taken for string with 4 bytes is	Mono 0, 3773	CPU 0, 2639 
+the time taken for string with 16 bytes is	Mono 0, 3797	CPU 0, 2592 
+the time taken for string with 64 bytes is	Mono 0, 3711	CPU 0, 2451 
+the time taken for string with 256 bytes is	Mono 0, 4088	CPU 0, 2460 
+the time taken for string with 1024 bytes is	Mono 0, 6079	CPU 0, 2648 
+the time taken for string with 4096 bytes is	Mono 0, 13766	CPU 0, 3159 
+the time taken for string with 16384 bytes is	Mono 0, 45558	CPU 0, 6051 
+the time taken for string with 65536 bytes is	Mono 0, 181773	CPU 0, 25864 
+the time taken for string with 262144 bytes is	Mono 0, 725380	CPU 0, 97658 
+the time taken for string with 524288 bytes is	Mono 0, 1408685	CPU 0, 145380 
+
+starting iteration 103
+
+the time taken for string with 1 bytes is	Mono 0, 3952	CPU 0, 2751 
+the time taken for string with 2 bytes is	Mono 0, 3737	CPU 0, 2721 
+the time taken for string with 4 bytes is	Mono 0, 3703	CPU 0, 2638 
+the time taken for string with 16 bytes is	Mono 0, 3807	CPU 0, 2700 
+the time taken for string with 64 bytes is	Mono 0, 3830	CPU 0, 2656 
+the time taken for string with 256 bytes is	Mono 0, 4265	CPU 0, 2655 
+the time taken for string with 1024 bytes is	Mono 0, 6200	CPU 0, 2802 
+the time taken for string with 4096 bytes is	Mono 0, 13811	CPU 0, 3261 
+the time taken for string with 16384 bytes is	Mono 0, 45759	CPU 0, 6165 
+the time taken for string with 65536 bytes is	Mono 0, 172457	CPU 0, 17155 
+the time taken for string with 262144 bytes is	Mono 0, 740998	CPU 0, 112278 
+the time taken for string with 524288 bytes is	Mono 0, 1455923	CPU 0, 195656 
+
+starting iteration 104
+
+the time taken for string with 1 bytes is	Mono 0, 4181	CPU 0, 2698 
+the time taken for string with 2 bytes is	Mono 0, 3687	CPU 0, 2664 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2602 
+the time taken for string with 16 bytes is	Mono 0, 3747	CPU 0, 2597 
+the time taken for string with 64 bytes is	Mono 0, 3849	CPU 0, 2637 
+the time taken for string with 256 bytes is	Mono 0, 4455	CPU 0, 2754 
+the time taken for string with 1024 bytes is	Mono 0, 6318	CPU 0, 2862 
+the time taken for string with 4096 bytes is	Mono 0, 13921	CPU 0, 3264 
+the time taken for string with 16384 bytes is	Mono 0, 45765	CPU 0, 6217 
+the time taken for string with 65536 bytes is	Mono 0, 172475	CPU 0, 17080 
+the time taken for string with 262144 bytes is	Mono 0, 700848	CPU 0, 70230 
+the time taken for string with 524288 bytes is	Mono 0, 1401875	CPU 0, 138381 
+
+starting iteration 105
+
+the time taken for string with 1 bytes is	Mono 0, 3932	CPU 0, 2707 
+the time taken for string with 2 bytes is	Mono 0, 3701	CPU 0, 2608 
+the time taken for string with 4 bytes is	Mono 0, 3684	CPU 0, 2619 
+the time taken for string with 16 bytes is	Mono 0, 3876	CPU 0, 2726 
+the time taken for string with 64 bytes is	Mono 0, 3819	CPU 0, 2639 
+the time taken for string with 256 bytes is	Mono 0, 4301	CPU 0, 2656 
+the time taken for string with 1024 bytes is	Mono 0, 6265	CPU 0, 2801 
+the time taken for string with 4096 bytes is	Mono 0, 13930	CPU 0, 3295 
+the time taken for string with 16384 bytes is	Mono 0, 47128	CPU 0, 6254 
+the time taken for string with 65536 bytes is	Mono 0, 172644	CPU 0, 17240 
+the time taken for string with 262144 bytes is	Mono 0, 700728	CPU 0, 69454 
+the time taken for string with 524288 bytes is	Mono 0, 1418208	CPU 0, 138879 
+
+starting iteration 106
+
+the time taken for string with 1 bytes is	Mono 0, 3916	CPU 0, 2737 
+the time taken for string with 2 bytes is	Mono 0, 3634	CPU 0, 2587 
+the time taken for string with 4 bytes is	Mono 0, 3734	CPU 0, 2640 
+the time taken for string with 16 bytes is	Mono 0, 3772	CPU 0, 2662 
+the time taken for string with 64 bytes is	Mono 0, 3831	CPU 0, 2637 
+the time taken for string with 256 bytes is	Mono 0, 4262	CPU 0, 2649 
+the time taken for string with 1024 bytes is	Mono 0, 6173	CPU 0, 2781 
+the time taken for string with 4096 bytes is	Mono 0, 13938	CPU 0, 3322 
+the time taken for string with 16384 bytes is	Mono 0, 45522	CPU 0, 6058 
+the time taken for string with 65536 bytes is	Mono 0, 172264	CPU 0, 16935 
+the time taken for string with 262144 bytes is	Mono 0, 700313	CPU 0, 71335 
+the time taken for string with 524288 bytes is	Mono 0, 1407483	CPU 0, 145400 
+
+starting iteration 107
+
+the time taken for string with 1 bytes is	Mono 0, 4058	CPU 0, 2616 
+the time taken for string with 2 bytes is	Mono 0, 3477	CPU 0, 2477 
+the time taken for string with 4 bytes is	Mono 0, 3485	CPU 0, 2374 
+the time taken for string with 16 bytes is	Mono 0, 3938	CPU 0, 2758 
+the time taken for string with 64 bytes is	Mono 0, 3809	CPU 0, 2620 
+the time taken for string with 256 bytes is	Mono 0, 4270	CPU 0, 2644 
+the time taken for string with 1024 bytes is	Mono 0, 6244	CPU 0, 2833 
+the time taken for string with 4096 bytes is	Mono 0, 13855	CPU 0, 3310 
+the time taken for string with 16384 bytes is	Mono 0, 45754	CPU 0, 6235 
+the time taken for string with 65536 bytes is	Mono 0, 172312	CPU 0, 17007 
+the time taken for string with 262144 bytes is	Mono 0, 699948	CPU 0, 70092 
+the time taken for string with 524288 bytes is	Mono 0, 1485299	CPU 0, 222648 
+
+starting iteration 108
+
+the time taken for string with 1 bytes is	Mono 0, 3978	CPU 0, 2767 
+the time taken for string with 2 bytes is	Mono 0, 3709	CPU 0, 2583 
+the time taken for string with 4 bytes is	Mono 0, 3736	CPU 0, 2621 
+the time taken for string with 16 bytes is	Mono 0, 3835	CPU 0, 2728 
+the time taken for string with 64 bytes is	Mono 0, 3851	CPU 0, 2707 
+the time taken for string with 256 bytes is	Mono 0, 4347	CPU 0, 2718 
+the time taken for string with 1024 bytes is	Mono 0, 6250	CPU 0, 2809 
+the time taken for string with 4096 bytes is	Mono 0, 15418	CPU 0, 3510 
+the time taken for string with 16384 bytes is	Mono 0, 45920	CPU 0, 6342 
+the time taken for string with 65536 bytes is	Mono 0, 172393	CPU 0, 17056 
+the time taken for string with 262144 bytes is	Mono 0, 700131	CPU 0, 69969 
+the time taken for string with 524288 bytes is	Mono 0, 1433740	CPU 0, 169803 
+
+starting iteration 109
+
+the time taken for string with 1 bytes is	Mono 0, 3915	CPU 0, 2718 
+the time taken for string with 2 bytes is	Mono 0, 3688	CPU 0, 2608 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2603 
+the time taken for string with 16 bytes is	Mono 0, 3800	CPU 0, 2641 
+the time taken for string with 64 bytes is	Mono 0, 3801	CPU 0, 2641 
+the time taken for string with 256 bytes is	Mono 0, 4311	CPU 0, 2691 
+the time taken for string with 1024 bytes is	Mono 0, 6219	CPU 0, 2792 
+the time taken for string with 4096 bytes is	Mono 0, 13880	CPU 0, 3275 
+the time taken for string with 16384 bytes is	Mono 0, 45710	CPU 0, 6184 
+the time taken for string with 65536 bytes is	Mono 0, 174071	CPU 0, 17204 
+the time taken for string with 262144 bytes is	Mono 0, 698755	CPU 0, 70266 
+the time taken for string with 524288 bytes is	Mono 0, 1498298	CPU 0, 236194 
+
+starting iteration 110
+
+the time taken for string with 1 bytes is	Mono 0, 4848	CPU 0, 3648 
+the time taken for string with 2 bytes is	Mono 0, 3740	CPU 0, 2615 
+the time taken for string with 4 bytes is	Mono 0, 3790	CPU 0, 2710 
+the time taken for string with 16 bytes is	Mono 0, 3784	CPU 0, 2643 
+the time taken for string with 64 bytes is	Mono 0, 3838	CPU 0, 2650 
+the time taken for string with 256 bytes is	Mono 0, 4331	CPU 0, 2693 
+the time taken for string with 1024 bytes is	Mono 0, 6204	CPU 0, 2807 
+the time taken for string with 4096 bytes is	Mono 0, 13984	CPU 0, 3345 
+the time taken for string with 16384 bytes is	Mono 0, 45756	CPU 0, 6245 
+the time taken for string with 65536 bytes is	Mono 0, 172290	CPU 0, 17206 
+the time taken for string with 262144 bytes is	Mono 0, 698591	CPU 0, 70183 
+the time taken for string with 524288 bytes is	Mono 0, 1401795	CPU 0, 138717 
+
+starting iteration 111
+
+the time taken for string with 1 bytes is	Mono 0, 3900	CPU 0, 2778 
+the time taken for string with 2 bytes is	Mono 0, 3778	CPU 0, 2723 
+the time taken for string with 4 bytes is	Mono 0, 3773	CPU 0, 2711 
+the time taken for string with 16 bytes is	Mono 0, 3893	CPU 0, 2706 
+the time taken for string with 64 bytes is	Mono 0, 3880	CPU 0, 2678 
+the time taken for string with 256 bytes is	Mono 0, 4851	CPU 0, 2772 
+the time taken for string with 1024 bytes is	Mono 0, 6298	CPU 0, 2841 
+the time taken for string with 4096 bytes is	Mono 0, 13751	CPU 0, 3114 
+the time taken for string with 16384 bytes is	Mono 0, 45799	CPU 0, 6091 
+the time taken for string with 65536 bytes is	Mono 0, 172189	CPU 0, 16803 
+the time taken for string with 262144 bytes is	Mono 0, 747986	CPU 0, 119220 
+the time taken for string with 524288 bytes is	Mono 0, 1407398	CPU 0, 145005 
+
+starting iteration 112
+
+the time taken for string with 1 bytes is	Mono 0, 4285	CPU 0, 2740 
+the time taken for string with 2 bytes is	Mono 0, 12746	CPU 0, 2452 
+the time taken for string with 4 bytes is	Mono 0, 12643	CPU 0, 2433 
+the time taken for string with 16 bytes is	Mono 0, 12813	CPU 0, 2505 
+the time taken for string with 64 bytes is	Mono 0, 12778	CPU 0, 2440 
+the time taken for string with 256 bytes is	Mono 0, 13324	CPU 0, 2526 
+the time taken for string with 1024 bytes is	Mono 0, 15438	CPU 0, 2658 
+the time taken for string with 4096 bytes is	Mono 0, 13858	CPU 0, 3234 
+the time taken for string with 16384 bytes is	Mono 0, 45853	CPU 0, 6179 
+the time taken for string with 65536 bytes is	Mono 0, 173141	CPU 0, 17267 
+the time taken for string with 262144 bytes is	Mono 0, 700335	CPU 0, 70114 
+the time taken for string with 524288 bytes is	Mono 0, 1402556	CPU 0, 138803 
+
+starting iteration 113
+
+the time taken for string with 1 bytes is	Mono 0, 3862	CPU 0, 2740 
+the time taken for string with 2 bytes is	Mono 0, 3668	CPU 0, 2593 
+the time taken for string with 4 bytes is	Mono 0, 3707	CPU 0, 2625 
+the time taken for string with 16 bytes is	Mono 0, 3849	CPU 0, 2716 
+the time taken for string with 64 bytes is	Mono 0, 3808	CPU 0, 2652 
+the time taken for string with 256 bytes is	Mono 0, 4282	CPU 0, 2643 
+the time taken for string with 1024 bytes is	Mono 0, 6233	CPU 0, 2836 
+the time taken for string with 4096 bytes is	Mono 0, 13886	CPU 0, 3269 
+the time taken for string with 16384 bytes is	Mono 0, 45801	CPU 0, 6154 
+the time taken for string with 65536 bytes is	Mono 0, 172393	CPU 0, 16973 
+the time taken for string with 262144 bytes is	Mono 0, 698227	CPU 0, 69459 
+the time taken for string with 524288 bytes is	Mono 0, 1401905	CPU 0, 138537 
+
+starting iteration 114
+
+the time taken for string with 1 bytes is	Mono 0, 4201	CPU 0, 2729 
+the time taken for string with 2 bytes is	Mono 0, 12732	CPU 0, 2444 
+the time taken for string with 4 bytes is	Mono 0, 13373	CPU 0, 2661 
+the time taken for string with 16 bytes is	Mono 0, 12777	CPU 0, 2583 
+the time taken for string with 64 bytes is	Mono 0, 12785	CPU 0, 2553 
+the time taken for string with 256 bytes is	Mono 0, 13646	CPU 0, 2510 
+the time taken for string with 1024 bytes is	Mono 0, 15535	CPU 0, 2684 
+the time taken for string with 4096 bytes is	Mono 0, 23000	CPU 0, 3055 
+the time taken for string with 16384 bytes is	Mono 0, 54790	CPU 0, 5872 
+the time taken for string with 65536 bytes is	Mono 0, 172321	CPU 0, 16818 
+the time taken for string with 262144 bytes is	Mono 0, 699709	CPU 0, 69503 
+the time taken for string with 524288 bytes is	Mono 0, 1401905	CPU 0, 138563 
+
+starting iteration 115
+
+the time taken for string with 1 bytes is	Mono 0, 3929	CPU 0, 2727 
+the time taken for string with 2 bytes is	Mono 0, 3662	CPU 0, 2576 
+the time taken for string with 4 bytes is	Mono 0, 3687	CPU 0, 2620 
+the time taken for string with 16 bytes is	Mono 0, 3806	CPU 0, 2704 
+the time taken for string with 64 bytes is	Mono 0, 3854	CPU 0, 2642 
+the time taken for string with 256 bytes is	Mono 0, 4287	CPU 0, 2656 
+the time taken for string with 1024 bytes is	Mono 0, 6219	CPU 0, 2823 
+the time taken for string with 4096 bytes is	Mono 0, 13851	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45722	CPU 0, 6109 
+the time taken for string with 65536 bytes is	Mono 0, 172749	CPU 0, 16952 
+the time taken for string with 262144 bytes is	Mono 0, 699188	CPU 0, 69533 
+the time taken for string with 524288 bytes is	Mono 0, 1401726	CPU 0, 138137 
+
+starting iteration 116
+
+the time taken for string with 1 bytes is	Mono 0, 3784	CPU 0, 2655 
+the time taken for string with 2 bytes is	Mono 0, 3717	CPU 0, 2668 
+the time taken for string with 4 bytes is	Mono 0, 3557	CPU 0, 2508 
+the time taken for string with 16 bytes is	Mono 0, 3651	CPU 0, 2486 
+the time taken for string with 64 bytes is	Mono 0, 3687	CPU 0, 2510 
+the time taken for string with 256 bytes is	Mono 0, 4118	CPU 0, 2538 
+the time taken for string with 1024 bytes is	Mono 0, 6082	CPU 0, 2670 
+the time taken for string with 4096 bytes is	Mono 0, 13742	CPU 0, 3164 
+the time taken for string with 16384 bytes is	Mono 0, 45509	CPU 0, 6009 
+the time taken for string with 65536 bytes is	Mono 0, 173372	CPU 0, 17336 
+the time taken for string with 262144 bytes is	Mono 0, 757661	CPU 0, 66255 
+the time taken for string with 524288 bytes is	Mono 0, 1547477	CPU 0, 140156 
+
+starting iteration 117
+
+the time taken for string with 1 bytes is	Mono 0, 4124	CPU 0, 2784 
+the time taken for string with 2 bytes is	Mono 0, 3700	CPU 0, 2579 
+the time taken for string with 4 bytes is	Mono 0, 3767	CPU 0, 2640 
+the time taken for string with 16 bytes is	Mono 0, 3865	CPU 0, 2684 
+the time taken for string with 64 bytes is	Mono 0, 3932	CPU 0, 2724 
+the time taken for string with 256 bytes is	Mono 0, 4334	CPU 0, 2703 
+the time taken for string with 1024 bytes is	Mono 0, 6297	CPU 0, 2885 
+the time taken for string with 4096 bytes is	Mono 0, 13933	CPU 0, 3348 
+the time taken for string with 16384 bytes is	Mono 0, 45848	CPU 0, 6150 
+the time taken for string with 65536 bytes is	Mono 0, 172257	CPU 0, 17085 
+the time taken for string with 262144 bytes is	Mono 0, 701044	CPU 0, 70334 
+the time taken for string with 524288 bytes is	Mono 0, 1403252	CPU 0, 138402 
+
+starting iteration 118
+
+the time taken for string with 1 bytes is	Mono 0, 4002	CPU 0, 2745 
+the time taken for string with 2 bytes is	Mono 0, 3748	CPU 0, 2600 
+the time taken for string with 4 bytes is	Mono 0, 3749	CPU 0, 2627 
+the time taken for string with 16 bytes is	Mono 0, 3838	CPU 0, 2675 
+the time taken for string with 64 bytes is	Mono 0, 3862	CPU 0, 2653 
+the time taken for string with 256 bytes is	Mono 0, 4303	CPU 0, 2645 
+the time taken for string with 1024 bytes is	Mono 0, 6777	CPU 0, 2945 
+the time taken for string with 4096 bytes is	Mono 0, 13937	CPU 0, 3367 
+the time taken for string with 16384 bytes is	Mono 0, 45622	CPU 0, 6193 
+the time taken for string with 65536 bytes is	Mono 0, 172276	CPU 0, 17022 
+the time taken for string with 262144 bytes is	Mono 0, 701396	CPU 0, 70743 
+the time taken for string with 524288 bytes is	Mono 0, 1403894	CPU 0, 139568 
+
+starting iteration 119
+
+the time taken for string with 1 bytes is	Mono 0, 3954	CPU 0, 2814 
+the time taken for string with 2 bytes is	Mono 0, 3739	CPU 0, 2648 
+the time taken for string with 4 bytes is	Mono 0, 3713	CPU 0, 2666 
+the time taken for string with 16 bytes is	Mono 0, 3885	CPU 0, 2697 
+the time taken for string with 64 bytes is	Mono 0, 3863	CPU 0, 2638 
+the time taken for string with 256 bytes is	Mono 0, 4313	CPU 0, 2646 
+the time taken for string with 1024 bytes is	Mono 0, 6291	CPU 0, 2798 
+the time taken for string with 4096 bytes is	Mono 0, 13929	CPU 0, 3280 
+the time taken for string with 16384 bytes is	Mono 0, 45826	CPU 0, 6292 
+the time taken for string with 65536 bytes is	Mono 0, 173861	CPU 0, 17029 
+the time taken for string with 262144 bytes is	Mono 0, 698213	CPU 0, 69966 
+the time taken for string with 524288 bytes is	Mono 0, 1402496	CPU 0, 138834 
+
+starting iteration 120
+
+the time taken for string with 1 bytes is	Mono 0, 3939	CPU 0, 2712 
+the time taken for string with 2 bytes is	Mono 0, 3683	CPU 0, 2632 
+the time taken for string with 4 bytes is	Mono 0, 3771	CPU 0, 2662 
+the time taken for string with 16 bytes is	Mono 0, 3716	CPU 0, 2649 
+the time taken for string with 64 bytes is	Mono 0, 3886	CPU 0, 2664 
+the time taken for string with 256 bytes is	Mono 0, 4351	CPU 0, 2695 
+the time taken for string with 1024 bytes is	Mono 0, 6315	CPU 0, 2849 
+the time taken for string with 4096 bytes is	Mono 0, 13966	CPU 0, 3322 
+the time taken for string with 16384 bytes is	Mono 0, 45640	CPU 0, 6106 
+the time taken for string with 65536 bytes is	Mono 0, 171978	CPU 0, 16891 
+the time taken for string with 262144 bytes is	Mono 0, 720573	CPU 0, 91059 
+the time taken for string with 524288 bytes is	Mono 0, 1516874	CPU 0, 156299 
+
+starting iteration 121
+
+the time taken for string with 1 bytes is	Mono 0, 3983	CPU 0, 2834 
+the time taken for string with 2 bytes is	Mono 0, 3720	CPU 0, 2619 
+the time taken for string with 4 bytes is	Mono 0, 4204	CPU 0, 2735 
+the time taken for string with 16 bytes is	Mono 0, 3908	CPU 0, 2821 
+the time taken for string with 64 bytes is	Mono 0, 3784	CPU 0, 2652 
+the time taken for string with 256 bytes is	Mono 0, 4281	CPU 0, 2654 
+the time taken for string with 1024 bytes is	Mono 0, 6211	CPU 0, 2815 
+the time taken for string with 4096 bytes is	Mono 0, 13861	CPU 0, 3306 
+the time taken for string with 16384 bytes is	Mono 0, 45702	CPU 0, 6142 
+the time taken for string with 65536 bytes is	Mono 0, 172309	CPU 0, 17066 
+the time taken for string with 262144 bytes is	Mono 0, 700813	CPU 0, 70029 
+the time taken for string with 524288 bytes is	Mono 0, 1403909	CPU 0, 139954 
+
+starting iteration 122
+
+the time taken for string with 1 bytes is	Mono 0, 3910	CPU 0, 2787 
+the time taken for string with 2 bytes is	Mono 0, 3689	CPU 0, 2631 
+the time taken for string with 4 bytes is	Mono 0, 3666	CPU 0, 2636 
+the time taken for string with 16 bytes is	Mono 0, 3764	CPU 0, 2647 
+the time taken for string with 64 bytes is	Mono 0, 3825	CPU 0, 2641 
+the time taken for string with 256 bytes is	Mono 0, 4274	CPU 0, 2672 
+the time taken for string with 1024 bytes is	Mono 0, 6186	CPU 0, 2776 
+the time taken for string with 4096 bytes is	Mono 0, 13900	CPU 0, 3291 
+the time taken for string with 16384 bytes is	Mono 0, 45568	CPU 0, 6123 
+the time taken for string with 65536 bytes is	Mono 0, 172606	CPU 0, 17042 
+the time taken for string with 262144 bytes is	Mono 0, 698761	CPU 0, 69715 
+the time taken for string with 524288 bytes is	Mono 0, 1403822	CPU 0, 139530 
+
+starting iteration 123
+
+the time taken for string with 1 bytes is	Mono 0, 3976	CPU 0, 2799 
+the time taken for string with 2 bytes is	Mono 0, 3730	CPU 0, 2635 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2655 
+the time taken for string with 16 bytes is	Mono 0, 3896	CPU 0, 2743 
+the time taken for string with 64 bytes is	Mono 0, 3867	CPU 0, 2666 
+the time taken for string with 256 bytes is	Mono 0, 4329	CPU 0, 2674 
+the time taken for string with 1024 bytes is	Mono 0, 6292	CPU 0, 2840 
+the time taken for string with 4096 bytes is	Mono 0, 13903	CPU 0, 3280 
+the time taken for string with 16384 bytes is	Mono 0, 45768	CPU 0, 6146 
+the time taken for string with 65536 bytes is	Mono 0, 172390	CPU 0, 17053 
+the time taken for string with 262144 bytes is	Mono 0, 698636	CPU 0, 69861 
+the time taken for string with 524288 bytes is	Mono 0, 1401987	CPU 0, 138487 
+
+starting iteration 124
+
+the time taken for string with 1 bytes is	Mono 0, 3883	CPU 0, 2679 
+the time taken for string with 2 bytes is	Mono 0, 3726	CPU 0, 2595 
+the time taken for string with 4 bytes is	Mono 0, 3768	CPU 0, 2653 
+the time taken for string with 16 bytes is	Mono 0, 4273	CPU 0, 2790 
+the time taken for string with 64 bytes is	Mono 0, 3839	CPU 0, 2697 
+the time taken for string with 256 bytes is	Mono 0, 4317	CPU 0, 2680 
+the time taken for string with 1024 bytes is	Mono 0, 6306	CPU 0, 2834 
+the time taken for string with 4096 bytes is	Mono 0, 14064	CPU 0, 3317 
+the time taken for string with 16384 bytes is	Mono 0, 45752	CPU 0, 6257 
+the time taken for string with 65536 bytes is	Mono 0, 172186	CPU 0, 16893 
+the time taken for string with 262144 bytes is	Mono 0, 700167	CPU 0, 69636 
+the time taken for string with 524288 bytes is	Mono 0, 1403480	CPU 0, 139127 
+
+starting iteration 125
+
+the time taken for string with 1 bytes is	Mono 0, 3981	CPU 0, 2841 
+the time taken for string with 2 bytes is	Mono 0, 3744	CPU 0, 2678 
+the time taken for string with 4 bytes is	Mono 0, 3697	CPU 0, 2639 
+the time taken for string with 16 bytes is	Mono 0, 3866	CPU 0, 2698 
+the time taken for string with 64 bytes is	Mono 0, 3799	CPU 0, 2622 
+the time taken for string with 256 bytes is	Mono 0, 4296	CPU 0, 2626 
+the time taken for string with 1024 bytes is	Mono 0, 6074	CPU 0, 2622 
+the time taken for string with 4096 bytes is	Mono 0, 13712	CPU 0, 3113 
+the time taken for string with 16384 bytes is	Mono 0, 45933	CPU 0, 6258 
+the time taken for string with 65536 bytes is	Mono 0, 179981	CPU 0, 23225 
+the time taken for string with 262144 bytes is	Mono 0, 744348	CPU 0, 120116 
+the time taken for string with 524288 bytes is	Mono 0, 1408212	CPU 0, 145646 
+
+starting iteration 126
+
+the time taken for string with 1 bytes is	Mono 0, 3934	CPU 0, 2717 
+the time taken for string with 2 bytes is	Mono 0, 3667	CPU 0, 2588 
+the time taken for string with 4 bytes is	Mono 0, 3787	CPU 0, 2698 
+the time taken for string with 16 bytes is	Mono 0, 3801	CPU 0, 2665 
+the time taken for string with 64 bytes is	Mono 0, 3842	CPU 0, 2646 
+the time taken for string with 256 bytes is	Mono 0, 4336	CPU 0, 2633 
+the time taken for string with 1024 bytes is	Mono 0, 6248	CPU 0, 2809 
+the time taken for string with 4096 bytes is	Mono 0, 13995	CPU 0, 3314 
+the time taken for string with 16384 bytes is	Mono 0, 45846	CPU 0, 6269 
+the time taken for string with 65536 bytes is	Mono 0, 172171	CPU 0, 16837 
+the time taken for string with 262144 bytes is	Mono 0, 698647	CPU 0, 70027 
+the time taken for string with 524288 bytes is	Mono 0, 1402925	CPU 0, 138215 
+
+starting iteration 127
+
+the time taken for string with 1 bytes is	Mono 0, 4543	CPU 0, 2756 
+the time taken for string with 2 bytes is	Mono 0, 12736	CPU 0, 2471 
+the time taken for string with 4 bytes is	Mono 0, 13583	CPU 0, 2661 
+the time taken for string with 16 bytes is	Mono 0, 12857	CPU 0, 2553 
+the time taken for string with 64 bytes is	Mono 0, 12872	CPU 0, 2484 
+the time taken for string with 256 bytes is	Mono 0, 13307	CPU 0, 2501 
+the time taken for string with 1024 bytes is	Mono 0, 15361	CPU 0, 2651 
+the time taken for string with 4096 bytes is	Mono 0, 22792	CPU 0, 3045 
+the time taken for string with 16384 bytes is	Mono 0, 45751	CPU 0, 6137 
+the time taken for string with 65536 bytes is	Mono 0, 172175	CPU 0, 16968 
+the time taken for string with 262144 bytes is	Mono 0, 699846	CPU 0, 69655 
+the time taken for string with 524288 bytes is	Mono 0, 1403466	CPU 0, 140016 
+
+starting iteration 128
+
+the time taken for string with 1 bytes is	Mono 0, 3849	CPU 0, 2634 
+the time taken for string with 2 bytes is	Mono 0, 3621	CPU 0, 2541 
+the time taken for string with 4 bytes is	Mono 0, 3702	CPU 0, 2626 
+the time taken for string with 16 bytes is	Mono 0, 3739	CPU 0, 2687 
+the time taken for string with 64 bytes is	Mono 0, 3791	CPU 0, 2602 
+the time taken for string with 256 bytes is	Mono 0, 4287	CPU 0, 2668 
+the time taken for string with 1024 bytes is	Mono 0, 6217	CPU 0, 2804 
+the time taken for string with 4096 bytes is	Mono 0, 13863	CPU 0, 3246 
+the time taken for string with 16384 bytes is	Mono 0, 45717	CPU 0, 6134 
+the time taken for string with 65536 bytes is	Mono 0, 172694	CPU 0, 17135 
+the time taken for string with 262144 bytes is	Mono 0, 699710	CPU 0, 69708 
+the time taken for string with 524288 bytes is	Mono 0, 1401863	CPU 0, 138997 
+
+starting iteration 129
+
+the time taken for string with 1 bytes is	Mono 0, 4270	CPU 0, 2727 
+the time taken for string with 2 bytes is	Mono 0, 13356	CPU 0, 2447 
+the time taken for string with 4 bytes is	Mono 0, 12640	CPU 0, 2424 
+the time taken for string with 16 bytes is	Mono 0, 12769	CPU 0, 2526 
+the time taken for string with 64 bytes is	Mono 0, 12874	CPU 0, 2501 
+the time taken for string with 256 bytes is	Mono 0, 13609	CPU 0, 2528 
+the time taken for string with 1024 bytes is	Mono 0, 15416	CPU 0, 2683 
+the time taken for string with 4096 bytes is	Mono 0, 22778	CPU 0, 3021 
+the time taken for string with 16384 bytes is	Mono 0, 54515	CPU 0, 5818 
+the time taken for string with 65536 bytes is	Mono 0, 172438	CPU 0, 17086 
+the time taken for string with 262144 bytes is	Mono 0, 699642	CPU 0, 71045 
+the time taken for string with 524288 bytes is	Mono 0, 1402696	CPU 0, 138211 
+
+starting iteration 130
+
+the time taken for string with 1 bytes is	Mono 0, 4186	CPU 0, 2760 
+the time taken for string with 2 bytes is	Mono 0, 3679	CPU 0, 2552 
+the time taken for string with 4 bytes is	Mono 0, 3563	CPU 0, 2451 
+the time taken for string with 16 bytes is	Mono 0, 3670	CPU 0, 2534 
+the time taken for string with 64 bytes is	Mono 0, 3718	CPU 0, 2547 
+the time taken for string with 256 bytes is	Mono 0, 4135	CPU 0, 2493 
+the time taken for string with 1024 bytes is	Mono 0, 6065	CPU 0, 2612 
+the time taken for string with 4096 bytes is	Mono 0, 13805	CPU 0, 3104 
+the time taken for string with 16384 bytes is	Mono 0, 45648	CPU 0, 6045 
+the time taken for string with 65536 bytes is	Mono 0, 172298	CPU 0, 16807 
+the time taken for string with 262144 bytes is	Mono 0, 733224	CPU 0, 104419 
+the time taken for string with 524288 bytes is	Mono 0, 1433502	CPU 0, 171676 
+
+starting iteration 131
+
+the time taken for string with 1 bytes is	Mono 0, 3965	CPU 0, 2750 
+the time taken for string with 2 bytes is	Mono 0, 3707	CPU 0, 2656 
+the time taken for string with 4 bytes is	Mono 0, 3721	CPU 0, 2641 
+the time taken for string with 16 bytes is	Mono 0, 3804	CPU 0, 2699 
+the time taken for string with 64 bytes is	Mono 0, 3813	CPU 0, 2648 
+the time taken for string with 256 bytes is	Mono 0, 4295	CPU 0, 2627 
+the time taken for string with 1024 bytes is	Mono 0, 6285	CPU 0, 2810 
+the time taken for string with 4096 bytes is	Mono 0, 15604	CPU 0, 3552 
+the time taken for string with 16384 bytes is	Mono 0, 45887	CPU 0, 6281 
+the time taken for string with 65536 bytes is	Mono 0, 173570	CPU 0, 17437 
+the time taken for string with 262144 bytes is	Mono 0, 790261	CPU 0, 165265 
+the time taken for string with 524288 bytes is	Mono 0, 1404286	CPU 0, 139369 
+
+starting iteration 132
+
+the time taken for string with 1 bytes is	Mono 0, 3921	CPU 0, 2727 
+the time taken for string with 2 bytes is	Mono 0, 3686	CPU 0, 2608 
+the time taken for string with 4 bytes is	Mono 0, 3752	CPU 0, 2641 
+the time taken for string with 16 bytes is	Mono 0, 3813	CPU 0, 2701 
+the time taken for string with 64 bytes is	Mono 0, 3879	CPU 0, 2664 
+the time taken for string with 256 bytes is	Mono 0, 4310	CPU 0, 2634 
+the time taken for string with 1024 bytes is	Mono 0, 6287	CPU 0, 2813 
+the time taken for string with 4096 bytes is	Mono 0, 13935	CPU 0, 3296 
+the time taken for string with 16384 bytes is	Mono 0, 45740	CPU 0, 6150 
+the time taken for string with 65536 bytes is	Mono 0, 173747	CPU 0, 17080 
+the time taken for string with 262144 bytes is	Mono 0, 698220	CPU 0, 69842 
+the time taken for string with 524288 bytes is	Mono 0, 1401859	CPU 0, 138477 
+
+starting iteration 133
+
+the time taken for string with 1 bytes is	Mono 0, 3929	CPU 0, 2721 
+the time taken for string with 2 bytes is	Mono 0, 3769	CPU 0, 2633 
+the time taken for string with 4 bytes is	Mono 0, 3766	CPU 0, 2616 
+the time taken for string with 16 bytes is	Mono 0, 3838	CPU 0, 2701 
+the time taken for string with 64 bytes is	Mono 0, 3849	CPU 0, 2633 
+the time taken for string with 256 bytes is	Mono 0, 4296	CPU 0, 2663 
+the time taken for string with 1024 bytes is	Mono 0, 6232	CPU 0, 2793 
+the time taken for string with 4096 bytes is	Mono 0, 13867	CPU 0, 3238 
+the time taken for string with 16384 bytes is	Mono 0, 45627	CPU 0, 6117 
+the time taken for string with 65536 bytes is	Mono 0, 172328	CPU 0, 16930 
+the time taken for string with 262144 bytes is	Mono 0, 700372	CPU 0, 70271 
+the time taken for string with 524288 bytes is	Mono 0, 1403167	CPU 0, 139004 
+
+starting iteration 134
+
+the time taken for string with 1 bytes is	Mono 0, 3947	CPU 0, 2772 
+the time taken for string with 2 bytes is	Mono 0, 3715	CPU 0, 2590 
+the time taken for string with 4 bytes is	Mono 0, 3781	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3798	CPU 0, 2680 
+the time taken for string with 64 bytes is	Mono 0, 3884	CPU 0, 2671 
+the time taken for string with 256 bytes is	Mono 0, 4323	CPU 0, 2690 
+the time taken for string with 1024 bytes is	Mono 0, 6784	CPU 0, 2943 
+the time taken for string with 4096 bytes is	Mono 0, 14002	CPU 0, 3398 
+the time taken for string with 16384 bytes is	Mono 0, 45706	CPU 0, 6291 
+the time taken for string with 65536 bytes is	Mono 0, 172577	CPU 0, 17217 
+the time taken for string with 262144 bytes is	Mono 0, 747352	CPU 0, 118782 
+the time taken for string with 524288 bytes is	Mono 0, 1460797	CPU 0, 199196 
+
+starting iteration 135
+
+the time taken for string with 1 bytes is	Mono 0, 3975	CPU 0, 2799 
+the time taken for string with 2 bytes is	Mono 0, 12650	CPU 0, 2463 
+the time taken for string with 4 bytes is	Mono 0, 12948	CPU 0, 2457 
+the time taken for string with 16 bytes is	Mono 0, 13107	CPU 0, 2501 
+the time taken for string with 64 bytes is	Mono 0, 12922	CPU 0, 2490 
+the time taken for string with 256 bytes is	Mono 0, 13306	CPU 0, 2500 
+the time taken for string with 1024 bytes is	Mono 0, 15402	CPU 0, 2626 
+the time taken for string with 4096 bytes is	Mono 0, 22845	CPU 0, 3057 
+the time taken for string with 16384 bytes is	Mono 0, 45812	CPU 0, 6223 
+the time taken for string with 65536 bytes is	Mono 0, 172996	CPU 0, 17354 
+the time taken for string with 262144 bytes is	Mono 0, 700370	CPU 0, 70295 
+the time taken for string with 524288 bytes is	Mono 0, 1403220	CPU 0, 138586 
+
+starting iteration 136
+
+the time taken for string with 1 bytes is	Mono 0, 3853	CPU 0, 2657 
+the time taken for string with 2 bytes is	Mono 0, 3633	CPU 0, 2554 
+the time taken for string with 4 bytes is	Mono 0, 3686	CPU 0, 2633 
+the time taken for string with 16 bytes is	Mono 0, 3808	CPU 0, 2633 
+the time taken for string with 64 bytes is	Mono 0, 3848	CPU 0, 2641 
+the time taken for string with 256 bytes is	Mono 0, 4359	CPU 0, 2741 
+the time taken for string with 1024 bytes is	Mono 0, 6296	CPU 0, 2883 
+the time taken for string with 4096 bytes is	Mono 0, 13914	CPU 0, 3311 
+the time taken for string with 16384 bytes is	Mono 0, 45688	CPU 0, 6156 
+the time taken for string with 65536 bytes is	Mono 0, 172465	CPU 0, 17008 
+the time taken for string with 262144 bytes is	Mono 0, 698806	CPU 0, 69739 
+the time taken for string with 524288 bytes is	Mono 0, 1402231	CPU 0, 138522 
+
+starting iteration 137
+
+the time taken for string with 1 bytes is	Mono 0, 3918	CPU 0, 2792 
+the time taken for string with 2 bytes is	Mono 0, 3657	CPU 0, 2676 
+the time taken for string with 4 bytes is	Mono 0, 13020	CPU 0, 2675 
+the time taken for string with 16 bytes is	Mono 0, 13099	CPU 0, 2573 
+the time taken for string with 64 bytes is	Mono 0, 12945	CPU 0, 2479 
+the time taken for string with 256 bytes is	Mono 0, 13425	CPU 0, 2544 
+the time taken for string with 1024 bytes is	Mono 0, 15348	CPU 0, 2646 
+the time taken for string with 4096 bytes is	Mono 0, 22907	CPU 0, 3065 
+the time taken for string with 16384 bytes is	Mono 0, 45828	CPU 0, 6106 
+the time taken for string with 65536 bytes is	Mono 0, 172189	CPU 0, 16963 
+the time taken for string with 262144 bytes is	Mono 0, 788897	CPU 0, 164210 
+the time taken for string with 524288 bytes is	Mono 0, 1403974	CPU 0, 139612 
+
+starting iteration 138
+
+the time taken for string with 1 bytes is	Mono 0, 3942	CPU 0, 2758 
+the time taken for string with 2 bytes is	Mono 0, 3670	CPU 0, 2603 
+the time taken for string with 4 bytes is	Mono 0, 3872	CPU 0, 2760 
+the time taken for string with 16 bytes is	Mono 0, 3747	CPU 0, 2655 
+the time taken for string with 64 bytes is	Mono 0, 3825	CPU 0, 2623 
+the time taken for string with 256 bytes is	Mono 0, 4376	CPU 0, 2689 
+the time taken for string with 1024 bytes is	Mono 0, 6210	CPU 0, 2808 
+the time taken for string with 4096 bytes is	Mono 0, 15437	CPU 0, 3509 
+the time taken for string with 16384 bytes is	Mono 0, 45926	CPU 0, 6302 
+the time taken for string with 65536 bytes is	Mono 0, 172205	CPU 0, 16878 
+the time taken for string with 262144 bytes is	Mono 0, 700165	CPU 0, 70048 
+the time taken for string with 524288 bytes is	Mono 0, 1417839	CPU 0, 140015 
+
+starting iteration 139
+
+the time taken for string with 1 bytes is	Mono 0, 3953	CPU 0, 2705 
+the time taken for string with 2 bytes is	Mono 0, 3721	CPU 0, 2684 
+the time taken for string with 4 bytes is	Mono 0, 3683	CPU 0, 2689 
+the time taken for string with 16 bytes is	Mono 0, 3813	CPU 0, 2684 
+the time taken for string with 64 bytes is	Mono 0, 3688	CPU 0, 2540 
+the time taken for string with 256 bytes is	Mono 0, 4105	CPU 0, 2448 
+the time taken for string with 1024 bytes is	Mono 0, 6079	CPU 0, 2641 
+the time taken for string with 4096 bytes is	Mono 0, 13771	CPU 0, 3145 
+the time taken for string with 16384 bytes is	Mono 0, 45575	CPU 0, 5992 
+the time taken for string with 65536 bytes is	Mono 0, 171946	CPU 0, 16630 
+the time taken for string with 262144 bytes is	Mono 0, 695991	CPU 0, 68143 
+the time taken for string with 524288 bytes is	Mono 0, 1406065	CPU 0, 144117 
+
+starting iteration 140
+
+the time taken for string with 1 bytes is	Mono 0, 4318	CPU 0, 2854 
+the time taken for string with 2 bytes is	Mono 0, 3668	CPU 0, 2682 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2609 
+the time taken for string with 16 bytes is	Mono 0, 3758	CPU 0, 2654 
+the time taken for string with 64 bytes is	Mono 0, 3828	CPU 0, 2674 
+the time taken for string with 256 bytes is	Mono 0, 4255	CPU 0, 2654 
+the time taken for string with 1024 bytes is	Mono 0, 6189	CPU 0, 2798 
+the time taken for string with 4096 bytes is	Mono 0, 13898	CPU 0, 3274 
+the time taken for string with 16384 bytes is	Mono 0, 45662	CPU 0, 6247 
+the time taken for string with 65536 bytes is	Mono 0, 172178	CPU 0, 17063 
+the time taken for string with 262144 bytes is	Mono 0, 699814	CPU 0, 69980 
+the time taken for string with 524288 bytes is	Mono 0, 1405000	CPU 0, 139202 
+
+starting iteration 141
+
+the time taken for string with 1 bytes is	Mono 0, 3942	CPU 0, 2743 
+the time taken for string with 2 bytes is	Mono 0, 3672	CPU 0, 2635 
+the time taken for string with 4 bytes is	Mono 0, 3778	CPU 0, 2675 
+the time taken for string with 16 bytes is	Mono 0, 3858	CPU 0, 2721 
+the time taken for string with 64 bytes is	Mono 0, 3849	CPU 0, 2686 
+the time taken for string with 256 bytes is	Mono 0, 4362	CPU 0, 2726 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2839 
+the time taken for string with 4096 bytes is	Mono 0, 13937	CPU 0, 3323 
+the time taken for string with 16384 bytes is	Mono 0, 46144	CPU 0, 6275 
+the time taken for string with 65536 bytes is	Mono 0, 172155	CPU 0, 17043 
+the time taken for string with 262144 bytes is	Mono 0, 700222	CPU 0, 69980 
+the time taken for string with 524288 bytes is	Mono 0, 1402229	CPU 0, 138246 
+
+starting iteration 142
+
+the time taken for string with 1 bytes is	Mono 0, 10996	CPU 0, 9484 
+the time taken for string with 2 bytes is	Mono 0, 3734	CPU 0, 2607 
+the time taken for string with 4 bytes is	Mono 0, 3744	CPU 0, 2651 
+the time taken for string with 16 bytes is	Mono 0, 3733	CPU 0, 2641 
+the time taken for string with 64 bytes is	Mono 0, 3848	CPU 0, 2637 
+the time taken for string with 256 bytes is	Mono 0, 4277	CPU 0, 2647 
+the time taken for string with 1024 bytes is	Mono 0, 6206	CPU 0, 2780 
+the time taken for string with 4096 bytes is	Mono 0, 13930	CPU 0, 3285 
+the time taken for string with 16384 bytes is	Mono 0, 45912	CPU 0, 6352 
+the time taken for string with 65536 bytes is	Mono 0, 172533	CPU 0, 17178 
+the time taken for string with 262144 bytes is	Mono 0, 698273	CPU 0, 69795 
+the time taken for string with 524288 bytes is	Mono 0, 1401754	CPU 0, 138785 
+
+starting iteration 143
+
+the time taken for string with 1 bytes is	Mono 0, 4237	CPU 0, 2750 
+the time taken for string with 2 bytes is	Mono 0, 3796	CPU 0, 2770 
+the time taken for string with 4 bytes is	Mono 0, 3702	CPU 0, 2603 
+the time taken for string with 16 bytes is	Mono 0, 3813	CPU 0, 2686 
+the time taken for string with 64 bytes is	Mono 0, 3877	CPU 0, 2655 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2668 
+the time taken for string with 1024 bytes is	Mono 0, 6256	CPU 0, 2816 
+the time taken for string with 4096 bytes is	Mono 0, 13813	CPU 0, 3283 
+the time taken for string with 16384 bytes is	Mono 0, 45659	CPU 0, 6113 
+the time taken for string with 65536 bytes is	Mono 0, 172605	CPU 0, 17025 
+the time taken for string with 262144 bytes is	Mono 0, 699258	CPU 0, 69320 
+the time taken for string with 524288 bytes is	Mono 0, 1401878	CPU 0, 138768 
+
+starting iteration 144
+
+the time taken for string with 1 bytes is	Mono 0, 4196	CPU 0, 2621 
+the time taken for string with 2 bytes is	Mono 0, 12448	CPU 0, 2218 
+the time taken for string with 4 bytes is	Mono 0, 12337	CPU 0, 2202 
+the time taken for string with 16 bytes is	Mono 0, 12559	CPU 0, 2244 
+the time taken for string with 64 bytes is	Mono 0, 12667	CPU 0, 2235 
+the time taken for string with 256 bytes is	Mono 0, 13213	CPU 0, 2302 
+the time taken for string with 1024 bytes is	Mono 0, 15281	CPU 0, 2420 
+the time taken for string with 4096 bytes is	Mono 0, 23137	CPU 0, 2945 
+the time taken for string with 16384 bytes is	Mono 0, 55602	CPU 0, 6820 
+the time taken for string with 65536 bytes is	Mono 0, 172139	CPU 0, 16686 
+the time taken for string with 262144 bytes is	Mono 0, 747643	CPU 0, 118529 
+the time taken for string with 524288 bytes is	Mono 0, 1401794	CPU 0, 138646 
+
+starting iteration 145
+
+the time taken for string with 1 bytes is	Mono 0, 3949	CPU 0, 2729 
+the time taken for string with 2 bytes is	Mono 0, 3751	CPU 0, 2665 
+the time taken for string with 4 bytes is	Mono 0, 3738	CPU 0, 2665 
+the time taken for string with 16 bytes is	Mono 0, 3850	CPU 0, 2705 
+the time taken for string with 64 bytes is	Mono 0, 3771	CPU 0, 2600 
+the time taken for string with 256 bytes is	Mono 0, 4305	CPU 0, 2659 
+the time taken for string with 1024 bytes is	Mono 0, 6167	CPU 0, 2792 
+the time taken for string with 4096 bytes is	Mono 0, 13863	CPU 0, 3295 
+the time taken for string with 16384 bytes is	Mono 0, 45733	CPU 0, 6215 
+the time taken for string with 65536 bytes is	Mono 0, 173985	CPU 0, 17059 
+the time taken for string with 262144 bytes is	Mono 0, 698174	CPU 0, 69809 
+the time taken for string with 524288 bytes is	Mono 0, 1403115	CPU 0, 137951 
+
+starting iteration 146
+
+the time taken for string with 1 bytes is	Mono 0, 3970	CPU 0, 2723 
+the time taken for string with 2 bytes is	Mono 0, 3674	CPU 0, 2585 
+the time taken for string with 4 bytes is	Mono 0, 3749	CPU 0, 2680 
+the time taken for string with 16 bytes is	Mono 0, 3712	CPU 0, 2660 
+the time taken for string with 64 bytes is	Mono 0, 3795	CPU 0, 2656 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2678 
+the time taken for string with 1024 bytes is	Mono 0, 6154	CPU 0, 2788 
+the time taken for string with 4096 bytes is	Mono 0, 13861	CPU 0, 3288 
+the time taken for string with 16384 bytes is	Mono 0, 45673	CPU 0, 6192 
+the time taken for string with 65536 bytes is	Mono 0, 173561	CPU 0, 17453 
+the time taken for string with 262144 bytes is	Mono 0, 788865	CPU 0, 164065 
+the time taken for string with 524288 bytes is	Mono 0, 1415684	CPU 0, 153955 
+
+starting iteration 147
+
+the time taken for string with 1 bytes is	Mono 0, 3975	CPU 0, 2759 
+the time taken for string with 2 bytes is	Mono 0, 3670	CPU 0, 2631 
+the time taken for string with 4 bytes is	Mono 0, 3663	CPU 0, 2619 
+the time taken for string with 16 bytes is	Mono 0, 4341	CPU 0, 2802 
+the time taken for string with 64 bytes is	Mono 0, 3880	CPU 0, 2726 
+the time taken for string with 256 bytes is	Mono 0, 4280	CPU 0, 2650 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2816 
+the time taken for string with 4096 bytes is	Mono 0, 13890	CPU 0, 3273 
+the time taken for string with 16384 bytes is	Mono 0, 45600	CPU 0, 6182 
+the time taken for string with 65536 bytes is	Mono 0, 172328	CPU 0, 16958 
+the time taken for string with 262144 bytes is	Mono 0, 699520	CPU 0, 69767 
+the time taken for string with 524288 bytes is	Mono 0, 1401377	CPU 0, 138560 
+
+starting iteration 148
+
+the time taken for string with 1 bytes is	Mono 0, 3888	CPU 0, 2699 
+the time taken for string with 2 bytes is	Mono 0, 3695	CPU 0, 2646 
+the time taken for string with 4 bytes is	Mono 0, 3720	CPU 0, 2612 
+the time taken for string with 16 bytes is	Mono 0, 3727	CPU 0, 2648 
+the time taken for string with 64 bytes is	Mono 0, 3807	CPU 0, 2614 
+the time taken for string with 256 bytes is	Mono 0, 4313	CPU 0, 2663 
+the time taken for string with 1024 bytes is	Mono 0, 6211	CPU 0, 2784 
+the time taken for string with 4096 bytes is	Mono 0, 13856	CPU 0, 3279 
+the time taken for string with 16384 bytes is	Mono 0, 45768	CPU 0, 6143 
+the time taken for string with 65536 bytes is	Mono 0, 174442	CPU 0, 17550 
+the time taken for string with 262144 bytes is	Mono 0, 720651	CPU 0, 92418 
+the time taken for string with 524288 bytes is	Mono 0, 1408207	CPU 0, 146073 
+
+starting iteration 149
+
+the time taken for string with 1 bytes is	Mono 0, 3959	CPU 0, 2777 
+the time taken for string with 2 bytes is	Mono 0, 3700	CPU 0, 2623 
+the time taken for string with 4 bytes is	Mono 0, 3739	CPU 0, 2672 
+the time taken for string with 16 bytes is	Mono 0, 3848	CPU 0, 2676 
+the time taken for string with 64 bytes is	Mono 0, 3765	CPU 0, 2610 
+the time taken for string with 256 bytes is	Mono 0, 4293	CPU 0, 2649 
+the time taken for string with 1024 bytes is	Mono 0, 6223	CPU 0, 2836 
+the time taken for string with 4096 bytes is	Mono 0, 13859	CPU 0, 3238 
+the time taken for string with 16384 bytes is	Mono 0, 45852	CPU 0, 6266 
+the time taken for string with 65536 bytes is	Mono 0, 172384	CPU 0, 17066 
+the time taken for string with 262144 bytes is	Mono 0, 698843	CPU 0, 69743 
+the time taken for string with 524288 bytes is	Mono 0, 1403454	CPU 0, 138126 
+
+starting iteration 150
+
+the time taken for string with 1 bytes is	Mono 0, 3982	CPU 0, 2731 
+the time taken for string with 2 bytes is	Mono 0, 3678	CPU 0, 2596 
+the time taken for string with 4 bytes is	Mono 0, 3847	CPU 0, 2702 
+the time taken for string with 16 bytes is	Mono 0, 4262	CPU 0, 2760 
+the time taken for string with 64 bytes is	Mono 0, 3883	CPU 0, 2756 
+the time taken for string with 256 bytes is	Mono 0, 4314	CPU 0, 2679 
+the time taken for string with 1024 bytes is	Mono 0, 6229	CPU 0, 2798 
+the time taken for string with 4096 bytes is	Mono 0, 13946	CPU 0, 3275 
+the time taken for string with 16384 bytes is	Mono 0, 45700	CPU 0, 6140 
+the time taken for string with 65536 bytes is	Mono 0, 172220	CPU 0, 17077 
+the time taken for string with 262144 bytes is	Mono 0, 699979	CPU 0, 69691 
+the time taken for string with 524288 bytes is	Mono 0, 1497801	CPU 0, 137055 
+
+starting iteration 151
+
+the time taken for string with 1 bytes is	Mono 0, 3898	CPU 0, 2737 
+the time taken for string with 2 bytes is	Mono 0, 3728	CPU 0, 2616 
+the time taken for string with 4 bytes is	Mono 0, 3664	CPU 0, 2591 
+the time taken for string with 16 bytes is	Mono 0, 3783	CPU 0, 2661 
+the time taken for string with 64 bytes is	Mono 0, 3808	CPU 0, 2624 
+the time taken for string with 256 bytes is	Mono 0, 4279	CPU 0, 2626 
+the time taken for string with 1024 bytes is	Mono 0, 6222	CPU 0, 2812 
+the time taken for string with 4096 bytes is	Mono 0, 13827	CPU 0, 3289 
+the time taken for string with 16384 bytes is	Mono 0, 45668	CPU 0, 6185 
+the time taken for string with 65536 bytes is	Mono 0, 172820	CPU 0, 17162 
+the time taken for string with 262144 bytes is	Mono 0, 700453	CPU 0, 70154 
+the time taken for string with 524288 bytes is	Mono 0, 1403038	CPU 0, 138902 
+
+starting iteration 152
+
+the time taken for string with 1 bytes is	Mono 0, 3791	CPU 0, 2654 
+the time taken for string with 2 bytes is	Mono 0, 3607	CPU 0, 2542 
+the time taken for string with 4 bytes is	Mono 0, 3721	CPU 0, 2667 
+the time taken for string with 16 bytes is	Mono 0, 3766	CPU 0, 2651 
+the time taken for string with 64 bytes is	Mono 0, 3795	CPU 0, 2644 
+the time taken for string with 256 bytes is	Mono 0, 4279	CPU 0, 2687 
+the time taken for string with 1024 bytes is	Mono 0, 6236	CPU 0, 2835 
+the time taken for string with 4096 bytes is	Mono 0, 13930	CPU 0, 3293 
+the time taken for string with 16384 bytes is	Mono 0, 45665	CPU 0, 6136 
+the time taken for string with 65536 bytes is	Mono 0, 172389	CPU 0, 16996 
+the time taken for string with 262144 bytes is	Mono 0, 698522	CPU 0, 70087 
+the time taken for string with 524288 bytes is	Mono 0, 1509937	CPU 0, 216758 
+
+starting iteration 153
+
+the time taken for string with 1 bytes is	Mono 0, 4316	CPU 0, 2886 
+the time taken for string with 2 bytes is	Mono 0, 12840	CPU 0, 2590 
+the time taken for string with 4 bytes is	Mono 0, 12682	CPU 0, 2482 
+the time taken for string with 16 bytes is	Mono 0, 12818	CPU 0, 2501 
+the time taken for string with 64 bytes is	Mono 0, 3667	CPU 0, 2485 
+the time taken for string with 256 bytes is	Mono 0, 4117	CPU 0, 2469 
+the time taken for string with 1024 bytes is	Mono 0, 6079	CPU 0, 2639 
+the time taken for string with 4096 bytes is	Mono 0, 13628	CPU 0, 3037 
+the time taken for string with 16384 bytes is	Mono 0, 45581	CPU 0, 6000 
+the time taken for string with 65536 bytes is	Mono 0, 172011	CPU 0, 16921 
+the time taken for string with 262144 bytes is	Mono 0, 734903	CPU 0, 105710 
+the time taken for string with 524288 bytes is	Mono 0, 1433666	CPU 0, 171873 
+
+starting iteration 154
+
+the time taken for string with 1 bytes is	Mono 0, 3982	CPU 0, 2753 
+the time taken for string with 2 bytes is	Mono 0, 3622	CPU 0, 2570 
+the time taken for string with 4 bytes is	Mono 0, 3720	CPU 0, 2628 
+the time taken for string with 16 bytes is	Mono 0, 3827	CPU 0, 2694 
+the time taken for string with 64 bytes is	Mono 0, 3863	CPU 0, 2652 
+the time taken for string with 256 bytes is	Mono 0, 4238	CPU 0, 2633 
+the time taken for string with 1024 bytes is	Mono 0, 6654	CPU 0, 2895 
+the time taken for string with 4096 bytes is	Mono 0, 13886	CPU 0, 3382 
+the time taken for string with 16384 bytes is	Mono 0, 45662	CPU 0, 6188 
+the time taken for string with 65536 bytes is	Mono 0, 172457	CPU 0, 17007 
+the time taken for string with 262144 bytes is	Mono 0, 699710	CPU 0, 69796 
+the time taken for string with 524288 bytes is	Mono 0, 1403421	CPU 0, 138988 
+
+starting iteration 155
+
+the time taken for string with 1 bytes is	Mono 0, 3926	CPU 0, 2780 
+the time taken for string with 2 bytes is	Mono 0, 3691	CPU 0, 2597 
+the time taken for string with 4 bytes is	Mono 0, 3702	CPU 0, 2658 
+the time taken for string with 16 bytes is	Mono 0, 3881	CPU 0, 2715 
+the time taken for string with 64 bytes is	Mono 0, 3839	CPU 0, 2649 
+the time taken for string with 256 bytes is	Mono 0, 4274	CPU 0, 2680 
+the time taken for string with 1024 bytes is	Mono 0, 6245	CPU 0, 2847 
+the time taken for string with 4096 bytes is	Mono 0, 13812	CPU 0, 3242 
+the time taken for string with 16384 bytes is	Mono 0, 45748	CPU 0, 6163 
+the time taken for string with 65536 bytes is	Mono 0, 173882	CPU 0, 17057 
+the time taken for string with 262144 bytes is	Mono 0, 698494	CPU 0, 69852 
+the time taken for string with 524288 bytes is	Mono 0, 1401243	CPU 0, 138258 
+
+starting iteration 156
+
+the time taken for string with 1 bytes is	Mono 0, 3867	CPU 0, 2692 
+the time taken for string with 2 bytes is	Mono 0, 3720	CPU 0, 2634 
+the time taken for string with 4 bytes is	Mono 0, 3773	CPU 0, 2717 
+the time taken for string with 16 bytes is	Mono 0, 3851	CPU 0, 2700 
+the time taken for string with 64 bytes is	Mono 0, 3822	CPU 0, 2638 
+the time taken for string with 256 bytes is	Mono 0, 4283	CPU 0, 2650 
+the time taken for string with 1024 bytes is	Mono 0, 6183	CPU 0, 2799 
+the time taken for string with 4096 bytes is	Mono 0, 13850	CPU 0, 3253 
+the time taken for string with 16384 bytes is	Mono 0, 45681	CPU 0, 6165 
+the time taken for string with 65536 bytes is	Mono 0, 172228	CPU 0, 16747 
+the time taken for string with 262144 bytes is	Mono 0, 699904	CPU 0, 69894 
+the time taken for string with 524288 bytes is	Mono 0, 1400519	CPU 0, 137712 
+
+starting iteration 157
+
+the time taken for string with 1 bytes is	Mono 0, 22178	CPU 0, 20686 
+the time taken for string with 2 bytes is	Mono 0, 12883	CPU 0, 2515 
+the time taken for string with 4 bytes is	Mono 0, 12763	CPU 0, 2492 
+the time taken for string with 16 bytes is	Mono 0, 12879	CPU 0, 2565 
+the time taken for string with 64 bytes is	Mono 0, 12899	CPU 0, 2487 
+the time taken for string with 256 bytes is	Mono 0, 14049	CPU 0, 2650 
+the time taken for string with 1024 bytes is	Mono 0, 15423	CPU 0, 2705 
+the time taken for string with 4096 bytes is	Mono 0, 13899	CPU 0, 3263 
+the time taken for string with 16384 bytes is	Mono 0, 46027	CPU 0, 6309 
+the time taken for string with 65536 bytes is	Mono 0, 172358	CPU 0, 17168 
+the time taken for string with 262144 bytes is	Mono 0, 700685	CPU 0, 70246 
+the time taken for string with 524288 bytes is	Mono 0, 1446275	CPU 0, 185139 
+
+starting iteration 158
+
+the time taken for string with 1 bytes is	Mono 0, 3817	CPU 0, 2601 
+the time taken for string with 2 bytes is	Mono 0, 3532	CPU 0, 2382 
+the time taken for string with 4 bytes is	Mono 0, 3491	CPU 0, 2420 
+the time taken for string with 16 bytes is	Mono 0, 3525	CPU 0, 2423 
+the time taken for string with 64 bytes is	Mono 0, 3764	CPU 0, 2479 
+the time taken for string with 256 bytes is	Mono 0, 4077	CPU 0, 2428 
+the time taken for string with 1024 bytes is	Mono 0, 5999	CPU 0, 2556 
+the time taken for string with 4096 bytes is	Mono 0, 13704	CPU 0, 3062 
+the time taken for string with 16384 bytes is	Mono 0, 45702	CPU 0, 6100 
+the time taken for string with 65536 bytes is	Mono 0, 175964	CPU 0, 19409 
+the time taken for string with 262144 bytes is	Mono 0, 714128	CPU 0, 85261 
+the time taken for string with 524288 bytes is	Mono 0, 1485719	CPU 0, 227470 
+
+starting iteration 159
+
+the time taken for string with 1 bytes is	Mono 0, 4384	CPU 0, 2774 
+the time taken for string with 2 bytes is	Mono 0, 3672	CPU 0, 2584 
+the time taken for string with 4 bytes is	Mono 0, 3664	CPU 0, 2606 
+the time taken for string with 16 bytes is	Mono 0, 3770	CPU 0, 2689 
+the time taken for string with 64 bytes is	Mono 0, 3792	CPU 0, 2594 
+the time taken for string with 256 bytes is	Mono 0, 4285	CPU 0, 2640 
+the time taken for string with 1024 bytes is	Mono 0, 6206	CPU 0, 2795 
+the time taken for string with 4096 bytes is	Mono 0, 13842	CPU 0, 3305 
+the time taken for string with 16384 bytes is	Mono 0, 45770	CPU 0, 6220 
+the time taken for string with 65536 bytes is	Mono 0, 172179	CPU 0, 16886 
+the time taken for string with 262144 bytes is	Mono 0, 699810	CPU 0, 71065 
+the time taken for string with 524288 bytes is	Mono 0, 1401384	CPU 0, 138003 
+
+starting iteration 160
+
+the time taken for string with 1 bytes is	Mono 0, 3855	CPU 0, 2696 
+the time taken for string with 2 bytes is	Mono 0, 4147	CPU 0, 2679 
+the time taken for string with 4 bytes is	Mono 0, 3744	CPU 0, 2720 
+the time taken for string with 16 bytes is	Mono 0, 3727	CPU 0, 2647 
+the time taken for string with 64 bytes is	Mono 0, 3799	CPU 0, 2624 
+the time taken for string with 256 bytes is	Mono 0, 4293	CPU 0, 2664 
+the time taken for string with 1024 bytes is	Mono 0, 6231	CPU 0, 2835 
+the time taken for string with 4096 bytes is	Mono 0, 13943	CPU 0, 3287 
+the time taken for string with 16384 bytes is	Mono 0, 45667	CPU 0, 6154 
+the time taken for string with 65536 bytes is	Mono 0, 172142	CPU 0, 16915 
+the time taken for string with 262144 bytes is	Mono 0, 701021	CPU 0, 69599 
+the time taken for string with 524288 bytes is	Mono 0, 1402939	CPU 0, 139485 
+
+starting iteration 161
+
+the time taken for string with 1 bytes is	Mono 0, 3860	CPU 0, 2691 
+the time taken for string with 2 bytes is	Mono 0, 3701	CPU 0, 2617 
+the time taken for string with 4 bytes is	Mono 0, 3770	CPU 0, 2661 
+the time taken for string with 16 bytes is	Mono 0, 3794	CPU 0, 2692 
+the time taken for string with 64 bytes is	Mono 0, 3785	CPU 0, 2613 
+the time taken for string with 256 bytes is	Mono 0, 4396	CPU 0, 2695 
+the time taken for string with 1024 bytes is	Mono 0, 6194	CPU 0, 2801 
+the time taken for string with 4096 bytes is	Mono 0, 13793	CPU 0, 3229 
+the time taken for string with 16384 bytes is	Mono 0, 45673	CPU 0, 6121 
+the time taken for string with 65536 bytes is	Mono 0, 174096	CPU 0, 17524 
+the time taken for string with 262144 bytes is	Mono 0, 755147	CPU 0, 68734 
+the time taken for string with 524288 bytes is	Mono 0, 1403683	CPU 0, 139234 
+
+starting iteration 162
+
+the time taken for string with 1 bytes is	Mono 0, 3932	CPU 0, 2780 
+the time taken for string with 2 bytes is	Mono 0, 3668	CPU 0, 2631 
+the time taken for string with 4 bytes is	Mono 0, 3708	CPU 0, 2642 
+the time taken for string with 16 bytes is	Mono 0, 3785	CPU 0, 2636 
+the time taken for string with 64 bytes is	Mono 0, 3873	CPU 0, 2685 
+the time taken for string with 256 bytes is	Mono 0, 4354	CPU 0, 2719 
+the time taken for string with 1024 bytes is	Mono 0, 6267	CPU 0, 2815 
+the time taken for string with 4096 bytes is	Mono 0, 13924	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45658	CPU 0, 6055 
+the time taken for string with 65536 bytes is	Mono 0, 172153	CPU 0, 16936 
+the time taken for string with 262144 bytes is	Mono 0, 718001	CPU 0, 92100 
+the time taken for string with 524288 bytes is	Mono 0, 1409832	CPU 0, 147468 
+
+starting iteration 163
+
+the time taken for string with 1 bytes is	Mono 0, 4245	CPU 0, 2775 
+the time taken for string with 2 bytes is	Mono 0, 3778	CPU 0, 2807 
+the time taken for string with 4 bytes is	Mono 0, 3678	CPU 0, 2662 
+the time taken for string with 16 bytes is	Mono 0, 3854	CPU 0, 2701 
+the time taken for string with 64 bytes is	Mono 0, 3826	CPU 0, 2643 
+the time taken for string with 256 bytes is	Mono 0, 4259	CPU 0, 2652 
+the time taken for string with 1024 bytes is	Mono 0, 6394	CPU 0, 2853 
+the time taken for string with 4096 bytes is	Mono 0, 13914	CPU 0, 3282 
+the time taken for string with 16384 bytes is	Mono 0, 45832	CPU 0, 6299 
+the time taken for string with 65536 bytes is	Mono 0, 172011	CPU 0, 16909 
+the time taken for string with 262144 bytes is	Mono 0, 700547	CPU 0, 70619 
+the time taken for string with 524288 bytes is	Mono 0, 1403346	CPU 0, 138857 
+
+starting iteration 164
+
+the time taken for string with 1 bytes is	Mono 0, 3935	CPU 0, 2763 
+the time taken for string with 2 bytes is	Mono 0, 3778	CPU 0, 2655 
+the time taken for string with 4 bytes is	Mono 0, 3772	CPU 0, 2697 
+the time taken for string with 16 bytes is	Mono 0, 3791	CPU 0, 2685 
+the time taken for string with 64 bytes is	Mono 0, 3936	CPU 0, 2701 
+the time taken for string with 256 bytes is	Mono 0, 4333	CPU 0, 2703 
+the time taken for string with 1024 bytes is	Mono 0, 6265	CPU 0, 2852 
+the time taken for string with 4096 bytes is	Mono 0, 14028	CPU 0, 3352 
+the time taken for string with 16384 bytes is	Mono 0, 47305	CPU 0, 6326 
+the time taken for string with 65536 bytes is	Mono 0, 172469	CPU 0, 17180 
+the time taken for string with 262144 bytes is	Mono 0, 699465	CPU 0, 69454 
+the time taken for string with 524288 bytes is	Mono 0, 1402841	CPU 0, 139238 
+
+starting iteration 165
+
+the time taken for string with 1 bytes is	Mono 0, 3913	CPU 0, 2738 
+the time taken for string with 2 bytes is	Mono 0, 3687	CPU 0, 2609 
+the time taken for string with 4 bytes is	Mono 0, 3688	CPU 0, 2623 
+the time taken for string with 16 bytes is	Mono 0, 3819	CPU 0, 2683 
+the time taken for string with 64 bytes is	Mono 0, 3798	CPU 0, 2642 
+the time taken for string with 256 bytes is	Mono 0, 4248	CPU 0, 2650 
+the time taken for string with 1024 bytes is	Mono 0, 6176	CPU 0, 2791 
+the time taken for string with 4096 bytes is	Mono 0, 13844	CPU 0, 3281 
+the time taken for string with 16384 bytes is	Mono 0, 45753	CPU 0, 6208 
+the time taken for string with 65536 bytes is	Mono 0, 172341	CPU 0, 17001 
+the time taken for string with 262144 bytes is	Mono 0, 699617	CPU 0, 70923 
+the time taken for string with 524288 bytes is	Mono 0, 1498209	CPU 0, 136907 
+
+starting iteration 166
+
+the time taken for string with 1 bytes is	Mono 0, 4220	CPU 0, 2758 
+the time taken for string with 2 bytes is	Mono 0, 3678	CPU 0, 2605 
+the time taken for string with 4 bytes is	Mono 0, 3731	CPU 0, 2642 
+the time taken for string with 16 bytes is	Mono 0, 3782	CPU 0, 2670 
+the time taken for string with 64 bytes is	Mono 0, 3911	CPU 0, 2727 
+the time taken for string with 256 bytes is	Mono 0, 4290	CPU 0, 2680 
+the time taken for string with 1024 bytes is	Mono 0, 6215	CPU 0, 2781 
+the time taken for string with 4096 bytes is	Mono 0, 13960	CPU 0, 3382 
+the time taken for string with 16384 bytes is	Mono 0, 45652	CPU 0, 6189 
+the time taken for string with 65536 bytes is	Mono 0, 172059	CPU 0, 16912 
+the time taken for string with 262144 bytes is	Mono 0, 699882	CPU 0, 69536 
+the time taken for string with 524288 bytes is	Mono 0, 1401204	CPU 0, 138028 
+
+starting iteration 167
+
+the time taken for string with 1 bytes is	Mono 0, 3988	CPU 0, 2804 
+the time taken for string with 2 bytes is	Mono 0, 3663	CPU 0, 2631 
+the time taken for string with 4 bytes is	Mono 0, 3580	CPU 0, 2571 
+the time taken for string with 16 bytes is	Mono 0, 3645	CPU 0, 2548 
+the time taken for string with 64 bytes is	Mono 0, 3690	CPU 0, 2500 
+the time taken for string with 256 bytes is	Mono 0, 4126	CPU 0, 2496 
+the time taken for string with 1024 bytes is	Mono 0, 6051	CPU 0, 2618 
+the time taken for string with 4096 bytes is	Mono 0, 13665	CPU 0, 3091 
+the time taken for string with 16384 bytes is	Mono 0, 46143	CPU 0, 6177 
+the time taken for string with 65536 bytes is	Mono 0, 172082	CPU 0, 16847 
+the time taken for string with 262144 bytes is	Mono 0, 752571	CPU 0, 123529 
+the time taken for string with 524288 bytes is	Mono 0, 1488469	CPU 0, 224552 
+
+starting iteration 168
+
+the time taken for string with 1 bytes is	Mono 0, 3948	CPU 0, 2783 
+the time taken for string with 2 bytes is	Mono 0, 3683	CPU 0, 2605 
+the time taken for string with 4 bytes is	Mono 0, 3761	CPU 0, 2662 
+the time taken for string with 16 bytes is	Mono 0, 3739	CPU 0, 2649 
+the time taken for string with 64 bytes is	Mono 0, 3863	CPU 0, 2664 
+the time taken for string with 256 bytes is	Mono 0, 4396	CPU 0, 2790 
+the time taken for string with 1024 bytes is	Mono 0, 6311	CPU 0, 2854 
+the time taken for string with 4096 bytes is	Mono 0, 13938	CPU 0, 3315 
+the time taken for string with 16384 bytes is	Mono 0, 45865	CPU 0, 6279 
+the time taken for string with 65536 bytes is	Mono 0, 173713	CPU 0, 17040 
+the time taken for string with 262144 bytes is	Mono 0, 698711	CPU 0, 70101 
+the time taken for string with 524288 bytes is	Mono 0, 1403030	CPU 0, 138724 
+
+starting iteration 169
+
+the time taken for string with 1 bytes is	Mono 0, 3934	CPU 0, 2702 
+the time taken for string with 2 bytes is	Mono 0, 3669	CPU 0, 2632 
+the time taken for string with 4 bytes is	Mono 0, 3757	CPU 0, 2675 
+the time taken for string with 16 bytes is	Mono 0, 3834	CPU 0, 2713 
+the time taken for string with 64 bytes is	Mono 0, 3802	CPU 0, 2629 
+the time taken for string with 256 bytes is	Mono 0, 4242	CPU 0, 2630 
+the time taken for string with 1024 bytes is	Mono 0, 6185	CPU 0, 2793 
+the time taken for string with 4096 bytes is	Mono 0, 13880	CPU 0, 3268 
+the time taken for string with 16384 bytes is	Mono 0, 45547	CPU 0, 6114 
+the time taken for string with 65536 bytes is	Mono 0, 172197	CPU 0, 17026 
+the time taken for string with 262144 bytes is	Mono 0, 699816	CPU 0, 69519 
+the time taken for string with 524288 bytes is	Mono 0, 1402452	CPU 0, 139556 
+
+starting iteration 170
+
+the time taken for string with 1 bytes is	Mono 0, 3990	CPU 0, 2826 
+the time taken for string with 2 bytes is	Mono 0, 3686	CPU 0, 2582 
+the time taken for string with 4 bytes is	Mono 0, 3739	CPU 0, 2678 
+the time taken for string with 16 bytes is	Mono 0, 3768	CPU 0, 2655 
+the time taken for string with 64 bytes is	Mono 0, 3843	CPU 0, 2677 
+the time taken for string with 256 bytes is	Mono 0, 4839	CPU 0, 2842 
+the time taken for string with 1024 bytes is	Mono 0, 6275	CPU 0, 2902 
+the time taken for string with 4096 bytes is	Mono 0, 13948	CPU 0, 3328 
+the time taken for string with 16384 bytes is	Mono 0, 45773	CPU 0, 6241 
+the time taken for string with 65536 bytes is	Mono 0, 172338	CPU 0, 16979 
+the time taken for string with 262144 bytes is	Mono 0, 699927	CPU 0, 70242 
+the time taken for string with 524288 bytes is	Mono 0, 1402312	CPU 0, 139046 
+
+starting iteration 171
+
+the time taken for string with 1 bytes is	Mono 0, 3885	CPU 0, 2750 
+the time taken for string with 2 bytes is	Mono 0, 13039	CPU 0, 2464 
+the time taken for string with 4 bytes is	Mono 0, 12671	CPU 0, 2448 
+the time taken for string with 16 bytes is	Mono 0, 13504	CPU 0, 2532 
+the time taken for string with 64 bytes is	Mono 0, 13082	CPU 0, 2513 
+the time taken for string with 256 bytes is	Mono 0, 13249	CPU 0, 2511 
+the time taken for string with 1024 bytes is	Mono 0, 16237	CPU 0, 2650 
+the time taken for string with 4096 bytes is	Mono 0, 23425	CPU 0, 3092 
+the time taken for string with 16384 bytes is	Mono 0, 45703	CPU 0, 6107 
+the time taken for string with 65536 bytes is	Mono 0, 173756	CPU 0, 16925 
+the time taken for string with 262144 bytes is	Mono 0, 697754	CPU 0, 68261 
+the time taken for string with 524288 bytes is	Mono 0, 1406736	CPU 0, 144180 
+
+starting iteration 172
+
+the time taken for string with 1 bytes is	Mono 0, 4349	CPU 0, 2758 
+the time taken for string with 2 bytes is	Mono 0, 3655	CPU 0, 2589 
+the time taken for string with 4 bytes is	Mono 0, 3823	CPU 0, 2692 
+the time taken for string with 16 bytes is	Mono 0, 3737	CPU 0, 2637 
+the time taken for string with 64 bytes is	Mono 0, 3799	CPU 0, 2621 
+the time taken for string with 256 bytes is	Mono 0, 4386	CPU 0, 2707 
+the time taken for string with 1024 bytes is	Mono 0, 6258	CPU 0, 2840 
+the time taken for string with 4096 bytes is	Mono 0, 13948	CPU 0, 3339 
+the time taken for string with 16384 bytes is	Mono 0, 45867	CPU 0, 6270 
+the time taken for string with 65536 bytes is	Mono 0, 172366	CPU 0, 17079 
+the time taken for string with 262144 bytes is	Mono 0, 699044	CPU 0, 69993 
+the time taken for string with 524288 bytes is	Mono 0, 1401913	CPU 0, 138439 
+
+starting iteration 173
+
+the time taken for string with 1 bytes is	Mono 0, 3853	CPU 0, 2666 
+the time taken for string with 2 bytes is	Mono 0, 37933	CPU 0, 3053 
+the time taken for string with 4 bytes is	Mono 0, 3590	CPU 0, 2569 
+the time taken for string with 16 bytes is	Mono 0, 3895	CPU 0, 2902 
+the time taken for string with 64 bytes is	Mono 0, 3686	CPU 0, 2571 
+the time taken for string with 256 bytes is	Mono 0, 4077	CPU 0, 2607 
+the time taken for string with 1024 bytes is	Mono 0, 6041	CPU 0, 2830 
+the time taken for string with 4096 bytes is	Mono 0, 13755	CPU 0, 3294 
+the time taken for string with 16384 bytes is	Mono 0, 45609	CPU 0, 6142 
+the time taken for string with 65536 bytes is	Mono 0, 172646	CPU 0, 17740 
+the time taken for string with 262144 bytes is	Mono 0, 748372	CPU 0, 120724 
+the time taken for string with 524288 bytes is	Mono 0, 1529948	CPU 0, 221793 
+
+starting iteration 174
+
+the time taken for string with 1 bytes is	Mono 0, 4133	CPU 0, 2617 
+the time taken for string with 2 bytes is	Mono 0, 13324	CPU 0, 2238 
+the time taken for string with 4 bytes is	Mono 0, 12754	CPU 0, 2213 
+the time taken for string with 16 bytes is	Mono 0, 12841	CPU 0, 2230 
+the time taken for string with 64 bytes is	Mono 0, 12750	CPU 0, 2246 
+the time taken for string with 256 bytes is	Mono 0, 13192	CPU 0, 2251 
+the time taken for string with 1024 bytes is	Mono 0, 15529	CPU 0, 2531 
+the time taken for string with 4096 bytes is	Mono 0, 22612	CPU 0, 2864 
+the time taken for string with 16384 bytes is	Mono 0, 45726	CPU 0, 6037 
+the time taken for string with 65536 bytes is	Mono 0, 172264	CPU 0, 16796 
+the time taken for string with 262144 bytes is	Mono 0, 747583	CPU 0, 118788 
+the time taken for string with 524288 bytes is	Mono 0, 1428777	CPU 0, 165106 
+
+starting iteration 175
+
+the time taken for string with 1 bytes is	Mono 0, 3940	CPU 0, 2754 
+the time taken for string with 2 bytes is	Mono 0, 3765	CPU 0, 2679 
+the time taken for string with 4 bytes is	Mono 0, 3640	CPU 0, 2597 
+the time taken for string with 16 bytes is	Mono 0, 3772	CPU 0, 2692 
+the time taken for string with 64 bytes is	Mono 0, 3911	CPU 0, 2664 
+the time taken for string with 256 bytes is	Mono 0, 4284	CPU 0, 2658 
+the time taken for string with 1024 bytes is	Mono 0, 6227	CPU 0, 2825 
+the time taken for string with 4096 bytes is	Mono 0, 13999	CPU 0, 3348 
+the time taken for string with 16384 bytes is	Mono 0, 45690	CPU 0, 6167 
+the time taken for string with 65536 bytes is	Mono 0, 173810	CPU 0, 17065 
+the time taken for string with 262144 bytes is	Mono 0, 697691	CPU 0, 69435 
+the time taken for string with 524288 bytes is	Mono 0, 1401160	CPU 0, 138062 
+
+starting iteration 176
+
+the time taken for string with 1 bytes is	Mono 0, 3887	CPU 0, 2649 
+the time taken for string with 2 bytes is	Mono 0, 3753	CPU 0, 2607 
+the time taken for string with 4 bytes is	Mono 0, 3685	CPU 0, 2605 
+the time taken for string with 16 bytes is	Mono 0, 3707	CPU 0, 2667 
+the time taken for string with 64 bytes is	Mono 0, 3836	CPU 0, 2623 
+the time taken for string with 256 bytes is	Mono 0, 4307	CPU 0, 2736 
+the time taken for string with 1024 bytes is	Mono 0, 6169	CPU 0, 2773 
+the time taken for string with 4096 bytes is	Mono 0, 13754	CPU 0, 3173 
+the time taken for string with 16384 bytes is	Mono 0, 46887	CPU 0, 6629 
+the time taken for string with 65536 bytes is	Mono 0, 172405	CPU 0, 16938 
+the time taken for string with 262144 bytes is	Mono 0, 721021	CPU 0, 91589 
+the time taken for string with 524288 bytes is	Mono 0, 1420322	CPU 0, 158292 
+
+starting iteration 177
+
+the time taken for string with 1 bytes is	Mono 0, 4025	CPU 0, 2885 
+the time taken for string with 2 bytes is	Mono 0, 3700	CPU 0, 2646 
+the time taken for string with 4 bytes is	Mono 0, 3682	CPU 0, 2613 
+the time taken for string with 16 bytes is	Mono 0, 4289	CPU 0, 2787 
+the time taken for string with 64 bytes is	Mono 0, 3787	CPU 0, 2715 
+the time taken for string with 256 bytes is	Mono 0, 4280	CPU 0, 2654 
+the time taken for string with 1024 bytes is	Mono 0, 6198	CPU 0, 2795 
+the time taken for string with 4096 bytes is	Mono 0, 13895	CPU 0, 3275 
+the time taken for string with 16384 bytes is	Mono 0, 45781	CPU 0, 6212 
+the time taken for string with 65536 bytes is	Mono 0, 172376	CPU 0, 17249 
+the time taken for string with 262144 bytes is	Mono 0, 701015	CPU 0, 70615 
+the time taken for string with 524288 bytes is	Mono 0, 1403545	CPU 0, 139051 
+
+starting iteration 178
+
+the time taken for string with 1 bytes is	Mono 0, 3954	CPU 0, 2715 
+the time taken for string with 2 bytes is	Mono 0, 3698	CPU 0, 2635 
+the time taken for string with 4 bytes is	Mono 0, 3720	CPU 0, 2649 
+the time taken for string with 16 bytes is	Mono 0, 3751	CPU 0, 2642 
+the time taken for string with 64 bytes is	Mono 0, 3812	CPU 0, 2664 
+the time taken for string with 256 bytes is	Mono 0, 4267	CPU 0, 2668 
+the time taken for string with 1024 bytes is	Mono 0, 6201	CPU 0, 2779 
+the time taken for string with 4096 bytes is	Mono 0, 13896	CPU 0, 3311 
+the time taken for string with 16384 bytes is	Mono 0, 45592	CPU 0, 6209 
+the time taken for string with 65536 bytes is	Mono 0, 173562	CPU 0, 16967 
+the time taken for string with 262144 bytes is	Mono 0, 698796	CPU 0, 70405 
+the time taken for string with 524288 bytes is	Mono 0, 1402919	CPU 0, 138791 
+
+starting iteration 179
+
+the time taken for string with 1 bytes is	Mono 0, 3874	CPU 0, 2691 
+the time taken for string with 2 bytes is	Mono 0, 3685	CPU 0, 2633 
+the time taken for string with 4 bytes is	Mono 0, 3662	CPU 0, 2607 
+the time taken for string with 16 bytes is	Mono 0, 3751	CPU 0, 2676 
+the time taken for string with 64 bytes is	Mono 0, 3835	CPU 0, 2632 
+the time taken for string with 256 bytes is	Mono 0, 4270	CPU 0, 2643 
+the time taken for string with 1024 bytes is	Mono 0, 6230	CPU 0, 2814 
+the time taken for string with 4096 bytes is	Mono 0, 13825	CPU 0, 3305 
+the time taken for string with 16384 bytes is	Mono 0, 45563	CPU 0, 6097 
+the time taken for string with 65536 bytes is	Mono 0, 172202	CPU 0, 17098 
+the time taken for string with 262144 bytes is	Mono 0, 699816	CPU 0, 69946 
+the time taken for string with 524288 bytes is	Mono 0, 1400551	CPU 0, 137794 
+
+starting iteration 180
+
+the time taken for string with 1 bytes is	Mono 0, 3885	CPU 0, 2705 
+the time taken for string with 2 bytes is	Mono 0, 3654	CPU 0, 2594 
+the time taken for string with 4 bytes is	Mono 0, 3688	CPU 0, 2602 
+the time taken for string with 16 bytes is	Mono 0, 3753	CPU 0, 2679 
+the time taken for string with 64 bytes is	Mono 0, 3864	CPU 0, 2650 
+the time taken for string with 256 bytes is	Mono 0, 4779	CPU 0, 2791 
+the time taken for string with 1024 bytes is	Mono 0, 6171	CPU 0, 2830 
+the time taken for string with 4096 bytes is	Mono 0, 13860	CPU 0, 3301 
+the time taken for string with 16384 bytes is	Mono 0, 45661	CPU 0, 6182 
+the time taken for string with 65536 bytes is	Mono 0, 172343	CPU 0, 17002 
+the time taken for string with 262144 bytes is	Mono 0, 699332	CPU 0, 69381 
+the time taken for string with 524288 bytes is	Mono 0, 1549832	CPU 0, 218352 
+
+starting iteration 181
+
+the time taken for string with 1 bytes is	Mono 0, 3906	CPU 0, 2788 
+the time taken for string with 2 bytes is	Mono 0, 3568	CPU 0, 2512 
+the time taken for string with 4 bytes is	Mono 0, 3497	CPU 0, 2431 
+the time taken for string with 16 bytes is	Mono 0, 3566	CPU 0, 2463 
+the time taken for string with 64 bytes is	Mono 0, 3631	CPU 0, 2445 
+the time taken for string with 256 bytes is	Mono 0, 4076	CPU 0, 2443 
+the time taken for string with 1024 bytes is	Mono 0, 5970	CPU 0, 2584 
+the time taken for string with 4096 bytes is	Mono 0, 13706	CPU 0, 3091 
+the time taken for string with 16384 bytes is	Mono 0, 45482	CPU 0, 5983 
+the time taken for string with 65536 bytes is	Mono 0, 172781	CPU 0, 17050 
+the time taken for string with 262144 bytes is	Mono 0, 698815	CPU 0, 68860 
+the time taken for string with 524288 bytes is	Mono 0, 1410202	CPU 0, 147732 
+
+starting iteration 182
+
+the time taken for string with 1 bytes is	Mono 0, 3995	CPU 0, 2825 
+the time taken for string with 2 bytes is	Mono 0, 3706	CPU 0, 2624 
+the time taken for string with 4 bytes is	Mono 0, 3713	CPU 0, 2656 
+the time taken for string with 16 bytes is	Mono 0, 3803	CPU 0, 2722 
+the time taken for string with 64 bytes is	Mono 0, 3812	CPU 0, 2637 
+the time taken for string with 256 bytes is	Mono 0, 4272	CPU 0, 2634 
+the time taken for string with 1024 bytes is	Mono 0, 6262	CPU 0, 2807 
+the time taken for string with 4096 bytes is	Mono 0, 13885	CPU 0, 3321 
+the time taken for string with 16384 bytes is	Mono 0, 45699	CPU 0, 6238 
+the time taken for string with 65536 bytes is	Mono 0, 172336	CPU 0, 17198 
+the time taken for string with 262144 bytes is	Mono 0, 699759	CPU 0, 71047 
+the time taken for string with 524288 bytes is	Mono 0, 1404651	CPU 0, 139687 
+
+starting iteration 183
+
+the time taken for string with 1 bytes is	Mono 0, 3924	CPU 0, 2743 
+the time taken for string with 2 bytes is	Mono 0, 4207	CPU 0, 2758 
+the time taken for string with 4 bytes is	Mono 0, 3783	CPU 0, 2794 
+the time taken for string with 16 bytes is	Mono 0, 3814	CPU 0, 2717 
+the time taken for string with 64 bytes is	Mono 0, 3840	CPU 0, 2677 
+the time taken for string with 256 bytes is	Mono 0, 4304	CPU 0, 2694 
+the time taken for string with 1024 bytes is	Mono 0, 6216	CPU 0, 2824 
+the time taken for string with 4096 bytes is	Mono 0, 13926	CPU 0, 3390 
+the time taken for string with 16384 bytes is	Mono 0, 45647	CPU 0, 6164 
+the time taken for string with 65536 bytes is	Mono 0, 172372	CPU 0, 17258 
+the time taken for string with 262144 bytes is	Mono 0, 699722	CPU 0, 69930 
+the time taken for string with 524288 bytes is	Mono 0, 1401982	CPU 0, 138710 
+
+starting iteration 184
+
+the time taken for string with 1 bytes is	Mono 0, 3850	CPU 0, 2663 
+the time taken for string with 2 bytes is	Mono 0, 3675	CPU 0, 2576 
+the time taken for string with 4 bytes is	Mono 0, 3681	CPU 0, 2560 
+the time taken for string with 16 bytes is	Mono 0, 3741	CPU 0, 2675 
+the time taken for string with 64 bytes is	Mono 0, 3823	CPU 0, 2635 
+the time taken for string with 256 bytes is	Mono 0, 4326	CPU 0, 2753 
+the time taken for string with 1024 bytes is	Mono 0, 6252	CPU 0, 2868 
+the time taken for string with 4096 bytes is	Mono 0, 13847	CPU 0, 3327 
+the time taken for string with 16384 bytes is	Mono 0, 45568	CPU 0, 6139 
+the time taken for string with 65536 bytes is	Mono 0, 172661	CPU 0, 17112 
+the time taken for string with 262144 bytes is	Mono 0, 699378	CPU 0, 69686 
+the time taken for string with 524288 bytes is	Mono 0, 1402285	CPU 0, 139100 
+
+starting iteration 185
+
+the time taken for string with 1 bytes is	Mono 0, 3891	CPU 0, 2732 
+the time taken for string with 2 bytes is	Mono 0, 3684	CPU 0, 2592 
+the time taken for string with 4 bytes is	Mono 0, 3686	CPU 0, 2615 
+the time taken for string with 16 bytes is	Mono 0, 3780	CPU 0, 2670 
+the time taken for string with 64 bytes is	Mono 0, 3777	CPU 0, 2609 
+the time taken for string with 256 bytes is	Mono 0, 4298	CPU 0, 2649 
+the time taken for string with 1024 bytes is	Mono 0, 6205	CPU 0, 2794 
+the time taken for string with 4096 bytes is	Mono 0, 13798	CPU 0, 3221 
+the time taken for string with 16384 bytes is	Mono 0, 45621	CPU 0, 6135 
+the time taken for string with 65536 bytes is	Mono 0, 172657	CPU 0, 17182 
+the time taken for string with 262144 bytes is	Mono 0, 733052	CPU 0, 105421 
+the time taken for string with 524288 bytes is	Mono 0, 1419674	CPU 0, 157933 
+
+starting iteration 186
+
+the time taken for string with 1 bytes is	Mono 0, 4310	CPU 0, 2817 
+the time taken for string with 2 bytes is	Mono 0, 3773	CPU 0, 2770 
+the time taken for string with 4 bytes is	Mono 0, 3744	CPU 0, 2663 
+the time taken for string with 16 bytes is	Mono 0, 3735	CPU 0, 2640 
+the time taken for string with 64 bytes is	Mono 0, 3856	CPU 0, 2636 
+the time taken for string with 256 bytes is	Mono 0, 4251	CPU 0, 2664 
+the time taken for string with 1024 bytes is	Mono 0, 6187	CPU 0, 2781 
+the time taken for string with 4096 bytes is	Mono 0, 13921	CPU 0, 3307 
+the time taken for string with 16384 bytes is	Mono 0, 45587	CPU 0, 6221 
+the time taken for string with 65536 bytes is	Mono 0, 172182	CPU 0, 17079 
+the time taken for string with 262144 bytes is	Mono 0, 699424	CPU 0, 69522 
+the time taken for string with 524288 bytes is	Mono 0, 1403198	CPU 0, 139308 
+
+starting iteration 187
+
+the time taken for string with 1 bytes is	Mono 0, 10978	CPU 0, 9463 
+the time taken for string with 2 bytes is	Mono 0, 3802	CPU 0, 2707 
+the time taken for string with 4 bytes is	Mono 0, 3822	CPU 0, 2712 
+the time taken for string with 16 bytes is	Mono 0, 3804	CPU 0, 2730 
+the time taken for string with 64 bytes is	Mono 0, 3875	CPU 0, 2686 
+the time taken for string with 256 bytes is	Mono 0, 4351	CPU 0, 2685 
+the time taken for string with 1024 bytes is	Mono 0, 6242	CPU 0, 2883 
+the time taken for string with 4096 bytes is	Mono 0, 13940	CPU 0, 3355 
+the time taken for string with 16384 bytes is	Mono 0, 45911	CPU 0, 6345 
+the time taken for string with 65536 bytes is	Mono 0, 172966	CPU 0, 17326 
+the time taken for string with 262144 bytes is	Mono 0, 699853	CPU 0, 70001 
+the time taken for string with 524288 bytes is	Mono 0, 1400904	CPU 0, 138323 
+
+starting iteration 188
+
+the time taken for string with 1 bytes is	Mono 0, 3822	CPU 0, 2703 
+the time taken for string with 2 bytes is	Mono 0, 3742	CPU 0, 2629 
+the time taken for string with 4 bytes is	Mono 0, 3713	CPU 0, 2641 
+the time taken for string with 16 bytes is	Mono 0, 3725	CPU 0, 2639 
+the time taken for string with 64 bytes is	Mono 0, 3772	CPU 0, 2614 
+the time taken for string with 256 bytes is	Mono 0, 4255	CPU 0, 2636 
+the time taken for string with 1024 bytes is	Mono 0, 6255	CPU 0, 2791 
+the time taken for string with 4096 bytes is	Mono 0, 13933	CPU 0, 3322 
+the time taken for string with 16384 bytes is	Mono 0, 45605	CPU 0, 6124 
+the time taken for string with 65536 bytes is	Mono 0, 172098	CPU 0, 16836 
+the time taken for string with 262144 bytes is	Mono 0, 697878	CPU 0, 69396 
+the time taken for string with 524288 bytes is	Mono 0, 1401172	CPU 0, 137851 
+
+starting iteration 189
+
+the time taken for string with 1 bytes is	Mono 0, 4379	CPU 0, 2813 
+the time taken for string with 2 bytes is	Mono 0, 13619	CPU 0, 2640 
+the time taken for string with 4 bytes is	Mono 0, 13335	CPU 0, 2556 
+the time taken for string with 16 bytes is	Mono 0, 12720	CPU 0, 2497 
+the time taken for string with 64 bytes is	Mono 0, 12826	CPU 0, 2505 
+the time taken for string with 256 bytes is	Mono 0, 13374	CPU 0, 2468 
+the time taken for string with 1024 bytes is	Mono 0, 15328	CPU 0, 2621 
+the time taken for string with 4096 bytes is	Mono 0, 23015	CPU 0, 3068 
+the time taken for string with 16384 bytes is	Mono 0, 45731	CPU 0, 6108 
+the time taken for string with 65536 bytes is	Mono 0, 171907	CPU 0, 16980 
+the time taken for string with 262144 bytes is	Mono 0, 700983	CPU 0, 69949 
+the time taken for string with 524288 bytes is	Mono 0, 1401756	CPU 0, 138139 
+
+starting iteration 190
+
+the time taken for string with 1 bytes is	Mono 0, 3936	CPU 0, 2726 
+the time taken for string with 2 bytes is	Mono 0, 3678	CPU 0, 2596 
+the time taken for string with 4 bytes is	Mono 0, 3743	CPU 0, 2652 
+the time taken for string with 16 bytes is	Mono 0, 3742	CPU 0, 2629 
+the time taken for string with 64 bytes is	Mono 0, 3800	CPU 0, 2627 
+the time taken for string with 256 bytes is	Mono 0, 4221	CPU 0, 2571 
+the time taken for string with 1024 bytes is	Mono 0, 6045	CPU 0, 2627 
+the time taken for string with 4096 bytes is	Mono 0, 13736	CPU 0, 3099 
+the time taken for string with 16384 bytes is	Mono 0, 46892	CPU 0, 6110 
+the time taken for string with 65536 bytes is	Mono 0, 172181	CPU 0, 16927 
+the time taken for string with 262144 bytes is	Mono 0, 699968	CPU 0, 70242 
+the time taken for string with 524288 bytes is	Mono 0, 1434206	CPU 0, 150143 
+
+starting iteration 191
+
+the time taken for string with 1 bytes is	Mono 0, 3994	CPU 0, 2839 
+the time taken for string with 2 bytes is	Mono 0, 3709	CPU 0, 2615 
+the time taken for string with 4 bytes is	Mono 0, 3665	CPU 0, 2665 
+the time taken for string with 16 bytes is	Mono 0, 3853	CPU 0, 2740 
+the time taken for string with 64 bytes is	Mono 0, 3825	CPU 0, 2659 
+the time taken for string with 256 bytes is	Mono 0, 4270	CPU 0, 2678 
+the time taken for string with 1024 bytes is	Mono 0, 6211	CPU 0, 2843 
+the time taken for string with 4096 bytes is	Mono 0, 13853	CPU 0, 3286 
+the time taken for string with 16384 bytes is	Mono 0, 45788	CPU 0, 6354 
+the time taken for string with 65536 bytes is	Mono 0, 173558	CPU 0, 17443 
+the time taken for string with 262144 bytes is	Mono 0, 912177	CPU 0, 192179 
+the time taken for string with 524288 bytes is	Mono 0, 1402582	CPU 0, 136873 
+
+starting iteration 192
+
+the time taken for string with 1 bytes is	Mono 0, 3820	CPU 0, 2607 
+the time taken for string with 2 bytes is	Mono 0, 3690	CPU 0, 2590 
+the time taken for string with 4 bytes is	Mono 0, 3739	CPU 0, 2585 
+the time taken for string with 16 bytes is	Mono 0, 3761	CPU 0, 2651 
+the time taken for string with 64 bytes is	Mono 0, 3812	CPU 0, 2640 
+the time taken for string with 256 bytes is	Mono 0, 4298	CPU 0, 2660 
+the time taken for string with 1024 bytes is	Mono 0, 6344	CPU 0, 2833 
+the time taken for string with 4096 bytes is	Mono 0, 13919	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45730	CPU 0, 6144 
+the time taken for string with 65536 bytes is	Mono 0, 172410	CPU 0, 17128 
+the time taken for string with 262144 bytes is	Mono 0, 697976	CPU 0, 69480 
+the time taken for string with 524288 bytes is	Mono 0, 1401117	CPU 0, 137994 
+
+starting iteration 193
+
+the time taken for string with 1 bytes is	Mono 0, 3979	CPU 0, 2722 
+the time taken for string with 2 bytes is	Mono 0, 3696	CPU 0, 2563 
+the time taken for string with 4 bytes is	Mono 0, 3665	CPU 0, 2551 
+the time taken for string with 16 bytes is	Mono 0, 4287	CPU 0, 2833 
+the time taken for string with 64 bytes is	Mono 0, 3836	CPU 0, 2669 
+the time taken for string with 256 bytes is	Mono 0, 4272	CPU 0, 2647 
+the time taken for string with 1024 bytes is	Mono 0, 6239	CPU 0, 2748 
+the time taken for string with 4096 bytes is	Mono 0, 13834	CPU 0, 3275 
+the time taken for string with 16384 bytes is	Mono 0, 45697	CPU 0, 6135 
+the time taken for string with 65536 bytes is	Mono 0, 172370	CPU 0, 17087 
+the time taken for string with 262144 bytes is	Mono 0, 700631	CPU 0, 70262 
+the time taken for string with 524288 bytes is	Mono 0, 1402798	CPU 0, 138861 
+
+starting iteration 194
+
+the time taken for string with 1 bytes is	Mono 0, 3950	CPU 0, 2747 
+the time taken for string with 2 bytes is	Mono 0, 3744	CPU 0, 2624 
+the time taken for string with 4 bytes is	Mono 0, 3698	CPU 0, 2580 
+the time taken for string with 16 bytes is	Mono 0, 3767	CPU 0, 2657 
+the time taken for string with 64 bytes is	Mono 0, 3860	CPU 0, 2646 
+the time taken for string with 256 bytes is	Mono 0, 4309	CPU 0, 2636 
+the time taken for string with 1024 bytes is	Mono 0, 6206	CPU 0, 2777 
+the time taken for string with 4096 bytes is	Mono 0, 13974	CPU 0, 3300 
+the time taken for string with 16384 bytes is	Mono 0, 45682	CPU 0, 6133 
+the time taken for string with 65536 bytes is	Mono 0, 173906	CPU 0, 17212 
+the time taken for string with 262144 bytes is	Mono 0, 697867	CPU 0, 69174 
+the time taken for string with 524288 bytes is	Mono 0, 1401230	CPU 0, 137659 
+
+starting iteration 195
+
+the time taken for string with 1 bytes is	Mono 0, 3875	CPU 0, 2633 
+the time taken for string with 2 bytes is	Mono 0, 3542	CPU 0, 2419 
+the time taken for string with 4 bytes is	Mono 0, 3555	CPU 0, 2460 
+the time taken for string with 16 bytes is	Mono 0, 3597	CPU 0, 2471 
+the time taken for string with 64 bytes is	Mono 0, 3725	CPU 0, 2475 
+the time taken for string with 256 bytes is	Mono 0, 4135	CPU 0, 2470 
+the time taken for string with 1024 bytes is	Mono 0, 6035	CPU 0, 2583 
+the time taken for string with 4096 bytes is	Mono 0, 13691	CPU 0, 3098 
+the time taken for string with 16384 bytes is	Mono 0, 45712	CPU 0, 6049 
+the time taken for string with 65536 bytes is	Mono 0, 172069	CPU 0, 16812 
+the time taken for string with 262144 bytes is	Mono 0, 716940	CPU 0, 87216 
+the time taken for string with 524288 bytes is	Mono 0, 1538123	CPU 0, 176760 
+
+starting iteration 196
+
+the time taken for string with 1 bytes is	Mono 0, 4214	CPU 0, 2714 
+the time taken for string with 2 bytes is	Mono 0, 3724	CPU 0, 2720 
+the time taken for string with 4 bytes is	Mono 0, 3700	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3795	CPU 0, 2692 
+the time taken for string with 64 bytes is	Mono 0, 3794	CPU 0, 2613 
+the time taken for string with 256 bytes is	Mono 0, 4415	CPU 0, 2711 
+the time taken for string with 1024 bytes is	Mono 0, 6199	CPU 0, 2800 
+the time taken for string with 4096 bytes is	Mono 0, 13884	CPU 0, 3286 
+the time taken for string with 16384 bytes is	Mono 0, 45728	CPU 0, 6221 
+the time taken for string with 65536 bytes is	Mono 0, 172428	CPU 0, 17003 
+the time taken for string with 262144 bytes is	Mono 0, 699954	CPU 0, 69702 
+the time taken for string with 524288 bytes is	Mono 0, 1440885	CPU 0, 139324 
+
+starting iteration 197
+
+the time taken for string with 1 bytes is	Mono 0, 3922	CPU 0, 2748 
+the time taken for string with 2 bytes is	Mono 0, 3696	CPU 0, 2649 
+the time taken for string with 4 bytes is	Mono 0, 3724	CPU 0, 2700 
+the time taken for string with 16 bytes is	Mono 0, 3776	CPU 0, 2670 
+the time taken for string with 64 bytes is	Mono 0, 3757	CPU 0, 2604 
+the time taken for string with 256 bytes is	Mono 0, 4251	CPU 0, 2616 
+the time taken for string with 1024 bytes is	Mono 0, 6158	CPU 0, 2793 
+the time taken for string with 4096 bytes is	Mono 0, 13884	CPU 0, 3279 
+the time taken for string with 16384 bytes is	Mono 0, 54650	CPU 0, 15065 
+the time taken for string with 65536 bytes is	Mono 0, 172243	CPU 0, 17023 
+the time taken for string with 262144 bytes is	Mono 0, 699453	CPU 0, 69666 
+the time taken for string with 524288 bytes is	Mono 0, 1422296	CPU 0, 138911 
+
+starting iteration 198
+
+the time taken for string with 1 bytes is	Mono 0, 3941	CPU 0, 2757 
+the time taken for string with 2 bytes is	Mono 0, 3765	CPU 0, 2670 
+the time taken for string with 4 bytes is	Mono 0, 3726	CPU 0, 2647 
+the time taken for string with 16 bytes is	Mono 0, 3767	CPU 0, 2644 
+the time taken for string with 64 bytes is	Mono 0, 3881	CPU 0, 2711 
+the time taken for string with 256 bytes is	Mono 0, 4343	CPU 0, 2684 
+the time taken for string with 1024 bytes is	Mono 0, 6254	CPU 0, 2812 
+the time taken for string with 4096 bytes is	Mono 0, 14022	CPU 0, 3367 
+the time taken for string with 16384 bytes is	Mono 0, 45536	CPU 0, 6150 
+the time taken for string with 65536 bytes is	Mono 0, 172223	CPU 0, 16995 
+the time taken for string with 262144 bytes is	Mono 0, 698133	CPU 0, 70079 
+the time taken for string with 524288 bytes is	Mono 0, 1399749	CPU 0, 138641 
+
+starting iteration 199
+
+the time taken for string with 1 bytes is	Mono 0, 4317	CPU 0, 2684 
+the time taken for string with 2 bytes is	Mono 0, 12651	CPU 0, 2533 
+the time taken for string with 4 bytes is	Mono 0, 3686	CPU 0, 2599 
+the time taken for string with 16 bytes is	Mono 0, 3817	CPU 0, 2626 
+the time taken for string with 64 bytes is	Mono 0, 3803	CPU 0, 2584 
+the time taken for string with 256 bytes is	Mono 0, 4195	CPU 0, 2633 
+the time taken for string with 1024 bytes is	Mono 0, 6223	CPU 0, 2801 
+the time taken for string with 4096 bytes is	Mono 0, 13820	CPU 0, 3278 
+the time taken for string with 16384 bytes is	Mono 0, 45709	CPU 0, 6064 
+the time taken for string with 65536 bytes is	Mono 0, 172174	CPU 0, 16806 
+the time taken for string with 262144 bytes is	Mono 0, 747249	CPU 0, 119008 
+the time taken for string with 524288 bytes is	Mono 0, 1452081	CPU 0, 171584 

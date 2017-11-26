@@ -1,0 +1,12 @@
+the through taken for string with 1 bytes is	Mono 0, 104231	CPU 0, 77000 
+the through taken for string with 2 bytes is	Mono 0, 99861	CPU 0, 89532 
+the through taken for string with 4 bytes is	Mono 0, 79857	CPU 0, 66407 
+the through taken for string with 16 bytes is	Mono 0, 100083	CPU 0, 83014 
+the through taken for string with 64 bytes is	Mono 0, 100890	CPU 0, 84719 
+the through taken for string with 256 bytes is	Mono 0, 112655	CPU 0, 97619 
+the through taken for string with 1024 bytes is	Mono 0, 151390	CPU 0, 138049 
+the through taken for string with 4096 bytes is	Mono 0, 300844	CPU 0, 271232 
+the through taken for string with 16384 bytes is	Mono 0, 730535	CPU 0, 727206 
+the through taken for string with 65536 bytes is	Mono 0, 3223651	CPU 0, 1973203 
+the through taken for string with 262144 bytes is	Mono 0, 14153185	CPU 0, 6919112 
+the through taken for string with 524288 bytes is	Mono 0, 28394462	CPU 0, 13975978 
